@@ -1,14 +1,49 @@
 <html>
   <head>
     <title>Simple Polylines</title>
-
     <link rel="stylesheet" type="text/css" href="/static/styles/style.css"/>
-    <script type="module" src="static/js/index.js"></script>
   </head>
   <body>
+    
     <div id="map"></div>
+    
+    <script>
+  const coords = {{ coords | tojson }};  // Convierto el objeto a JSON válido
 
-    <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB6_TpIzJe9f4snb57IiVnaEqwN1KYgst4&callback=initMap&v=weekly" defer></script>
-  </body>
+      window.initMap = function () {
+    const map = new google.maps.Map(document.getElementById("map"), {
+      center: { lat: 20.291, lng: 153.027 },
+      zoom: 6,
+      mapTypeId: "terrain",
+    });
+
+    const line = new google.maps.Polyline({
+      path: [
+      { lat: 19.4037031532808, lng: -99.1692699611328 },
+      { lat: 19.4229921001133, lng: -99.163152275508 },
+    ],      map: map,
+    });
+
+    animateCircle(line);
+  };
+
+  function animateCircle(line) {
+    let count = 0;
+    window.setInterval(() => {
+      count = (count + 1) % 200;
+      const icons = line.get("icons") || [];
+      icons[0] = icons[0] || { offset: "100%" };
+      icons[0].offset = count / 2 + "%";
+      line.set("icons", icons);
+    }, 20);
+  }
+
+
+  </script>  
+  <script
+      src="https://maps.googleapis.com/maps/api/js?key={{ MAPS_API_KEY }}&callback=initMap&v=weekly"
+      defer
+  >
+  </script>  
+</body>
 </html>
