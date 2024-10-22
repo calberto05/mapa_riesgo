@@ -1,19 +1,58 @@
-/* 
- * Always set the map height explicitly to define the size of the div element
- * that contains the map. 
- */
-
 #map {
     height: 100%;
 }
 
-  html,
+html,
 body {
     height: 100%;
     margin: 0;
     padding: 0;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .hide{
   display: none;
+}
+
+h1{
+  padding: 1rem;
+  text-align: center;
+}
+
+.controler{
+  position: fixed;
+  top: 150px;
+  z-index: 100;
+  left: 20px;
+  background-color: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  width: 350px;
+}
+
+.controler form div{
+  margin-bottom: 10px;
+}
+
+.controler form div select{
+  min-width: 40%;
+  max-width: 60%;
+  padding: 0.5rem;
+}
+
+.hora-input{
+  max-width: 20%;
+  padding: 0.5rem;
+}
+
+.submit{
+  text-align: center;
+  padding: 0.5rem;
+  background-color: #393;
+  color: white;
+  width: 100%;
+}
+
+.submit:hover{
+  background-color: #555;
 }

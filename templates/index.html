@@ -4,7 +4,28 @@
     <link rel="stylesheet" type="text/css" href="/static/styles/style.css"/>
   </head>
   <body>
-    
+    <h1>Trafico en la condesa el día: {{fecha}} a las {{hora}}</h1>
+    <div class="controler">
+      <form action="/" method="POST">
+        <div class="date">
+          <label for="date">Escoge el día:</label>
+          <select name="date" id="date">
+            {% for date in dias %}
+              <option value="{{ date }}">{{ date }}</option>
+            {% endfor %}
+          </select>
+        </div>
+        <div class="hour">
+          <label for="hour">Selecciona la hora (24hrs):</label>
+          <!--Limitar input a un numero del 1 al 24-->
+          <input type="number" name="hour" id="hour" min="0" max="23" required>
+        </select>
+        </div>
+      
+        <input type="submit" value="Submit" class="submit">
+      </form>
+      
+    </div>
     <div id="map"></div>
     
     <script>
@@ -47,7 +68,7 @@
             icons[0].offset = count + "%";
             line.set("icons", icons); 
         }, 20); 
-    }
+    } 
 
     window.initMap = initMap;
 
