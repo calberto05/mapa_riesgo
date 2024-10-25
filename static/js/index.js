@@ -1,45 +1,41 @@
-// This example adds an animated symbol to a polyline.
+const coords = {{ coords | tojson }};  // Convertir coordenadas a JSON válido
+const velocidades = {{ velocidades | tojson }};  // Convertir velocidades a JSON válido
+
 function initMap() {
   const map = new google.maps.Map(document.getElementById("map"), {
-    center: { lat: 20.291, lng: 153.027 },
-    zoom: 6,
-    mapTypeId: "terrain",
+      center: { lat: coords[0][0].lat, lng: coords[0][0].lng },
+      zoom: 14,
+      mapTypeId: "terrain",
   });
 
   const lineSymbol = {
-    path: google.maps.SymbolPath.CIRCLE,
-    scale: 8,
-    strokeColor: "#393",
+      path: google.maps.SymbolPath.CIRCLE,
+      scale: 4,
+      strokeColor: "#393",
   };
 
+coords.forEach((lineCoords, index) => {
   const line = new google.maps.Polyline({
-    path: [
-      { lat: 19.4037031532808, lng: -99.1692699611328 },
-      { lat: 19.4229921001133, lng: -99.163152275508 },
-    ],
-    icons: [
-      {
-        icon: lineSymbol,
-        offset: "100%",
-      },
-    ],
-    map: map,
+      path: lineCoords,
+      icons: [{ icon: lineSymbol, offset: "0%" }],
+      map: map,
   });
 
-  animateCircle(line);
+  animateCircle(line, velocidades[index]); 
+});
+
 }
 
-function animateCircle(line) {
+function animateCircle(line, velocidad) {
   let count = 0;
 
   window.setInterval(() => {
-    count = (count + 1) % 200;
+      count = (count + velocidad) % 100;
 
-    const icons = line.get("icons");
+      const icons = line.get("icons");
+      icons[0].offset = count + "%";
+      line.set("icons", icons); 
+  }, 20); 
+} 
 
-    icons[0].offset = count / 2 + "%";
-    line.set("icons", icons);
-  }, 20);
-}
-
-export { initMap };
+window.initMap = initMap;
