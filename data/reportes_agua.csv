@@ -1,0 +1,1000 @@
+folio_incidente,fecha_registro_incidente,id_reporte,fecha_reporte,hora_reporte,clasificacion,reporte,medio_recepcion,alcaldia_catalogo,colonia_catalogo,longitud,latitud
+I-20220101-0001,02/01/2022,R-20220101-0105,01/01/2022,18:33:08,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Cuadrante De San Francisco,-99.16827325,19.34179957
+I-20220101-0002,02/01/2022,R-20220101-0106,01/01/2022,18:36:38,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Xochimilco,San Lorenzo La Cebada,-99.1156446,19.2861811
+I-20220101-0003,02/01/2022,R-20220101-0103,01/01/2022,18:12:39,Agua Potable,Fuga,Ciudadano (Call Center),Tlahuac,Barrio Santiago Norte Del Pueblo Santiago Zapotitlan,-99.0302869,19.3005139
+I-20220101-0004,02/01/2022,R-20220101-0108,01/01/2022,19:01:39,Agua Potable,Fuga,Ciudadano (Call Center),Tlalnepantla de Baz,Tlalnepantla,-99.15497,19.5438901
+I-20220101-0005,02/01/2022,R-20220101-0110,01/01/2022,19:06:23,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17515038,19.36850264
+I-20220101-0006,02/01/2022,R-20220101-0111,01/01/2022,19:10:41,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Florida,-99.1799217,19.3607533
+I-20220101-0007,02/01/2022,R-20220101-0107,01/01/2022,18:48:14,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Asturias,-99.12813664,19.40507814
+I-20220101-0008,02/01/2022,R-20220101-0104,01/01/2022,18:13:24,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo 4a Seccion,-99.20703644,19.27389865
+I-20220101-0009,02/01/2022,R-20220101-0112,01/01/2022,19:13:08,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Barrio El Capulin,-99.19231618,19.28256756
+I-20220101-0010,02/01/2022,R-20220101-0102,01/01/2022,18:11:18,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Residencial Zacatenco,-99.1256996,19.5003422
+I-20220101-0011,02/01/2022,R-20220101-0101,01/01/2022,18:05:26,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo 2a Seccion,-99.19556727,19.2797016
+I-20220101-0011,02/01/2022,R-20220101-0046,01/01/2022,12:32:11,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo 2a Seccion,-99.19556727,19.2797016
+I-20220101-0012,02/01/2022,R-20220101-0100,01/01/2022,17:59:59,Agua Potable,Falta de tapa en valvula,Ciudadano (Call Center),Cuajimalpa de Morelos,Santa Fe Cuajimalpa,-99.2651715,19.3591989
+I-20220101-0013,02/01/2022,R-20220101-0099,01/01/2022,17:58:37,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Ampliacion Fuentes Del Pedregal,-99.2075514,19.3047887
+I-20220101-0014,02/01/2022,R-20220101-0098,01/01/2022,17:55:50,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Bellavista,-99.19216635,19.39639549
+I-20220101-0015,02/01/2022,R-20220101-0097,01/01/2022,17:54:49,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Chalma De Guadalupe,-99.1468336,19.5499238
+I-20220101-0016,02/01/2022,R-20220101-0115,01/01/2022,19:32:04,Drenaje,Brote en aguas negras,Ciudadano (Call Center),Tlahuac,Granjas Cabrera,-99.06372067,19.30450109
+I-20220101-0017,02/01/2022,R-20220101-0113,01/01/2022,19:18:00,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Reforma Social,-99.21572687,19.43120424
+I-20220101-0018,02/01/2022,R-20220101-0116,01/01/2022,19:40:06,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Iztacalco,Agricola Oriental,-99.0750347,19.3919707
+I-20220101-0019,02/01/2022,R-20220101-0114,01/01/2022,19:28:03,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Lomas De Chapultepec Vi Seccion,-99.2122158,19.420738
+I-20220101-0020,02/01/2022,R-20220101-0119,01/01/2022,19:51:38,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1747443,19.3698575
+I-20220101-0021,02/01/2022,R-20220101-0067,01/01/2022,14:04:01,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Chalma De Guadalupe,-99.15106416,19.55226834
+I-20220101-0021,02/01/2022,R-20220101-0025,01/01/2022,11:04:13,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Chalma De Guadalupe,-99.15106416,19.55226834
+I-20220101-0021,02/01/2022,R-20220101-0072,01/01/2022,14:25:55,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Chalma De Guadalupe,-99.15106416,19.55226834
+I-20220101-0021,02/01/2022,R-20220101-0117,01/01/2022,19:48:23,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Chalma De Guadalupe,-99.15106416,19.55226834
+I-20220101-0022,02/01/2022,R-20220101-0109,01/01/2022,19:05:18,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pedregal De San Nicolas 4a Seccion,-99.23216343,19.27752425
+I-20220101-0023,02/01/2022,R-20220101-0096,01/01/2022,17:47:27,Drenaje,Brote en aguas negras,Ciudadano (Call Center),Tlahuac,Granjas Cabrera,-99.06435371,19.30273923
+I-20220101-0024,02/01/2022,R-20220101-0118,01/01/2022,19:48:26,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.1814637,19.381935
+I-20220101-0025,02/01/2022,R-20220101-0095,01/01/2022,17:43:07,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Bellavista,-99.1918793,19.3967088
+I-20220101-0026,02/01/2022,R-20220101-0120,01/01/2022,19:56:15,Agua Potable,Falta de agua,Ciudadano (Call Center),Venustiano Carranza,Magdalena Mixiuhca,-99.121474,19.4096391
+I-20220101-0027,02/01/2022,R-20220101-0094,01/01/2022,17:35:34,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Torres De Potrero,-99.25656069,19.32782883
+I-20220101-0028,02/01/2022,R-20220101-0093,01/01/2022,17:25:07,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Magdalena De Las Salinas,-99.1453809,19.4796171
+I-20220101-0029,02/01/2022,R-20220101-0092,01/01/2022,17:14:59,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Romero De Terreros,-99.1750924,19.3362337
+I-20220101-0030,02/01/2022,R-20220101-0091,01/01/2022,17:03:09,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Lomas De Chapultepec Iii Seccion,-99.21545866,19.43133071
+I-20220101-0031,02/01/2022,R-20220101-0090,01/01/2022,16:49:40,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Pueblo San Andres Totoltepec,-99.1698416,19.2523663
+I-20220101-0032,02/01/2022,R-20220101-0089,01/01/2022,16:43:58,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlahuac,Miguel Hidalgo,-99.0485585,19.2970564
+I-20220101-0033,02/01/2022,R-20220101-0088,01/01/2022,16:42:29,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Lomas De Chapultepec V Seccion,-99.21212204,19.42086358
+I-20220101-0034,02/01/2022,R-20220101-0087,01/01/2022,16:33:32,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.1815341,19.3810086
+I-20220101-0035,02/01/2022,R-20220101-0086,01/01/2022,16:24:12,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,Felipe Angeles,-99.1100811,19.4518386
+I-20220101-0036,02/01/2022,R-20220101-0085,01/01/2022,16:17:55,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Pueblo San Miguel Topilejo,-99.14681018,19.18994045
+I-20220101-0037,02/01/2022,R-20220101-0084,01/01/2022,16:10:51,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Jardines Del Ajusco,-99.2153305,19.2815383
+I-20220101-0038,02/01/2022,R-20220101-0121,01/01/2022,20:09:18,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Guadalupe Del Moral,-99.07816201,19.36686293
+I-20220101-0039,02/01/2022,R-20220101-0123,01/01/2022,20:11:08,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pedregal De San Nicolas 1a Seccion,-99.23338649,19.29117525
+I-20220101-0040,02/01/2022,R-20220101-0122,01/01/2022,20:11:04,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pedregal De San Nicolas 1a Seccion,-99.2334938,19.29202587
+I-20220101-0040,02/01/2022,R-20220101-0126,01/01/2022,20:20:15,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pedregal De San Nicolas 1a Seccion,-99.2334938,19.29202587
+I-20220101-0040,02/01/2022,R-20220101-0129,01/01/2022,20:36:50,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pedregal De San Nicolas 1a Seccion,-99.2334938,19.29202587
+I-20220101-0041,02/01/2022,R-20220101-0124,01/01/2022,20:13:09,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Azcapotzalco,Ampliacion San Pedro Xalpa,-99.2138607,19.4776057
+I-20220101-0042,02/01/2022,R-20220101-0083,01/01/2022,16:05:58,Agua Potable,Fuga,Ciudadano (Call Center),Cuajimalpa de Morelos,Bosques De Las Lomas,-99.2577219,19.3841539
+I-20220101-0043,02/01/2022,R-20220101-0082,01/01/2022,15:51:37,Agua Potable,Falta de agua,Ciudadano (Call Center),Miguel Hidalgo,Tacuba,-99.1880665,19.4546537
+I-20220101-0044,02/01/2022,R-20220101-0081,01/01/2022,15:44:18,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Irrigacion,-99.2136991,19.44439723
+I-20220101-0045,02/01/2022,R-20220101-0080,01/01/2022,15:33:13,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1744102,19.3694547
+I-20220101-0046,02/01/2022,R-20220101-0079,01/01/2022,15:27:48,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Palmitas,-99.02874472,19.33345776
+I-20220101-0047,02/01/2022,R-20220101-0078,01/01/2022,15:17:35,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,Pensador Mexicano,-99.07903124,19.44284803
+I-20220101-0048,02/01/2022,R-20220101-0077,01/01/2022,14:44:36,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo 3a Seccion,-99.2052254,19.2846375
+I-20220101-0049,02/01/2022,R-20220101-0075,01/01/2022,14:36:59,Agua Potable,Fuga,Ciudadano (Call Center),Azcapotzalco,Pueblo San Juan Tlihuaca,-99.2035909,19.4899372
+I-20220101-0050,02/01/2022,R-20220101-0125,01/01/2022,20:16:26,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Ejidos De San Pedro Martir,-99.15944332,19.26754858
+I-20220101-0051,02/01/2022,R-20220101-0073,01/01/2022,14:28:01,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Letran Valle,-99.15224427,19.37332047
+I-20220101-0052,02/01/2022,R-20220101-0071,01/01/2022,14:20:15,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1749056,19.3702557
+I-20220101-0053,02/01/2022,R-20220101-0070,01/01/2022,14:17:07,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Lomas De Cuautepec,-99.13268568,19.56824163
+I-20220101-0054,02/01/2022,R-20220101-0069,01/01/2022,14:12:20,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Guadalupe Tepeyac,-99.1171316,19.4681678
+I-20220101-0055,02/01/2022,R-20220101-0068,01/01/2022,14:08:27,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Viaducto Piedad,-99.13397312,19.40035233
+I-20220101-0056,02/01/2022,R-20220101-0066,01/01/2022,13:55:44,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Popular Santa Teresa,-99.2245086,19.3003304
+I-20220101-0057,02/01/2022,R-20220101-0065,01/01/2022,13:52:08,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo,-99.18568619,19.28632968
+I-20220101-0058,02/01/2022,R-20220101-0064,01/01/2022,13:49:19,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1734704,19.3716225
+I-20220101-0059,02/01/2022,R-20220101-0063,01/01/2022,13:38:51,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,C T M Atzacoalco,-99.09342882,19.50620993
+I-20220101-0060,02/01/2022,R-20220101-0127,01/01/2022,20:22:10,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Los Picos De Iztacalco Seccion 1 B,-99.1109606,19.388579
+I-20220101-0061,02/01/2022,R-20220101-0062,01/01/2022,13:34:30,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,Pensador Mexicano,-99.0789001,19.4430377
+I-20220101-0062,02/01/2022,R-20220101-0061,01/01/2022,13:31:44,Agua Potable,Fuga,Ciudadano (Call Center),Cuajimalpa de Morelos,Bosques De Las Lomas,-99.255038,19.3873
+I-20220101-0063,02/01/2022,R-20220101-0060,01/01/2022,13:31:19,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pueblo Ocotla,-99.1561676,19.2121395
+I-20220101-0063,02/01/2022,R-20220101-0008,01/01/2022,09:13:37,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pueblo Ocotla,-99.1561676,19.2121395
+I-20220101-0064,02/01/2022,R-20220101-0059,01/01/2022,13:28:49,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Lomas De Chapultepec Iii Seccion,-99.21481485,19.43185683
+I-20220101-0065,02/01/2022,R-20220101-0128,01/01/2022,20:31:08,Agua Potable,Fuga,Ciudadano (Call Center),Tlahuac,Barrio Santiago Norte Del Pueblo Santiago Zapotitlan,-99.03054728,19.30009639
+I-20220101-0066,02/01/2022,R-20220101-0058,01/01/2022,13:25:08,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Jalalpa El Grande,-99.2395949,19.3719231
+I-20220101-0067,02/01/2022,R-20220101-0057,01/01/2022,13:19:50,Agua Potable,Mala calidad,Ciudadano (Call Center),Xochimilco,Pueblo Santa Maria Tepepan,-99.131178,19.2714979
+I-20220101-0068,02/01/2022,R-20220101-0056,01/01/2022,13:17:33,Agua Potable,Fuga,Ciudadano (Call Center),Cuajimalpa de Morelos,Campestre Palo Alto,-99.2572515,19.3794298
+I-20220101-0069,02/01/2022,R-20220101-0131,01/01/2022,20:38:51,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,7 De Julio,-99.1125017,19.4325959
+I-20220101-0070,02/01/2022,R-20220101-0055,01/01/2022,13:13:04,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Panamericana,-99.1447952,19.4775916
+I-20220101-0071,02/01/2022,R-20220101-0054,01/01/2022,13:10:24,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1752623,19.3682967
+I-20220101-0072,02/01/2022,R-20220101-0130,01/01/2022,20:37:52,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pedregal De San Nicolas 4a Seccion,-99.2324926,19.2821602
+I-20220101-0073,02/01/2022,R-20220101-0053,01/01/2022,13:02:22,Agua Potable,Fuga,Ciudadano (Call Center),Tlahuac,La Habana,-98.9983295,19.2682481
+I-20220101-0074,02/01/2022,R-20220101-0052,01/01/2022,12:55:34,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlahuac,Barrio Guadalupe Sta Catarina Yec,-98.9711099,19.3088025
+I-20220101-0075,02/01/2022,R-20220101-0051,01/01/2022,12:53:00,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1757376,19.3714512
+I-20220101-0076,02/01/2022,R-20220101-0050,01/01/2022,12:47:03,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Ampl. Asturias,-99.12727837,19.40632281
+I-20220101-0077,02/01/2022,R-20220101-0049,01/01/2022,12:42:39,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztapalapa,Jacarandas,-99.0509319,19.3480108
+I-20220101-0078,02/01/2022,R-20220101-0048,01/01/2022,12:41:49,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Lomas De Chapultepec Vi Seccion,-99.21222925,19.4207624
+I-20220101-0078,02/01/2022,R-20220101-0027,01/01/2022,11:16:06,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Lomas De Chapultepec Vi Seccion,-99.21222925,19.4207624
+I-20220101-0079,02/01/2022,R-20220101-0007,01/01/2022,09:12:40,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Alianza Popular Revolucionaria,-99.123781,19.31691461
+I-20220101-0079,02/01/2022,R-20220101-0047,01/01/2022,12:36:19,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Alianza Popular Revolucionaria,-99.123781,19.31691461
+I-20220101-0080,02/01/2022,R-20220101-0045,01/01/2022,12:28:21,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Xotepingo,-99.14106488,19.3302991
+I-20220101-0081,02/01/2022,R-20220101-0044,01/01/2022,12:24:00,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Lomas De Cuautepec,-99.1345503,19.569179
+I-20220101-0082,02/01/2022,R-20220101-0043,01/01/2022,12:20:04,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,San Angel,-99.1922607,19.3482623
+I-20220101-0083,02/01/2022,R-20220101-0042,01/01/2022,12:13:18,Agua Potable,Mal uso,Ciudadano (Call Center),Iztapalapa,Pueblo San Lorenzo Tezonco,-99.0671198,19.3130597
+I-20220101-0084,02/01/2022,R-20220101-0041,01/01/2022,12:10:06,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Reforma Social,-99.2136024,19.43308613
+I-20220101-0085,02/01/2022,R-20220101-0040,01/01/2022,12:06:45,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Estrella Culhuacan,-99.1055292,19.3336247
+I-20220101-0086,02/01/2022,R-20220101-0039,01/01/2022,12:02:45,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,San Diego Churubusco,-99.14922955,19.35156826
+I-20220101-0087,02/01/2022,R-20220101-0038,01/01/2022,11:59:32,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,San Andres Tetepilco,-99.1274687,19.3707779
+I-20220101-0088,02/01/2022,R-20220101-0037,01/01/2022,11:52:02,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Felipe Pescador,-99.1282758,19.4527466
+I-20220101-0089,02/01/2022,R-20220101-0036,01/01/2022,11:40:17,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Pueblo San Andres Totoltepec,-99.1680082,19.2518669
+I-20220101-0090,02/01/2022,R-20220101-0035,01/01/2022,11:37:41,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Ejidos De San Pedro Martir,-99.1559224,19.2699475
+I-20220101-0091,02/01/2022,R-20220101-0034,01/01/2022,11:35:31,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Cuauhtemoc,-99.16527987,19.42863431
+I-20220101-0092,02/01/2022,R-20220101-0020,01/01/2022,10:38:11,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Magdalena De Las Salinas,-99.1449549,19.4795111
+I-20220101-0092,02/01/2022,R-20220101-0132,01/01/2022,20:45:44,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Magdalena De Las Salinas,-99.1449549,19.4795111
+I-20220101-0093,02/01/2022,R-20220101-0033,01/01/2022,11:32:23,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Alfonso Xiii,-99.1952687,19.374569
+I-20220101-0094,02/01/2022,R-20220101-0032,01/01/2022,11:30:49,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Victoria,-99.19958533,19.38672057
+I-20220101-0095,02/01/2022,R-20220101-0031,01/01/2022,11:29:45,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.1826156,19.3813223
+I-20220101-0096,02/01/2022,R-20220101-0030,01/01/2022,11:26:00,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Ampliacion Progreso Nacional,-99.1616283,19.5149012
+I-20220101-0097,02/01/2022,R-20220101-0029,01/01/2022,11:23:37,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Progreso Nacional,-99.1594697,19.519112
+I-20220101-0098,02/01/2022,R-20220101-0028,01/01/2022,11:19:34,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Lomas De Chapultepec Vi Seccion,-99.21235809,19.42070169
+I-20220101-0099,02/01/2022,R-20220101-0024,01/01/2022,10:55:40,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Panamericana,-99.1436753,19.4791737
+I-20220101-0100,02/01/2022,R-20220101-0022,01/01/2022,10:41:06,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Consejo Agrarista Mexicano,-99.0553893,19.3250709
+I-20220101-0101,02/01/2022,R-20220101-0021,01/01/2022,10:39:29,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Chalma De Guadalupe,-99.1539178,19.5531946
+I-20220101-0102,02/01/2022,R-20220101-0004,01/01/2022,08:13:38,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Guadalupe Proletaria,-99.1556334,19.5210145
+I-20220101-0102,02/01/2022,R-20220101-0016,01/01/2022,10:15:40,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Guadalupe Proletaria,-99.1556334,19.5210145
+I-20220101-0102,02/01/2022,R-20220101-0019,01/01/2022,10:35:47,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Guadalupe Proletaria,-99.1556334,19.5210145
+I-20220101-0103,02/01/2022,R-20220101-0018,01/01/2022,10:28:31,Agua Potable,Mal uso,Ciudadano (Call Center),Cuauhtemoc,Santa Maria Insurgentes,-99.1492005,19.4615288
+I-20220101-0104,02/01/2022,R-20220101-0017,01/01/2022,10:20:18,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Pedregal De Santa Ursula,-99.1573927,19.3069104
+I-20220101-0105,02/01/2022,R-20220101-0015,01/01/2022,09:58:01,Agua Potable,Falta de agua,Ciudadano (Call Center),Venustiano Carranza,Puebla,-99.0798203,19.407939
+I-20220101-0106,02/01/2022,R-20220101-0014,01/01/2022,09:55:11,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Molino De Rosas,-99.20234777,19.37464636
+I-20220101-0107,02/01/2022,R-20220101-0013,01/01/2022,09:48:43,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pueblo Chimalcoyotl,-99.1612236,19.2733769
+I-20220101-0108,02/01/2022,R-20220101-0012,01/01/2022,09:44:56,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Barrio El Capulin,-99.188309,19.2825902
+I-20220101-0109,02/01/2022,R-20220101-0011,01/01/2022,09:41:41,Agua Potable,Fuga,Ciudadano (Call Center),Cuajimalpa de Morelos,Bosques De Las Lomas,-99.2585225,19.3846808
+I-20220101-0110,02/01/2022,R-20220101-0010,01/01/2022,09:20:40,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,San Juan,-99.1838244,19.3797328
+I-20220101-0111,02/01/2022,R-20220101-0009,01/01/2022,09:16:43,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Guadalupe Proletaria,-99.1569374,19.5206775
+I-20220101-0112,02/01/2022,R-20220101-0006,01/01/2022,08:42:26,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Pedregal De Santo Domingo,-99.1718392,19.3198264
+I-20220101-0113,02/01/2022,R-20220101-0005,01/01/2022,08:37:23,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Jardines Del Ajusco,-99.2166575,19.2829188
+I-20220101-0114,02/01/2022,R-20220101-0003,01/01/2022,01:37:33,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Napoles,-99.1776626,19.3912452
+I-20220101-0115,02/01/2022,R-20220101-0002,01/01/2022,01:08:03,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pueblo San Miguel Topilejo,-99.1386413,19.2019784
+I-20220101-0116,02/01/2022,R-20220101-0001,01/01/2022,00:39:29,Agua Potable,Fuga,Ciudadano (Call Center),Azcapotzalco,Arenal,-99.1509676,19.46510524
+I-20220102-0142,03/01/2022,R-20220101-0133,01/01/2022,22:17:46,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pedregal De San Nicolas 1a Seccion,-99.2335044,19.2926568
+I-20220102-0178,03/01/2022,R-20220101-0139,01/01/2022,23:58:22,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,El Mirador 3a Seccion,-99.1869658,19.2701531
+I-20220102-0179,03/01/2022,R-20220101-0138,01/01/2022,23:27:48,Agua Potable,Fuga,Ciudadano (Call Center),Cuajimalpa de Morelos,El Yaqui,-99.2828462,19.3602886
+I-20220102-0180,03/01/2022,R-20220101-0137,01/01/2022,23:22:16,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Chalma De Guadalupe,-99.1539178,19.5531946
+I-20220102-0181,03/01/2022,R-20220101-0136,01/01/2022,23:14:13,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Presidentes De Mexico,-99.0622371,19.3367035
+I-20220102-0182,03/01/2022,R-20220101-0135,01/01/2022,23:13:28,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Chalma De Guadalupe,-99.1539178,19.5531946
+I-20220102-0183,03/01/2022,R-20220101-0134,01/01/2022,22:31:54,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Forestal,-99.1302696,19.5636073
+I-20220102-0001,02/01/2022,R-20220102-0051,02/01/2022,11:28:43,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,Nicolas Bravo,-99.123074,19.4538461
+I-20220102-0002,02/01/2022,R-20220102-0049,02/01/2022,11:20:34,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Portales Norte,-99.1488213,19.3717563
+I-20220102-0003,02/01/2022,R-20220102-0047,02/01/2022,11:15:35,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,Pensador Mexicano,-99.078787,19.4423818
+I-20220102-0004,02/01/2022,R-20220102-0045,02/01/2022,11:12:37,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Pueblo De Los Reyes,-99.1536915,19.3305719
+I-20220102-0005,02/01/2022,R-20220102-0048,02/01/2022,11:19:09,Agua Potable,Fuga,Ciudadano (Call Center),Cuajimalpa de Morelos,Lomas De Vista Hermosa,-99.2739768,19.37776
+I-20220102-0006,02/01/2022,R-20220102-0046,02/01/2022,11:13:32,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.2284409,19.3718175
+I-20220102-0007,02/01/2022,R-20220102-0044,02/01/2022,11:11:16,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Chalma De Guadalupe,-99.1531674,19.553379
+I-20220102-0008,02/01/2022,R-20220102-0043,02/01/2022,11:09:30,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Josefa Ortiz De Dominguez,-99.1422147,19.3880599
+I-20220102-0009,02/01/2022,R-20220102-0042,02/01/2022,11:08:25,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,Nicolas Bravo,-99.1233282,19.4537407
+I-20220102-0010,02/01/2022,R-20220102-0041,02/01/2022,11:06:29,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0011,02/01/2022,R-20220102-0040,02/01/2022,11:05:48,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pedregal De San Nicolas 2a Seccion,-99.2338825,19.2909651
+I-20220102-0012,02/01/2022,R-20220102-0039,02/01/2022,11:03:13,Agua Potable,Fuga,Ciudadano (Call Center),Azcapotzalco,Pueblo San Juan Tlihuaca,-99.2035909,19.4899372
+I-20220102-0013,02/01/2022,R-20220102-0038,02/01/2022,11:00:02,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Campestre Churubusco,-99.1334549,19.3495919
+I-20220102-0014,02/01/2022,R-20220102-0037,02/01/2022,10:59:50,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Unidad Santa Cruz Meyehualco,-99.0406316,19.3451488
+I-20220102-0015,02/01/2022,R-20220102-0036,02/01/2022,10:55:14,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,Federal,-99.0871438,19.4226511
+I-20220102-0016,02/01/2022,R-20220102-0034,02/01/2022,10:51:31,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Pedregal De Santo Domingo,-99.167013,19.3233394
+I-20220102-0017,02/01/2022,R-20220102-0033,02/01/2022,10:51:10,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Jardines Tecma,-99.1169471,19.3878093
+I-20220102-0018,02/01/2022,R-20220102-0032,02/01/2022,10:48:33,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,San Angel Inn,-99.1975075,19.3489837
+I-20220102-0019,02/01/2022,R-20220102-0031,02/01/2022,10:45:56,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Florida,-99.1787953,19.3604558
+I-20220102-0020,02/01/2022,R-20220102-0030,02/01/2022,10:44:29,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Lomas De San Angel Inn,-99.2067884,19.3411507
+I-20220102-0021,02/01/2022,R-20220102-0029,02/01/2022,10:43:42,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pedregal De Santa Ursula Xitla,-99.1819891,19.2722964
+I-20220102-0022,02/01/2022,R-20220102-0028,02/01/2022,10:42:56,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2195719,19.3768348
+I-20220102-0023,02/01/2022,R-20220102-0027,02/01/2022,10:37:35,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Cuauhtemoc,-99.1679601,19.4306805
+I-20220102-0024,02/01/2022,R-20220102-0025,02/01/2022,10:31:24,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Miguel Hidalgo,Lomas De Chapultepec V Seccion,-99.2111268,19.4212328
+I-20220102-0025,02/01/2022,R-20220102-0053,02/01/2022,13:51:42,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Benito Juarez,Del Valle Norte,-99.162143,19.401131
+I-20220102-0026,02/01/2022,R-20220102-0058,02/01/2022,13:58:44,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Miguel Hidalgo,Tlaxpana,-99.1679286,19.4401173
+I-20220102-0027,02/01/2022,R-20220102-0059,02/01/2022,14:00:37,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Aragon La Villa,-99.1147274,19.4785223
+I-20220102-0028,02/01/2022,R-20220102-0060,02/01/2022,14:02:57,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Cuauhtemoc,Peralvillo,-99.1326108,19.4591374
+I-20220102-0029,02/01/2022,R-20220102-0062,02/01/2022,14:05:43,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Venustiano Carranza,5to Tramo 20 De Noviembre,-99.1094928,19.4501047
+I-20220102-0030,02/01/2022,R-20220102-0063,02/01/2022,14:08:13,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Benito Juarez,Portales Norte,-99.14561329,19.37121709
+I-20220102-0031,02/01/2022,R-20220102-0065,02/01/2022,14:11:00,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Agricola Oriental,-99.0750347,19.3919707
+I-20220102-0032,02/01/2022,R-20220102-0066,02/01/2022,14:13:58,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Guadalupe Proletaria,-99.1556334,19.5210145
+I-20220102-0033,02/01/2022,R-20220102-0064,02/01/2022,14:08:24,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Lomas De La Era,-99.2591238,19.3274802
+I-20220102-0034,02/01/2022,R-20220102-0071,02/01/2022,14:25:43,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,Jardin Balbuena,-99.0986612,19.4155408
+I-20220102-0035,02/01/2022,R-20220102-0075,02/01/2022,14:31:39,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Tlalpan,Miguel Hidalgo 2a Seccion,-99.1989823,19.2846519
+I-20220102-0036,02/01/2022,R-20220102-0079,02/01/2022,14:35:49,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Alvaro Obregon,Jardines Del Pedregal,-99.2166263,19.3151124
+I-20220102-0037,02/01/2022,R-20220102-0082,02/01/2022,14:43:53,Agua Potable,Fuga,Ciudadano (Call Center),Azcapotzalco,Pueblo Santa Maria Malinalco,-99.180489,19.4773066
+I-20220102-0038,02/01/2022,R-20220102-0083,02/01/2022,14:47:41,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Iztapalapa,Barrio San Antonio Culhuacan,-99.1090397,19.338834
+I-20220102-0039,02/01/2022,R-20220102-0085,02/01/2022,14:55:31,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Reforma Social,-99.2190648,19.4295612
+I-20220102-0040,02/01/2022,R-20220102-0086,02/01/2022,14:56:09,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Paseos De Taxquenia,-99.12463793,19.34362176
+I-20220102-0041,02/01/2022,R-20220102-0087,02/01/2022,14:58:09,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pueblo Ocotla,-99.1561676,19.2121395
+I-20220102-0042,02/01/2022,R-20220102-0090,02/01/2022,15:05:29,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Narciso Mendoza,-99.1280414,19.2910357
+I-20220102-0043,02/01/2022,R-20220102-0091,02/01/2022,15:05:39,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Agricola Pantitlan,-99.0704042,19.4079721
+I-20220102-0044,02/01/2022,R-20220102-0092,02/01/2022,15:09:07,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Ampliacion Gabriel Hernandez,-99.1041549,19.5057967
+I-20220102-0045,02/01/2022,R-20220102-0097,02/01/2022,15:20:17,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0046,02/01/2022,R-20220102-0099,02/01/2022,15:24:00,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Palmitas,-99.02918248,19.33350838
+I-20220102-0047,02/01/2022,R-20220102-0103,02/01/2022,15:30:17,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,El Retonio,-99.1251912,19.3704439
+I-20220102-0048,02/01/2022,R-20220102-0104,02/01/2022,15:32:20,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,C T M Atzacoalco,-99.1002032,19.5068847
+I-20220102-0049,02/01/2022,R-20220102-0107,02/01/2022,15:38:38,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Castillo Grande,-99.13953066,19.53807303
+I-20220102-0050,02/01/2022,R-20220102-0108,02/01/2022,15:44:03,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0051,02/01/2022,R-20220102-0109,02/01/2022,15:46:08,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Pueblo De Santiago Atzacoalco,-99.0992066,19.4939769
+I-20220102-0052,02/01/2022,R-20220102-0106,02/01/2022,15:34:46,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Gabriel Hernandez,-99.0984118,19.5014256
+I-20220102-0053,02/01/2022,R-20220102-0105,02/01/2022,15:32:54,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Roma Sur,-99.162753,19.4077077
+I-20220102-0054,02/01/2022,R-20220102-0110,02/01/2022,15:54:16,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Guadalupe Proletaria,-99.1549794,19.5207864
+I-20220102-0055,02/01/2022,R-20220102-0112,02/01/2022,15:57:59,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Ex Hipodromo De Peralvillo,-99.133862,19.4559953
+I-20220102-0056,02/01/2022,R-20220102-0102,02/01/2022,15:28:23,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.1841513,19.3809912
+I-20220102-0057,02/01/2022,R-20220102-0115,02/01/2022,16:01:44,Agua Potable,Fuga,Ciudadano (Call Center),Cuajimalpa de Morelos,Bosques De Las Lomas,-99.2577219,19.3841539
+I-20220102-0058,02/01/2022,R-20220102-0116,02/01/2022,16:04:46,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Residencial Zacatenco,-99.1239874,19.5008463
+I-20220102-0059,02/01/2022,R-20220102-0113,02/01/2022,15:59:35,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Culhuacan Ctm Seccion Viii,-99.1066056,19.3162386
+I-20220102-0060,02/01/2022,R-20220102-0118,02/01/2022,16:12:03,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Palmitas,-99.0284953,19.3336268
+I-20220102-0061,02/01/2022,R-20220102-0117,02/01/2022,16:07:48,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0062,02/01/2022,R-20220102-0088,02/01/2022,15:00:56,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo 3a Seccion,-99.203271,19.2820625
+I-20220102-0063,02/01/2022,R-20220102-0121,02/01/2022,16:19:52,Agua Potable,Falta de agua,Ciudadano (Call Center),Azcapotzalco,Aguilera,-99.1532933,19.4730754
+I-20220102-0064,02/01/2022,R-20220102-0122,02/01/2022,16:22:25,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Tlalmille,-99.1856038,19.2593446
+I-20220102-0065,02/01/2022,R-20220102-0123,02/01/2022,16:26:25,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Ex Hipodromo De Peralvillo,-99.133862,19.4559953
+I-20220102-0066,02/01/2022,R-20220102-0111,02/01/2022,15:54:26,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Residencial Zacatenco,-99.1237632,19.5009535
+I-20220102-0067,02/01/2022,R-20220102-0120,02/01/2022,16:15:10,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Culhuacan Ctm Seccion Viii,-99.1066056,19.3162386
+I-20220102-0068,02/01/2022,R-20220102-0124,02/01/2022,16:28:53,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0069,02/01/2022,R-20220102-0119,02/01/2022,16:13:37,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1746461,19.37007149
+I-20220102-0070,02/01/2022,R-20220102-0126,02/01/2022,16:32:45,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Bellavista,-99.1920224,19.3966535
+I-20220102-0071,02/01/2022,R-20220102-0114,02/01/2022,16:01:09,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,San Antonio Culhuacan,-99.109956,19.3343793
+I-20220102-0072,02/01/2022,R-20220102-0101,02/01/2022,15:28:06,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Vasco De Quiroga,-99.0981808,19.4927804
+I-20220102-0073,02/01/2022,R-20220102-0128,02/01/2022,17:02:56,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.22890991,19.37168782
+I-20220102-0074,02/01/2022,R-20220102-0129,02/01/2022,17:05:17,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,San Miguel Xicalco,-99.1642971,19.2352214
+I-20220102-0075,02/01/2022,R-20220102-0127,02/01/2022,16:43:39,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,7 De Julio,-99.1125017,19.4325959
+I-20220102-0076,02/01/2022,R-20220102-0100,02/01/2022,15:26:15,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Narvarte Oriente,-99.1488213,19.3885831
+I-20220102-0077,02/01/2022,R-20220102-0098,02/01/2022,15:22:32,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Obrera,-99.1365521,19.418866
+I-20220102-0078,02/01/2022,R-20220102-0078,02/01/2022,14:35:22,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Narciso Mendoza,-99.1280414,19.2910357
+I-20220102-0079,02/01/2022,R-20220102-0096,02/01/2022,15:18:51,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Alamos,-99.1382645,19.3977496
+I-20220102-0080,02/01/2022,R-20220102-0095,02/01/2022,15:16:06,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Ex Hipodromo De Peralvillo,-99.1331772,19.4577653
+I-20220102-0081,02/01/2022,R-20220102-0094,02/01/2022,15:13:15,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Pedregal De Santa Ursula,-99.1487602,19.3114935
+I-20220102-0082,02/01/2022,R-20220102-0089,02/01/2022,15:02:04,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Tlalmille,-99.1872801,19.2598051
+I-20220102-0083,02/01/2022,R-20220102-0081,02/01/2022,14:43:10,Agua Potable,Fuga,Ciudadano (Call Center),La Magdalena Contreras,San Jeronimo Lidice,-99.223741,19.3256248
+I-20220102-0084,02/01/2022,R-20220102-0080,02/01/2022,14:37:58,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Espartaco,-99.1360814,19.315682
+I-20220102-0085,02/01/2022,R-20220102-0084,02/01/2022,14:48:47,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Lomas De Plateros,-99.1957677,19.3669856
+I-20220102-0086,02/01/2022,R-20220102-0076,02/01/2022,14:34:47,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Gustavo A. Madero,La Pradera,-99.0658907,19.4760351
+I-20220102-0087,02/01/2022,R-20220102-0074,02/01/2022,14:28:54,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Cuauhtemoc,Santa Maria La Ribera,-99.1586724,19.4509109
+I-20220102-0088,02/01/2022,R-20220102-0073,02/01/2022,14:27:40,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Iztapalapa,Desarrollo Urbano Quetzalcoatl,-99.0427539,19.3270666
+I-20220102-0089,02/01/2022,R-20220102-0072,02/01/2022,14:27:02,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Narvarte Poniente,-99.15941,19.3927373
+I-20220102-0090,02/01/2022,R-20220102-0070,02/01/2022,14:23:35,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo 4a Seccion,-99.2098251,19.2743679
+I-20220102-0091,02/01/2022,R-20220102-0069,02/01/2022,14:19:06,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Portales Norte,-99.1458963,19.371392
+I-20220102-0092,02/01/2022,R-20220102-0068,02/01/2022,14:16:44,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Coyoacan,Barrio Santa Catarina,-99.1743289,19.3510403
+I-20220102-0093,02/01/2022,R-20220102-0067,02/01/2022,14:16:35,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pueblo Ocotla,-99.1561676,19.2121395
+I-20220102-0094,02/01/2022,R-20220102-0061,02/01/2022,14:04:20,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Ciudad Universitaria,-99.1859419,19.3370313
+I-20220102-0095,02/01/2022,R-20220102-0057,02/01/2022,13:57:23,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Iztapalapa,Tepalcates,-99.0542312,19.3952643
+I-20220102-0096,02/01/2022,R-20220102-0135,02/01/2022,17:39:05,Agua Potable,Falta de agua,Ciudadano (Call Center),Miguel Hidalgo,Tacuba,-99.1879043,19.4545123
+I-20220102-0097,02/01/2022,R-20220102-0134,02/01/2022,17:37:29,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Belem De Las Flores,-99.2176476,19.397095
+I-20220102-0098,02/01/2022,R-20220102-0133,02/01/2022,17:35:45,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Cuauhtemoc,Roma Norte,-99.1642694,19.4202688
+I-20220102-0099,02/01/2022,R-20220102-0132,02/01/2022,17:33:51,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.174721,19.3725383
+I-20220102-0100,02/01/2022,R-20220102-0131,02/01/2022,17:33:30,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Coyoacan,Romero De Terreros,-99.1756467,19.337202
+I-20220102-0101,03/01/2022,R-20220102-0136,02/01/2022,17:55:20,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pueblo Ocotla,-99.1561676,19.2121395
+I-20220102-0102,03/01/2022,R-20220102-0130,02/01/2022,17:31:22,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Gustavo A. Madero,Santa Rosa,-99.1672662,19.5218875
+I-20220102-0103,03/01/2022,R-20220102-0137,02/01/2022,17:59:18,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,Jardin Balbuena,-99.0997292,19.4202122
+I-20220102-0104,03/01/2022,R-20220102-0056,02/01/2022,13:55:21,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Residencial Zacatenco,-99.1263574,19.5017718
+I-20220102-0105,03/01/2022,R-20220102-0139,02/01/2022,18:10:18,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Peralvillo,-99.13344,19.46469
+I-20220102-0106,03/01/2022,R-20220102-0138,02/01/2022,18:01:42,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,San Rafael,-99.1637072,19.4413637
+I-20220102-0107,03/01/2022,R-20220102-0142,02/01/2022,18:17:05,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0108,03/01/2022,R-20220102-0141,02/01/2022,18:16:23,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Napoles,-99.1744831,19.3978907
+I-20220102-0109,03/01/2022,R-20220102-0147,02/01/2022,18:38:12,Agua Potable,Falta de agua,Ciudadano (Call Center),Miguel Hidalgo,Tacuba,-99.1882396,19.454737
+I-20220102-0110,03/01/2022,R-20220102-0146,02/01/2022,18:29:56,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.170663,19.3718717
+I-20220102-0111,03/01/2022,R-20220102-0145,02/01/2022,18:29:26,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Hermosillo,-99.126852,19.3443678
+I-20220102-0112,03/01/2022,R-20220102-0144,02/01/2022,18:25:13,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Reforma Social,-99.2107544,19.4333632
+I-20220102-0113,03/01/2022,R-20220102-0143,02/01/2022,18:20:49,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Napoles,-99.1744831,19.3978907
+I-20220102-0114,03/01/2022,R-20220102-0149,02/01/2022,18:50:11,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Pedregal De Santo Domingo,-99.167013,19.3233394
+I-20220102-0115,03/01/2022,R-20220102-0150,02/01/2022,19:02:15,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.183015,19.3815747
+I-20220102-0116,03/01/2022,R-20220102-0148,02/01/2022,18:48:33,Agua Potable,Fuga,Ciudadano (Call Center),Xochimilco,Pueblo Santa Maria Nativitas,-99.0925451,19.2469721
+I-20220102-0117,03/01/2022,R-20220102-0152,02/01/2022,19:06:46,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2195719,19.3768348
+I-20220102-0118,03/01/2022,R-20220102-0155,02/01/2022,19:33:45,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0119,03/01/2022,R-20220102-0156,02/01/2022,19:37:48,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Molino De Rosas,-99.1972388,19.3726646
+I-20220102-0120,03/01/2022,R-20220102-0154,02/01/2022,19:29:48,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0121,03/01/2022,R-20220102-0157,02/01/2022,19:45:48,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Benito Juarez,Vertiz Narvarte,-99.1579882,19.3795458
+I-20220102-0122,03/01/2022,R-20220102-0153,02/01/2022,19:18:46,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pedregal De San Nicolas 3a Seccion,-99.2335893,19.2847053
+I-20220102-0123,03/01/2022,R-20220102-0151,02/01/2022,19:05:57,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2195706,19.3768353
+I-20220102-0124,03/01/2022,R-20220102-0140,02/01/2022,18:15:06,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Zona Escolar,-99.144933,19.542228
+I-20220102-0125,03/01/2022,R-20220102-0158,02/01/2022,19:49:58,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2195719,19.3768348
+I-20220102-0126,03/01/2022,R-20220102-0055,02/01/2022,13:53:49,Agua Potable,Fuga,"C-5 (Proteccion Civil, Bomberos, Locatel)",Iztapalapa,Ejercito De Agua Prieta,-99.0381059,19.3685715
+I-20220102-0127,03/01/2022,R-20220102-0054,02/01/2022,13:52:03,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Pueblo Tizapan,-99.2034912,19.3349588
+I-20220102-0128,03/01/2022,R-20220102-0023,02/01/2022,10:18:56,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,Jardin Balbuena,-99.0997292,19.4202122
+I-20220102-0129,03/01/2022,R-20220102-0167,02/01/2022,20:37:49,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1726199,19.3695285
+I-20220102-0130,03/01/2022,R-20220102-0166,02/01/2022,20:36:30,Agua Potable,Falta de agua,Ciudadano (Call Center),Azcapotzalco,Centro De Azcapotzalco,-99.1886749,19.4846606
+I-20220102-0131,03/01/2022,R-20220102-0165,02/01/2022,20:33:27,Agua Potable,Fuga,Ciudadano (Call Center),Xochimilco,San Jeronimo,-99.093865,19.2490736
+I-20220102-0132,03/01/2022,R-20220102-0168,02/01/2022,20:53:00,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Culhuacan Ctm Seccion Viii,-99.1066056,19.3162386
+I-20220102-0133,03/01/2022,R-20220102-0164,02/01/2022,20:33:15,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Ejercito De Oriente Zona Penion,-99.0253035,19.3687627
+I-20220102-0134,03/01/2022,R-20220102-0162,02/01/2022,20:25:56,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0135,03/01/2022,R-20220102-0161,02/01/2022,20:16:14,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Pueblo San Juan De Aragon,-99.0881122,19.4690335
+I-20220102-0136,03/01/2022,R-20220102-0160,02/01/2022,20:05:25,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Roma Sur,-99.1616052,19.4078008
+I-20220102-0137,03/01/2022,R-20220102-0159,02/01/2022,20:01:30,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0138,03/01/2022,R-20220102-0022,02/01/2022,10:15:45,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Pedregal De Santo Domingo,-99.167013,19.3233394
+I-20220102-0139,03/01/2022,R-20220102-0169,02/01/2022,21:01:26,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,San Juan Tepeximilpa,-99.192328,19.2724666
+I-20220102-0140,03/01/2022,R-20220102-0021,02/01/2022,10:12:43,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Josefa Ortiz De Dominguez,-99.1423655,19.3874932
+I-20220102-0141,03/01/2022,R-20220102-0181,02/01/2022,22:21:02,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Ex Hipodromo De Peralvillo,-99.1333275,19.4576597
+I-20220102-0143,03/01/2022,R-20220102-0183,02/01/2022,22:28:56,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Pedregal De Santo Domingo,-99.167013,19.3233394
+I-20220102-0144,03/01/2022,R-20220102-0182,02/01/2022,22:24:03,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Ejercito De Oriente Zona Penion,-99.0262639,19.3677192
+I-20220102-0145,03/01/2022,R-20220102-0180,02/01/2022,22:18:44,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Pedregal De Santo Domingo,-99.167013,19.3233394
+I-20220102-0146,03/01/2022,R-20220102-0179,02/01/2022,22:07:21,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Vasco De Quiroga,-99.0937171,19.4901572
+I-20220102-0147,03/01/2022,R-20220102-0177,02/01/2022,21:51:47,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Copilco Universidad,-99.1761802,19.3360581
+I-20220102-0148,03/01/2022,R-20220102-0176,02/01/2022,21:48:05,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Ex Hipodromo De Peralvillo,-99.1331772,19.4577653
+I-20220102-0149,03/01/2022,R-20220102-0175,02/01/2022,21:29:57,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1749339,19.3705505
+I-20220102-0150,03/01/2022,R-20220102-0174,02/01/2022,21:22:11,Agua Potable,Fuga,Ciudadano (Call Center),Azcapotzalco,Unidad Cuitlahuac,-99.1687952,19.4725051
+I-20220102-0151,03/01/2022,R-20220102-0173,02/01/2022,21:19:33,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Pedregal De Santo Domingo,-99.1681708,19.326854
+I-20220102-0152,03/01/2022,R-20220102-0172,02/01/2022,21:18:19,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Pedregal De Santo Domingo,-99.1681708,19.326854
+I-20220102-0153,03/01/2022,R-20220102-0187,02/01/2022,23:04:50,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0153,03/01/2022,R-20220102-0171,02/01/2022,21:16:34,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0154,03/01/2022,R-20220102-0170,02/01/2022,21:09:24,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Pedregal De Santo Domingo,-99.1681708,19.326854
+I-20220102-0155,03/01/2022,R-20220102-0163,02/01/2022,20:30:58,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Magdalena De Las Salinas,-99.1449549,19.4795111
+I-20220102-0156,03/01/2022,R-20220102-0020,02/01/2022,10:07:44,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,Jardin Balbuena,-99.0995674,19.4203017
+I-20220102-0157,03/01/2022,R-20220102-0019,02/01/2022,10:04:29,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Los Girasoles,-99.1249358,19.3107129
+I-20220102-0158,03/01/2022,R-20220102-0018,02/01/2022,10:02:12,Agua Potable,Falta de agua,Ciudadano (Call Center),Miguel Hidalgo,Escandon Ii Seccion,-99.1721914,19.4010066
+I-20220102-0159,03/01/2022,R-20220102-0017,02/01/2022,09:56:59,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Vertiz Narvarte,-99.1505747,19.3834091
+I-20220102-0160,03/01/2022,R-20220102-0016,02/01/2022,09:52:21,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,San Felipe De Jesus,-99.0665135,19.4986678
+I-20220102-0161,03/01/2022,R-20220102-0015,02/01/2022,09:49:22,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pedregal De San Nicolas 4a Seccion,-99.231944,19.278402
+I-20220102-0162,03/01/2022,R-20220102-0014,02/01/2022,09:45:39,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pedregal De San Nicolas 3a Seccion,-99.2327553,19.2841837
+I-20220102-0163,03/01/2022,R-20220102-0013,02/01/2022,09:31:40,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Santa Fe La Loma,-99.2450855,19.3743991
+I-20220102-0164,03/01/2022,R-20220102-0012,02/01/2022,09:27:42,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.175657,19.3700075
+I-20220102-0165,03/01/2022,R-20220102-0011,02/01/2022,09:22:44,Agua Potable,Falta de agua,Ciudadano (Call Center),Venustiano Carranza,Jardin Balbuena,-99.1106669,19.4127328
+I-20220102-0166,03/01/2022,R-20220102-0010,02/01/2022,09:17:16,Agua Potable,Fuga,Ciudadano (Call Center),Azcapotzalco,Reynosa Tamaulipas,-99.1886157,19.4962977
+I-20220102-0167,03/01/2022,R-20220102-0009,02/01/2022,09:14:36,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,Jardin Balbuena,-99.1034134,19.4193711
+I-20220102-0168,03/01/2022,R-20220102-0008,02/01/2022,09:08:47,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Progreso Tizapan,-99.2021787,19.3402395
+I-20220102-0169,03/01/2022,R-20220102-0184,02/01/2022,22:35:00,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Vasco De Quiroga,-99.096508,19.4908677
+I-20220102-0170,03/01/2022,R-20220102-0007,02/01/2022,09:01:32,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Del Valle Centro,-99.1612807,19.3858029
+I-20220102-0171,03/01/2022,R-20220102-0006,02/01/2022,08:57:02,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Progreso Tizapan,-99.2021787,19.3402395
+I-20220102-0172,03/01/2022,R-20220102-0005,02/01/2022,08:52:29,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Portales Sur,-99.1497993,19.3614113
+I-20220102-0173,03/01/2022,R-20220102-0002,02/01/2022,00:59:51,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Pueblo Tetelpan,-99.2258119,19.3423794
+I-20220102-0174,03/01/2022,R-20220102-0003,02/01/2022,01:02:41,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,San Agustin Del Pueblo Tetelpan,-99.2195557,19.3438483
+I-20220102-0175,03/01/2022,R-20220102-0001,02/01/2022,00:40:59,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Barrio El Capulin,-99.1885722,19.2828908
+I-20220102-0176,03/01/2022,R-20220102-0178,02/01/2022,21:54:50,Drenaje,Hundimiento,Ciudadano (Call Center),Venustiano Carranza,7 De Julio,-99.1152783,19.4300857
+I-20220102-0177,03/01/2022,R-20220102-0185,02/01/2022,22:37:14,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Carlos Hank Gonzalez,-99.0465853,19.3312758
+I-20220104-0003,04/01/2022,R-20220102-0024,02/01/2022,10:22:33,Agua Potable,Mala calidad,Ciudadano (Call Center),Venustiano Carranza,Jardin Balbuena,-99.1035217,19.4202086
+I-20220104-0004,04/01/2022,R-20220102-0186,02/01/2022,22:50:11,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Santa Maria La Ribera,-99.16240454,19.45340104
+I-20220104-0005,04/01/2022,R-20220102-0188,02/01/2022,23:25:22,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Ex Hipodromo De Peralvillo,-99.1333275,19.4576597
+I-20220104-0006,04/01/2022,R-20220102-0190,02/01/2022,23:26:37,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Pedregal De Santo Domingo,-99.16920662,19.32461944
+I-20220101-0047,02/01/2022,R-20220103-0332,03/01/2022,16:10:11,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,Pensador Mexicano,-99.07903124,19.44284803
+I-20220101-0084,02/01/2022,R-20220103-0458,03/01/2022,18:57:51,Agua Potable,Fuga,Redes Sociales (Twitter),Miguel Hidalgo,Reforma Social,-99.2136024,19.43308613
+I-20220101-0087,02/01/2022,R-20220103-0394,03/01/2022,17:12:50,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,San Andres Tetepilco,-99.1274687,19.3707779
+I-20220101-0092,02/01/2022,R-20220103-0408,03/01/2022,17:34:24,Agua Potable,Fuga,Redes Sociales (Twitter),Gustavo A. Madero,Magdalena De Las Salinas,-99.1449549,19.4795111
+I-20220101-0095,02/01/2022,R-20220103-0101,03/01/2022,11:49:10,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.1826156,19.3813223
+I-20220101-0096,02/01/2022,R-20220103-0063,03/01/2022,11:03:12,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Ampliacion Progreso Nacional,-99.1616283,19.5149012
+I-20220101-0097,02/01/2022,R-20220103-0374,03/01/2022,16:51:06,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Progreso Nacional,-99.1594697,19.519112
+I-20220101-0108,02/01/2022,R-20220103-0290,03/01/2022,15:24:34,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Barrio El Capulin,-99.188309,19.2825902
+I-20220102-0005,02/01/2022,R-20220103-0200,03/01/2022,13:40:39,Agua Potable,Fuga,Ciudadano (Call Center),Cuajimalpa de Morelos,Lomas De Vista Hermosa,-99.2739768,19.37776
+I-20220102-0028,02/01/2022,R-20220103-0010,03/01/2022,08:32:15,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Peralvillo,-99.1326108,19.4591374
+I-20220102-0030,02/01/2022,R-20220103-0363,03/01/2022,16:38:30,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Portales Norte,-99.14561329,19.37121709
+I-20220102-0058,02/01/2022,R-20220103-0114,03/01/2022,11:58:12,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Residencial Zacatenco,-99.1239874,19.5008463
+I-20220102-0058,02/01/2022,R-20220103-0412,03/01/2022,17:44:51,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Residencial Zacatenco,-99.1239874,19.5008463
+I-20220102-0088,02/01/2022,R-20220103-0494,03/01/2022,20:42:59,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Desarrollo Urbano Quetzalcoatl,-99.0427539,19.3270666
+I-20220102-0091,02/01/2022,R-20220103-0069,03/01/2022,11:07:58,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Portales Norte,-99.1458963,19.371392
+I-20220102-0098,02/01/2022,R-20220103-0195,03/01/2022,13:36:29,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Roma Norte,-99.1642694,19.4202688
+I-20220102-0120,03/01/2022,R-20220103-0498,03/01/2022,21:07:16,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0125,03/01/2022,R-20220103-0110,03/01/2022,11:56:16,Agua Potable,Fuga,Redes Sociales (Twitter),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2195719,19.3768348
+I-20220102-0136,03/01/2022,R-20220103-0088,03/01/2022,11:32:32,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Roma Sur,-99.1616052,19.4078008
+I-20220102-0136,03/01/2022,R-20220103-0288,03/01/2022,15:21:59,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Roma Sur,-99.1616052,19.4078008
+I-20220102-0136,03/01/2022,R-20220103-0050,03/01/2022,10:42:50,Agua Potable,Fuga,Redes Sociales (Twitter),Cuauhtemoc,Roma Sur,-99.1616052,19.4078008
+I-20220102-0137,03/01/2022,R-20220103-0065,03/01/2022,11:05:09,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0137,03/01/2022,R-20220103-0172,03/01/2022,13:09:25,Agua Potable,Fuga,Redes Sociales (Twitter),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0141,03/01/2022,R-20220103-0403,03/01/2022,17:23:29,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Ex Hipodromo De Peralvillo,-99.1333275,19.4576597
+I-20220102-0143,03/01/2022,R-20220103-0005,03/01/2022,05:17:39,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Pedregal De Santo Domingo,-99.167013,19.3233394
+I-20220102-0153,03/01/2022,R-20220103-0049,03/01/2022,10:41:11,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0153,03/01/2022,R-20220103-0031,03/01/2022,10:23:28,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2247636,19.3734238
+I-20220102-0155,03/01/2022,R-20220103-0037,03/01/2022,10:27:49,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Magdalena De Las Salinas,-99.1449549,19.4795111
+I-20220102-0155,03/01/2022,R-20220103-0042,03/01/2022,10:35:08,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Magdalena De Las Salinas,-99.1449549,19.4795111
+I-20220102-0155,03/01/2022,R-20220103-0210,03/01/2022,13:50:16,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Magdalena De Las Salinas,-99.1449549,19.4795111
+I-20220102-0155,03/01/2022,R-20220103-0089,03/01/2022,11:32:43,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Magdalena De Las Salinas,-99.1449549,19.4795111
+I-20220102-0155,03/01/2022,R-20220103-0122,03/01/2022,12:04:36,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Magdalena De Las Salinas,-99.1449549,19.4795111
+I-20220102-0155,03/01/2022,R-20220103-0236,03/01/2022,14:16:21,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Magdalena De Las Salinas,-99.1449549,19.4795111
+I-20220102-0157,03/01/2022,R-20220103-0325,03/01/2022,16:02:57,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Los Girasoles,-99.1249358,19.3107129
+I-20220102-0157,03/01/2022,R-20220103-0318,03/01/2022,15:59:40,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Los Girasoles,-99.1249358,19.3107129
+I-20220102-0159,03/01/2022,R-20220103-0384,03/01/2022,17:01:37,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Vertiz Narvarte,-99.1505747,19.3834091
+I-20220102-0164,03/01/2022,R-20220103-0204,03/01/2022,13:44:42,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.175657,19.3700075
+I-20220103-0001,03/01/2022,R-20220103-0047,03/01/2022,10:40:06,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17634573,19.36833997
+I-20220103-0002,03/01/2022,R-20220103-0078,03/01/2022,11:17:22,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.18119356,19.38189493
+I-20220103-0002,03/01/2022,R-20220103-0053,03/01/2022,10:44:29,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.18119356,19.38189493
+I-20220103-0002,03/01/2022,R-20220103-0123,03/01/2022,12:07:36,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.18119356,19.38189493
+I-20220103-0002,03/01/2022,R-20220103-0359,03/01/2022,16:35:30,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.18119356,19.38189493
+I-20220103-0003,03/01/2022,R-20220103-0073,03/01/2022,11:13:21,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17494983,19.37049424
+I-20220103-0003,03/01/2022,R-20220103-0056,03/01/2022,10:48:40,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17494983,19.37049424
+I-20220103-0003,03/01/2022,R-20220103-0075,03/01/2022,11:13:48,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Del Valle Sur,-99.17494983,19.37049424
+I-20220103-0003,03/01/2022,R-20220103-0060,03/01/2022,10:54:17,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17494983,19.37049424
+I-20220103-0004,03/01/2022,R-20220103-0058,03/01/2022,10:51:07,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Portales Sur,-99.15334941,19.36050635
+I-20220103-0006,03/01/2022,R-20220103-0055,03/01/2022,10:48:20,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Santa Fe La Loma,-99.24516983,19.37415858
+I-20220103-0007,03/01/2022,R-20220103-0062,03/01/2022,10:57:58,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,San Juan,-99.18284298,19.38062791
+I-20220103-0008,03/01/2022,R-20220103-0061,03/01/2022,10:55:20,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1733908,19.36913018
+I-20220103-0009,03/01/2022,R-20220103-0066,03/01/2022,11:06:37,Agua Potable,Fuga,Ciudadano (Call Center),Xochimilco,Barrio 18,-99.10869061,19.28171183
+I-20220103-0010,03/01/2022,R-20220103-0072,03/01/2022,11:11:38,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,El Mirador 3a Seccion,-99.18336442,19.2705616
+I-20220103-0010,03/01/2022,R-20220103-0070,03/01/2022,11:09:28,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,El Mirador 3a Seccion,-99.18336442,19.2705616
+I-20220103-0010,03/01/2022,R-20220103-0074,03/01/2022,11:13:24,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,El Mirador 3a Seccion,-99.18336442,19.2705616
+I-20220103-0011,03/01/2022,R-20220103-0068,03/01/2022,11:07:18,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2195719,19.3768348
+I-20220103-0012,03/01/2022,R-20220103-0071,03/01/2022,11:10:45,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Portales Sur,-99.15358545,19.36048611
+I-20220103-0013,03/01/2022,R-20220103-0077,03/01/2022,11:15:36,Agua Potable,Falta de agua,Ciudadano (Call Center),Xochimilco,Pueblo Santa Cruz Acalpixca,-99.0701947,19.2453895
+I-20220103-0014,03/01/2022,R-20220103-0076,03/01/2022,11:14:32,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,San Simon Ticumac,-99.14238989,19.37622527
+I-20220103-0014,03/01/2022,R-20220103-0375,03/01/2022,16:51:40,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,San Simon Ticumac,-99.14238989,19.37622527
+I-20220103-0014,03/01/2022,R-20220103-0434,03/01/2022,18:27:13,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,San Simon Ticumac,-99.14238989,19.37622527
+I-20220103-0015,03/01/2022,R-20220103-0064,03/01/2022,11:05:06,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17624472,19.36998039
+I-20220103-0016,03/01/2022,R-20220103-0059,03/01/2022,10:53:20,Agua Potable,Falta de agua,Ciudadano (Call Center),La Magdalena Contreras,San Jeronimo Aculco,-99.22639132,19.32082276
+I-20220103-0017,03/01/2022,R-20220103-0057,03/01/2022,10:48:56,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo 2a Seccion,-99.1989823,19.2846519
+I-20220103-0018,03/01/2022,R-20220103-0067,03/01/2022,11:06:48,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,San Juan,-99.18296099,19.38065828
+I-20220103-0018,03/01/2022,R-20220103-0040,03/01/2022,10:32:32,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,San Juan,-99.18296099,19.38065828
+I-20220103-0019,03/01/2022,R-20220103-0081,03/01/2022,11:22:00,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Pueblo Parres El Guarda,-99.17334777,19.13393776
+I-20220103-0020,03/01/2022,R-20220103-0082,03/01/2022,11:22:20,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Pueblo San Lorenzo Tezonco,-99.0677601,19.30852091
+I-20220103-0022,03/01/2022,R-20220103-0080,03/01/2022,11:19:47,Agua Potable,Falta de agua,Redes Sociales (Twitter),Iztapalapa,Unidad Modelo,-99.12559408,19.36546612
+I-20220103-0023,03/01/2022,R-20220103-0086,03/01/2022,11:28:41,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Irrigacion,-99.21447384,19.44000643
+I-20220103-0024,03/01/2022,R-20220103-0045,03/01/2022,10:38:35,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Prado Coapa 1a Seccion,-99.1296977,19.30341765
+I-20220103-0024,03/01/2022,R-20220103-0051,03/01/2022,10:43:07,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Prado Coapa 1a Seccion,-99.1296977,19.30341765
+I-20220103-0025,03/01/2022,R-20220103-0090,03/01/2022,11:32:54,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.17982273,19.36864941
+I-20220103-0026,03/01/2022,R-20220103-0079,03/01/2022,11:19:03,Agua Potable,Falta de agua,Ciudadano (Call Center),Azcapotzalco,Pueblo San Martin Xochinahuac,-99.19113023,19.50819713
+I-20220103-0027,03/01/2022,R-20220103-0085,03/01/2022,11:24:39,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlahuac,Pueblo San Nicolas Tetelco,-98.97297135,19.2166171
+I-20220103-0028,03/01/2022,R-20220103-0094,03/01/2022,11:41:07,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Agricola Oriental,-99.0706061,19.3986778
+I-20220103-0029,03/01/2022,R-20220103-0093,03/01/2022,11:37:16,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Paraje San Juan Cerro,-99.07786134,19.34716483
+I-20220103-0030,03/01/2022,R-20220103-0097,03/01/2022,11:44:40,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.17907716,19.36975772
+I-20220103-0031,03/01/2022,R-20220103-0092,03/01/2022,11:33:08,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,San Miguel Xicalco,-99.16635811,19.23289234
+I-20220103-0032,03/01/2022,R-20220103-0083,03/01/2022,11:22:43,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Pueblo Parres El Guarda,-99.18287498,19.13298496
+I-20220103-0033,03/01/2022,R-20220103-0099,03/01/2022,11:47:09,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17519339,19.37137716
+I-20220103-0034,03/01/2022,R-20220103-0100,03/01/2022,11:47:13,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztapalapa,Real Del Moral,-99.08080103,19.38832973
+I-20220103-0035,03/01/2022,R-20220103-0166,03/01/2022,13:00:26,Agua Potable,Fuga,Redes Sociales (Twitter),Azcapotzalco,Ampliacion San Pedro Xalpa,-99.215844,19.4822075
+I-20220103-0035,03/01/2022,R-20220103-0095,03/01/2022,11:42:58,Agua Potable,Fuga,Ciudadano (Call Center),Azcapotzalco,Ampliacion San Pedro Xalpa,-99.215844,19.4822075
+I-20220103-0036,03/01/2022,R-20220103-0103,03/01/2022,11:50:49,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,San Juan,-99.18390511,19.38074936
+I-20220103-0037,03/01/2022,R-20220103-0087,03/01/2022,11:29:17,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Del Valle Sur,-99.17036528,19.37085085
+I-20220103-0038,03/01/2022,R-20220103-0105,03/01/2022,11:51:36,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,U.habit. Zapote 1,-99.17889453,19.30050143
+I-20220103-0039,03/01/2022,R-20220103-0054,03/01/2022,10:44:50,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,C T M Atzacoalco,-99.1020413,19.5094027
+I-20220103-0040,03/01/2022,R-20220103-0104,03/01/2022,11:51:11,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Ampliacion Progreso Nacional,-99.1605757,19.5169989
+I-20220103-0041,03/01/2022,R-20220103-0116,03/01/2022,12:01:10,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17730152,19.37329517
+I-20220103-0042,03/01/2022,R-20220103-0115,03/01/2022,11:59:22,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17169581,19.36866459
+I-20220103-0043,03/01/2022,R-20220103-0113,03/01/2022,11:58:07,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztapalapa,Pueblo San Sebastian Tecoloxtitla,-99.0119739,19.3628151
+I-20220103-0044,03/01/2022,R-20220103-0107,03/01/2022,11:52:36,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Pueblo San Andres Totoltepec,-99.173553,19.2525237
+I-20220103-0045,03/01/2022,R-20220103-0112,03/01/2022,11:57:49,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Molino De Rosas,-99.19847485,19.37212615
+I-20220103-0046,03/01/2022,R-20220103-0111,03/01/2022,11:56:26,Agua Potable,Fuga,Ciudadano (Call Center),Xochimilco,Barrio Caltongo,-99.0805757,19.25065945
+I-20220103-0047,03/01/2022,R-20220103-0121,03/01/2022,12:04:23,Agua Potable,Fuga,Ciudadano (Call Center),Xochimilco,San Jeronimo,-99.0899495,19.2483219
+I-20220103-0048,03/01/2022,R-20220103-0106,03/01/2022,11:52:01,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.17697432,19.37058769
+I-20220103-0049,03/01/2022,R-20220103-0096,03/01/2022,11:44:25,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Guadalupe Proletaria,-99.1556334,19.5210145
+I-20220103-0050,03/01/2022,R-20220103-0119,03/01/2022,12:03:29,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,San Pedro De Los Pinos,-99.18924809,19.39103185
+I-20220103-0051,03/01/2022,R-20220103-0011,03/01/2022,08:36:56,Agua Potable,Fuga,Redes Sociales (Twitter),Cuauhtemoc,Roma Sur,-99.15975973,19.41099786
+I-20220103-0051,03/01/2022,R-20220103-0118,03/01/2022,12:02:30,Agua Potable,Fuga,Redes Sociales (Twitter),Cuauhtemoc,Roma Sur,-99.15975973,19.41099786
+I-20220103-0052,03/01/2022,R-20220103-0132,03/01/2022,12:17:51,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Polanco Iii Seccion,-99.20047054,19.4334706
+I-20220103-0053,03/01/2022,R-20220103-0138,03/01/2022,12:22:23,Agua Potable,Falta de agua,Ciudadano (Call Center),Xochimilco,Pueblo Santa Maria Tepepan,-99.13491722,19.27697738
+I-20220103-0054,03/01/2022,R-20220103-0134,03/01/2022,12:19:46,Agua Potable,Falta de agua,Ciudadano (Call Center),Xochimilco,Pueblo Santa Maria Tepepan,-99.13375886,19.27982313
+I-20220103-0055,03/01/2022,R-20220103-0136,03/01/2022,12:21:50,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Ajusco,-99.15272176,19.3199166
+I-20220103-0056,03/01/2022,R-20220103-0131,03/01/2022,12:17:07,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Del Valle Sur,-99.17551514,19.37014234
+I-20220103-0057,03/01/2022,R-20220103-0129,03/01/2022,12:15:45,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17349815,19.37000064
+I-20220103-0058,03/01/2022,R-20220103-0141,03/01/2022,12:24:24,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jardines Del Pedregal,-99.2147771,19.3246798
+I-20220103-0059,03/01/2022,R-20220103-0128,03/01/2022,12:15:27,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Progreso Tizapan,-99.20413971,19.34137439
+I-20220103-0060,03/01/2022,R-20220103-0127,03/01/2022,12:14:57,Agua Potable,Falta de agua,Ciudadano (Call Center),Xochimilco,Pueblo San Andres Ahuayucan,-99.1066872,19.2285075
+I-20220103-0061,03/01/2022,R-20220103-0188,03/01/2022,13:26:19,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17165291,19.36858361
+I-20220103-0061,03/01/2022,R-20220103-0146,03/01/2022,12:29:26,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17165291,19.36858361
+I-20220103-0062,03/01/2022,R-20220103-0126,03/01/2022,12:13:58,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pueblo Chimalcoyotl,-99.1691503,19.2743179
+I-20220103-0063,03/01/2022,R-20220103-0142,03/01/2022,12:24:45,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Villa Verdun,-99.25312772,19.33967367
+I-20220103-0064,03/01/2022,R-20220103-0147,03/01/2022,12:31:46,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Chalma De Guadalupe,-99.15233579,19.5547251
+I-20220103-0065,03/01/2022,R-20220103-0144,03/01/2022,12:29:02,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Cuauhtemoc,Roma Norte,-99.1640139,19.41703879
+I-20220103-0065,03/01/2022,R-20220103-0150,03/01/2022,12:33:27,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Cuauhtemoc,Roma Norte,-99.1640139,19.41703879
+I-20220103-0066,03/01/2022,R-20220103-0143,03/01/2022,12:26:44,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Constitucion De La Republica,-99.1023928,19.48453114
+I-20220103-0067,03/01/2022,R-20220103-0137,03/01/2022,12:22:06,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Peralvillo,-99.13351172,19.46395206
+I-20220103-0068,03/01/2022,R-20220103-0125,03/01/2022,12:12:59,Agua Potable,Fuga,Ciudadano (Call Center),Xochimilco,Barrio Caltongo,-99.08010358,19.25199646
+I-20220103-0069,03/01/2022,R-20220103-0152,03/01/2022,12:36:38,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Ejidos De San Pedro Martir,-99.15525372,19.27061224
+I-20220103-0070,03/01/2022,R-20220103-0012,03/01/2022,09:07:52,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Pueblo San Miguel Xicalco,-99.16317116,19.23438144
+I-20220103-0070,03/01/2022,R-20220103-0145,03/01/2022,12:29:04,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Pueblo San Miguel Xicalco,-99.16317116,19.23438144
+I-20220103-0071,03/01/2022,R-20220103-0148,03/01/2022,12:32:52,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Asturias,-99.1271354,19.4059568
+I-20220103-0072,03/01/2022,R-20220103-0149,03/01/2022,12:33:12,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Obrera,-99.14218068,19.41411448
+I-20220103-0073,03/01/2022,R-20220103-0124,03/01/2022,12:08:50,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Mixcoac,-99.18935538,19.37693375
+I-20220103-0074,03/01/2022,R-20220103-0151,03/01/2022,12:36:33,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.18098688,19.38297594
+I-20220103-0075,03/01/2022,R-20220103-0120,03/01/2022,12:03:58,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Fuentes Del Pedregal,-99.22271258,19.30700716
+I-20220103-0076,03/01/2022,R-20220103-0157,03/01/2022,12:42:40,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Guadalupe Tepeyac,-99.11696789,19.46909581
+I-20220103-0077,03/01/2022,R-20220103-0156,03/01/2022,12:42:33,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.18183448,19.38099227
+I-20220103-0078,03/01/2022,R-20220103-0139,03/01/2022,12:22:54,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Lomas De Becerra,-99.22206161,19.38701407
+I-20220103-0079,03/01/2022,R-20220103-0160,03/01/2022,12:45:43,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17660951,19.36856337
+I-20220103-0080,03/01/2022,R-20220103-0154,03/01/2022,12:41:11,Agua Potable,Fuga,Ciudadano (Call Center),Tlahuac,Ampliacion Selene,-98.99701885,19.28946387
+I-20220103-0081,03/01/2022,R-20220103-0159,03/01/2022,12:45:31,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Lomas De Chapultepec Ii Seccion,-99.21634914,19.42752134
+I-20220103-0082,03/01/2022,R-20220103-0161,03/01/2022,12:49:25,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Lomas De Chapultepec V Seccion,-99.20841067,19.42223968
+I-20220103-0083,03/01/2022,R-20220103-0117,03/01/2022,12:01:26,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Viaducto Piedad,-99.13555032,19.40316557
+I-20220103-0084,03/01/2022,R-20220103-0164,03/01/2022,12:51:19,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Avante,-99.13360857,19.33230364
+I-20220103-0085,03/01/2022,R-20220103-0108,03/01/2022,11:56:05,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.18115864,19.38186266
+I-20220103-0085,03/01/2022,R-20220103-0174,03/01/2022,13:10:57,Agua Potable,Falta de agua,Redes Sociales (Instagram),Benito Juarez,Ciudad De Los Deportes,-99.18115864,19.38186266
+I-20220103-0086,03/01/2022,R-20220103-0048,03/01/2022,10:41:06,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Lomas De Chapultepec V Seccion,-99.21609159,19.42157187
+I-20220103-0087,03/01/2022,R-20220103-0084,03/01/2022,11:24:38,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Bellavista,-99.1926542,19.3964259
+I-20220103-0088,03/01/2022,R-20220103-0046,03/01/2022,10:38:36,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.18421624,19.38085057
+I-20220103-0089,03/01/2022,R-20220103-0102,03/01/2022,11:49:55,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Ampliacion Guadalupe Proletaria,-99.1543825,19.5231399
+I-20220103-0090,03/01/2022,R-20220103-0140,03/01/2022,12:23:09,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Adolfo Ruiz Cortinez,-99.15639636,19.3175626
+I-20220103-0091,03/01/2022,R-20220103-0158,03/01/2022,12:45:20,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,Jardines Del Pedregal,-99.2065002,19.3077999
+I-20220103-0092,03/01/2022,R-20220103-0007,03/01/2022,06:40:26,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17454413,19.37087615
+I-20220103-0092,03/01/2022,R-20220103-0044,03/01/2022,10:36:38,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Del Valle Sur,-99.17454413,19.37087615
+I-20220103-0093,03/01/2022,R-20220103-0153,03/01/2022,12:41:10,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztapalapa,San Juan Xalpa,-99.08511456,19.33167596
+I-20220103-0094,03/01/2022,R-20220103-0163,03/01/2022,12:50:32,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Santa Fe La Loma,-99.24723208,19.37214639
+I-20220103-0095,03/01/2022,R-20220103-0165,03/01/2022,13:00:10,Agua Potable,Fuga,Ciudadano (Call Center),Milpa Alta,Cruztitla,-99.00237857,19.21180532
+I-20220103-0096,03/01/2022,R-20220103-0043,03/01/2022,10:36:13,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Guadalupe Proletaria,-99.1532259,19.5200753
+I-20220103-0097,03/01/2022,R-20220103-0155,03/01/2022,12:41:39,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.17639488,19.36987918
+I-20220103-0098,03/01/2022,R-20220103-0041,03/01/2022,10:33:55,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,5to Tramo 20 De Noviembre,-99.10826688,19.45083147
+I-20220103-0099,03/01/2022,R-20220103-0168,03/01/2022,13:03:48,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Barrio El Capulin,-99.1884942,19.2829487
+I-20220103-0100,03/01/2022,R-20220103-0176,03/01/2022,13:11:44,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Lindavista Norte,-99.12289023,19.4947312
+I-20220103-0101,03/01/2022,R-20220103-0169,03/01/2022,13:06:06,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Comuneros De Santa Ursula,-99.1641373,19.29985843
+I-20220103-0102,03/01/2022,R-20220103-0035,03/01/2022,10:27:48,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Culhuacan C.t.m. Secci��,-99.1115177,19.3083589
+I-20220103-0102,03/01/2022,R-20220103-0039,03/01/2022,10:30:49,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Culhuacan C.t.m. Secci��,-99.1115177,19.3083589
+I-20220103-0103,03/01/2022,R-20220103-0181,03/01/2022,13:19:15,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.18301461,19.38085563
+I-20220103-0104,03/01/2022,R-20220103-0184,03/01/2022,13:21:13,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Verano,-99.19954241,19.26467223
+I-20220103-0105,03/01/2022,R-20220103-0175,03/01/2022,13:11:44,Agua Potable,Fuga,Ciudadano (Call Center),Cuajimalpa de Morelos,Bosques De Las Lomas,-99.2551006,19.389385
+I-20220103-0106,03/01/2022,R-20220103-0182,03/01/2022,13:20:26,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.17991399,19.36747529
+I-20220103-0107,03/01/2022,R-20220103-0173,03/01/2022,13:10:35,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Santa Rosa,-99.17012935,19.52488767
+I-20220103-0108,03/01/2022,R-20220103-0179,03/01/2022,13:17:41,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jardines Del Pedregal,-99.2132773,19.3261361
+I-20220103-0108,03/01/2022,R-20220103-0199,03/01/2022,13:39:33,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jardines Del Pedregal,-99.2132773,19.3261361
+I-20220103-0109,03/01/2022,R-20220103-0170,03/01/2022,13:07:24,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuajimalpa de Morelos,Adolfo Lopez Mateos,-99.29458387,19.36337089
+I-20220103-0110,03/01/2022,R-20220103-0190,03/01/2022,13:28:34,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Barrio La Asuncion,-99.09228093,19.36223217
+I-20220103-0111,03/01/2022,R-20220103-0187,03/01/2022,13:25:40,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Ejidos De San Pedro Martir,-99.158173,19.2736842
+I-20220103-0112,03/01/2022,R-20220103-0038,03/01/2022,10:29:09,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.18288582,19.38110359
+I-20220103-0113,03/01/2022,R-20220103-0036,03/01/2022,10:27:48,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,Presidentes,-99.22327996,19.37598236
+I-20220103-0114,03/01/2022,R-20220103-0186,03/01/2022,13:24:53,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Benito Juarez,Villa De Cortes,-99.1373883,19.3887638
+I-20220103-0115,03/01/2022,R-20220103-0167,03/01/2022,13:01:38,Drenaje,Brote en aguas negras,Ciudadano (Call Center),Iztapalapa,Constitucion De 1917,-99.05953668,19.35117348
+I-20220103-0116,03/01/2022,R-20220103-0034,03/01/2022,10:27:00,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.17918447,19.37050671
+I-20220103-0117,03/01/2022,R-20220103-0033,03/01/2022,10:26:00,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.18289654,19.38114408
+I-20220103-0118,03/01/2022,R-20220103-0180,03/01/2022,13:17:57,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Ampliacion Casas Aleman,-99.08393387,19.47573136
+I-20220103-0119,03/01/2022,R-20220103-0183,03/01/2022,13:20:33,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Lomas De Padierna Sur,-99.22489464,19.27325048
+I-20220103-0120,03/01/2022,R-20220103-0189,03/01/2022,13:26:35,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Morelos,-99.13622617,19.44518635
+I-20220103-0121,03/01/2022,R-20220103-0192,03/01/2022,13:32:59,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,San Juan,-99.18378174,19.38070382
+I-20220103-0122,03/01/2022,R-20220103-0191,03/01/2022,13:30:14,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,San Bartolo Atepehuacan,-99.14492188,19.497649
+I-20220103-0123,03/01/2022,R-20220103-0194,03/01/2022,13:35:36,Agua Potable,Fuga,Ciudadano (Call Center),Tlahuac,La Habana,-98.9983295,19.2682481
+I-20220103-0124,03/01/2022,R-20220103-0196,03/01/2022,13:36:53,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Granjas Mexico,-99.0936122,19.3998407
+I-20220103-0125,03/01/2022,R-20220103-0207,03/01/2022,13:45:23,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Carlos Jonguitud Barrios,-99.090128,19.3134871
+I-20220103-0126,03/01/2022,R-20220103-0198,03/01/2022,13:38:45,Agua Potable,Falta de agua,Redes Sociales (Facebook),Benito Juarez,San Juan,-99.18394801,19.38076961
+I-20220103-0127,03/01/2022,R-20220103-0205,03/01/2022,13:45:22,Agua Potable,Falta de agua,Ciudadano (Call Center),Xochimilco,Rancho Tejomulco,-99.0863841,19.2451609
+I-20220103-0128,03/01/2022,R-20220103-0201,03/01/2022,13:42:07,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Moderna,-99.13734198,19.3953835
+I-20220103-0129,03/01/2022,R-20220103-0202,03/01/2022,13:43:35,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,San Miguel Xicalco,-99.16495706,19.23088658
+I-20220103-0130,03/01/2022,R-20220103-0203,03/01/2022,13:44:22,Agua Potable,Falta de agua,Redes Sociales (Facebook),Tlahuac,La Draga,-99.04282091,19.28376253
+I-20220103-0131,03/01/2022,R-20220103-0209,03/01/2022,13:49:18,Agua Potable,Falta de agua,Redes Sociales (Twitter),Miguel Hidalgo,Lomas De Chapultepec V Seccion,-99.20887649,19.4221132
+I-20220103-0132,03/01/2022,R-20220103-0208,03/01/2022,13:48:56,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17343375,19.37214639
+I-20220103-0133,03/01/2022,R-20220103-0001,03/01/2022,00:48:01,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.22813902,19.37151886
+I-20220103-0133,03/01/2022,R-20220103-0002,03/01/2022,01:03:32,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.22813902,19.37151886
+I-20220103-0133,03/01/2022,R-20220103-0397,03/01/2022,17:14:18,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.22813902,19.37151886
+I-20220103-0134,03/01/2022,R-20220103-0006,03/01/2022,06:06:56,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Ajusco,-99.16133181,19.32467006
+I-20220103-0135,03/01/2022,R-20220103-0009,03/01/2022,08:24:41,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo 3a Seccion,-99.20863197,19.28168651
+I-20220103-0136,03/01/2022,R-20220103-0013,03/01/2022,09:32:41,Agua Potable,Fuga,Redes Sociales (Twitter),Miguel Hidalgo,Escandon Ii Seccion,-99.17203908,19.4010101
+I-20220103-0137,03/01/2022,R-20220103-0015,03/01/2022,10:02:19,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztacalco,Agricola Pantitlan,-99.06101845,19.40914607
+I-20220103-0138,03/01/2022,R-20220103-0016,03/01/2022,10:03:43,Agua Potable,Fuga,Ciudadano (Call Center),Xochimilco,Nativitas,-99.01298389,19.24644069
+I-20220103-0139,03/01/2022,R-20220103-0017,03/01/2022,10:04:14,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.17761804,19.37034983
+I-20220103-0140,03/01/2022,R-20220103-0018,03/01/2022,10:04:35,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Culhuacan Ctm Seccion Ix-B,-99.10111069,19.31116361
+I-20220103-0141,03/01/2022,R-20220103-0020,03/01/2022,10:09:57,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17342298,19.36916055
+I-20220103-0142,03/01/2022,R-20220103-0019,03/01/2022,10:09:24,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17470521,19.37016764
+I-20220103-0143,03/01/2022,R-20220103-0021,03/01/2022,10:12:02,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo 3a Seccion,-99.20968514,19.28453724
+I-20220103-0144,03/01/2022,R-20220103-0022,03/01/2022,10:12:25,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.1791415,19.36929719
+I-20220103-0145,03/01/2022,R-20220103-0023,03/01/2022,10:12:27,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.17762877,19.37036501
+I-20220103-0146,03/01/2022,R-20220103-0024,03/01/2022,10:14:32,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Agricola Oriental,-99.069425,19.391187
+I-20220103-0147,03/01/2022,R-20220103-0025,03/01/2022,10:15:52,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.16736128,19.37380629
+I-20220103-0148,03/01/2022,R-20220103-0028,03/01/2022,10:19:45,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,La Pradera,-99.06633854,19.47686929
+I-20220103-0149,03/01/2022,R-20220103-0098,03/01/2022,11:45:14,Agua Potable,Fuga,Ciudadano (Call Center),La Magdalena Contreras,La Malinche,-99.23842912,19.32379936
+I-20220103-0150,03/01/2022,R-20220103-0211,03/01/2022,13:51:26,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Bosques Del Pedregal,-99.23669105,19.27084011
+I-20220103-0151,03/01/2022,R-20220103-0213,03/01/2022,13:53:24,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17718892,19.37277392
+I-20220103-0152,03/01/2022,R-20220103-0214,03/01/2022,13:53:42,Agua Potable,Falta de agua,Redes Sociales (Facebook),Benito Juarez,Del Valle Sur,-99.17321922,19.3696565
+I-20220103-0153,03/01/2022,R-20220103-0215,03/01/2022,13:53:59,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Buenos Aires,-99.14836053,19.40541208
+I-20220103-0154,03/01/2022,R-20220103-0216,03/01/2022,13:54:41,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,San Juan,-99.18329358,19.380719
+I-20220103-0155,03/01/2022,R-20220103-0218,03/01/2022,13:56:04,Agua Potable,Falta de agua,Redes Sociales (Twitter),Gustavo A. Madero,Vasco De Quiroga,-99.0961647,19.49092838
+I-20220103-0156,03/01/2022,R-20220103-0219,03/01/2022,13:56:34,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pedregal De San Nicolas 3a Seccion,-99.23350457,19.28566638
+I-20220103-0157,03/01/2022,R-20220103-0217,03/01/2022,13:55:01,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,El Tanque,-99.25500512,19.32664429
+I-20220103-0158,03/01/2022,R-20220103-0222,03/01/2022,13:58:57,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Lomas De Guadalupe,-99.24361096,19.34104032
+I-20220103-0159,03/01/2022,R-20220103-0277,03/01/2022,14:58:22,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Ajusco,-99.16195395,19.31391764
+I-20220103-0160,03/01/2022,R-20220103-0340,03/01/2022,16:18:23,Agua Potable,Fuga,Ciudadano (Call Center),La Magdalena Contreras,San Bartolo Ameyalco,-99.2481286,19.3273124
+I-20220103-0161,03/01/2022,R-20220103-0345,03/01/2022,16:21:51,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,El Manto,-99.07775215,19.34790521
+I-20220103-0162,03/01/2022,R-20220103-0349,03/01/2022,16:24:24,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Unidad Santa Cruz Meyehualco,-99.0401115,19.3471898
+I-20220103-0163,03/01/2022,R-20220103-0346,03/01/2022,16:22:12,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,San Miguel Xicalco,-99.1658486,19.2302572
+I-20220103-0164,03/01/2022,R-20220103-0352,03/01/2022,16:26:22,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Romero De Terreros,-99.1750924,19.3362337
+I-20220103-0165,03/01/2022,R-20220103-0347,03/01/2022,16:22:24,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Cuauhtemoc,Roma Sur,-99.1631942,19.4108909
+I-20220103-0166,03/01/2022,R-20220103-0357,03/01/2022,16:29:13,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Roma Norte,-99.1608338,19.416902
+I-20220103-0167,03/01/2022,R-20220103-0355,03/01/2022,16:28:06,Agua Potable,Fuga,Redes Sociales (Twitter),Tlalpan,Rinconada Las Hadas,-99.1207593,19.2971629
+I-20220103-0168,03/01/2022,R-20220103-0343,03/01/2022,16:21:31,Agua Potable,Fuga,Redes Sociales (Twitter),Iztapalapa,Unidad Ejercito Constitucionalista,-99.0502453,19.3846475
+I-20220103-0169,03/01/2022,R-20220103-0339,03/01/2022,16:18:09,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Cuauhtemoc,Hipodromo Condesa,-99.1801226,19.4094656
+I-20220103-0170,03/01/2022,R-20220103-0354,03/01/2022,16:27:03,Agua Potable,Mal uso,Ciudadano (Call Center),Gustavo A. Madero,Heroes De Cerro Prieto,-99.0998467,19.450197
+I-20220103-0171,03/01/2022,R-20220103-0358,03/01/2022,16:35:25,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.181919,19.3811444
+I-20220103-0172,03/01/2022,R-20220103-0356,03/01/2022,16:28:47,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1733453,19.3721347
+I-20220103-0173,03/01/2022,R-20220103-0353,03/01/2022,16:26:34,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Pueblo San Miguel Ajusco,-99.200657,19.2239374
+I-20220103-0174,03/01/2022,R-20220103-0338,03/01/2022,16:17:47,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Argentina Poniente,-99.209952,19.4570403
+I-20220103-0175,03/01/2022,R-20220103-0361,03/01/2022,16:37:55,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Culhuacan Ctm Seccion Viii,-99.1045253,19.314824
+I-20220103-0176,03/01/2022,R-20220103-0337,03/01/2022,16:17:45,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.1805391,19.3846953
+I-20220103-0177,03/01/2022,R-20220103-0401,03/01/2022,17:20:14,Agua Potable,Fuga,Redes Sociales (Twitter),Azcapotzalco,El Jaguey,-99.1732943,19.4878537
+I-20220103-0177,03/01/2022,R-20220103-0336,03/01/2022,16:15:57,Agua Potable,Fuga,Redes Sociales (Twitter),Azcapotzalco,El Jaguey,-99.1732943,19.4878537
+I-20220103-0178,03/01/2022,R-20220103-0360,03/01/2022,16:36:24,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Del Valle Sur,-99.1738559,19.3700043
+I-20220103-0179,03/01/2022,R-20220103-0335,03/01/2022,16:13:32,Agua Potable,Falta de agua,Redes Sociales (Facebook),Tlalpan,Pueblo Jardines De San Juan,-99.1815134,19.2128915
+I-20220103-0180,03/01/2022,R-20220103-0334,03/01/2022,16:11:13,Agua Potable,Fuga,Redes Sociales (Twitter),Azcapotzalco,Barrio San Andres,-99.1796185,19.4930801
+I-20220103-0181,03/01/2022,R-20220103-0369,03/01/2022,16:44:16,Agua Tratada,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Lomas De Chapultepec Iii Seccion,-99.2148114,19.4296659
+I-20220103-0182,03/01/2022,R-20220103-0368,03/01/2022,16:43:58,Agua Potable,Falta de agua,Ciudadano (Call Center),Azcapotzalco,La Raza,-99.1484504,19.4656175
+I-20220103-0183,03/01/2022,R-20220103-0367,03/01/2022,16:42:28,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Preconcreto,-99.2120053,19.3744127
+I-20220103-0184,03/01/2022,R-20220103-0370,03/01/2022,16:45:24,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.2392666,19.3747083
+I-20220103-0185,03/01/2022,R-20220103-0366,03/01/2022,16:42:21,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Culhuacan Ctm Seccion Viii,-99.1043802,19.3148358
+I-20220103-0186,03/01/2022,R-20220103-0365,03/01/2022,16:41:25,Agua Potable,Falta de agua,Redes Sociales (Facebook),Benito Juarez,San Juan,-99.1839761,19.3801322
+I-20220103-0187,03/01/2022,R-20220103-0364,03/01/2022,16:41:11,Agua Potable,Fuga,Ciudadano (Call Center),Tlahuac,Barrio San Bartolome,-98.9611611,19.2248706
+I-20220103-0188,03/01/2022,R-20220103-0351,03/01/2022,16:24:54,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,Bellavista,-99.1926542,19.3964259
+I-20220103-0189,03/01/2022,R-20220103-0333,03/01/2022,16:10:37,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Bosques del Pedregal,-99.2391845,19.2702168
+I-20220103-0190,03/01/2022,R-20220103-0331,03/01/2022,16:08:28,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Parque San Andres,-99.1446886,19.3438831
+I-20220103-0191,03/01/2022,R-20220103-0251,03/01/2022,14:28:33,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo,-99.1889076,19.2836068
+I-20220103-0191,03/01/2022,R-20220103-0330,03/01/2022,16:07:00,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo,-99.1889076,19.2836068
+I-20220103-0192,03/01/2022,R-20220103-0328,03/01/2022,16:06:14,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Barrio El Capulin,-99.1901368,19.28144
+I-20220103-0193,03/01/2022,R-20220103-0327,03/01/2022,16:05:09,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Ciudad De Los Deportes,-99.1814637,19.381935
+I-20220103-0194,03/01/2022,R-20220103-0376,03/01/2022,16:51:46,Agua Potable,Fuga,Redes Sociales (Twitter),Alvaro Obregon,Pueblo Tizapan,-99.20692921,19.33230364
+I-20220103-0195,03/01/2022,R-20220103-0373,03/01/2022,16:51:03,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2299946,19.371974
+I-20220103-0196,03/01/2022,R-20220103-0371,03/01/2022,16:45:49,Agua Potable,Falta de agua,Redes Sociales (Twitter),Gustavo A. Madero,San Juan De Aragon I Seccion,-99.0912156,19.4560937
+I-20220103-0197,03/01/2022,R-20220103-0305,03/01/2022,15:43:15,Agua Potable,Fuga,Redes Sociales (Twitter),Azcapotzalco,Ampliacion San Pedro Xalpa,-99.216928,19.4781824
+I-20220103-0198,03/01/2022,R-20220103-0372,03/01/2022,16:46:51,Agua Potable,Fuga,Ciudadano (Call Center),La Magdalena Contreras,La Guadalupe,-99.2321823,19.3075949
+I-20220103-0199,03/01/2022,R-20220103-0324,03/01/2022,16:02:31,Drenaje,Brote en aguas negras,Redes Sociales (Twitter),Cuauhtemoc,Obrera,-99.1424317,19.4171758
+I-20220103-0200,03/01/2022,R-20220103-0323,03/01/2022,16:01:44,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Pueblo De Santiago Atzacoalco,-99.0949127,19.5009026
+I-20220103-0201,03/01/2022,R-20220103-0322,03/01/2022,16:01:26,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.2224462,19.3780824
+I-20220103-0202,03/01/2022,R-20220103-0321,03/01/2022,16:00:38,Agua Potable,Falta de agua,Redes Sociales (Twitter),Venustiano Carranza,Aeronautica Militar,-99.1153072,19.4196618
+I-20220103-0203,03/01/2022,R-20220103-0377,03/01/2022,16:52:14,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Libertad,-99.1434674,19.192043
+I-20220103-0204,03/01/2022,R-20220103-0379,03/01/2022,16:55:43,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Tres Estrellas,-99.1101906,19.4708675
+I-20220103-0205,03/01/2022,R-20220103-0381,03/01/2022,16:58:03,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Barrio Del Ninio Jesus,-99.159496,19.3433943
+I-20220103-0206,03/01/2022,R-20220103-0320,03/01/2022,15:59:40,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Morelos,-99.1367231,19.4458269
+I-20220103-0207,03/01/2022,R-20220103-0382,03/01/2022,16:59:08,Agua Potable,Fuga,Ciudadano (Call Center),Azcapotzalco,Reynosa Tamaulipas,-99.1888109,19.4936275
+I-20220103-0208,03/01/2022,R-20220103-0383,03/01/2022,17:00:02,Agua Potable,Falta de agua,Redes Sociales (Twitter),Xochimilco,Pueblo Santa Cecilia Tepetlapa,-99.0973084,19.2212881
+I-20220103-0209,03/01/2022,R-20220103-0319,03/01/2022,15:59:40,Agua Potable,Falta de agua,Ciudadano (Call Center),Miguel Hidalgo,Lomas De Chapultepec Vi Seccion,-99.2138061,19.4180475
+I-20220103-0210,03/01/2022,R-20220103-0317,03/01/2022,15:55:53,Agua Potable,Falta de agua,Redes Sociales (Twitter),Venustiano Carranza,Moctezuma 2a. Seccion,-99.0898252,19.4321245
+I-20220103-0211,03/01/2022,R-20220103-0380,03/01/2022,16:57:45,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Del Valle Sur,-99.1713472,19.368566
+I-20220103-0212,03/01/2022,R-20220103-0316,03/01/2022,15:55:49,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,San Juan,-99.1836538,19.3806711
+I-20220103-0213,03/01/2022,R-20220103-0315,03/01/2022,15:55:46,Drenaje,Coladera sin tapa,Redes Sociales (Twitter),Iztapalapa,Campestre Potrero,-98.9738968,19.328329
+I-20220103-0214,03/01/2022,R-20220103-0386,03/01/2022,17:03:18,Agua Potable,Fuga,Redes Sociales (Twitter),Benito Juarez,San Jose Insurgentes,-99.1864519,19.3712813
+I-20220103-0215,03/01/2022,R-20220103-0378,03/01/2022,16:55:06,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito,-99.2318981,19.377852
+I-20220103-0216,03/01/2022,R-20220103-0314,03/01/2022,15:54:55,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,Jardin Balbuena,-99.1035755,19.4161515
+I-20220103-0217,03/01/2022,R-20220103-0313,03/01/2022,15:54:49,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.2205588,19.3776644
+I-20220103-0218,03/01/2022,R-20220103-0385,03/01/2022,17:02:20,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Gabriel Ramos Millan,-99.1019286,19.3928152
+I-20220103-0219,03/01/2022,R-20220103-0312,03/01/2022,15:54:31,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2299946,19.371974
+I-20220103-0220,03/01/2022,R-20220103-0311,03/01/2022,15:49:22,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Roma Sur,-99.1654865,19.4079208
+I-20220103-0221,03/01/2022,R-20220103-0310,03/01/2022,15:48:49,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Ciudad De Los Deportes,-99.1837404,19.3811271
+I-20220103-0222,03/01/2022,R-20220103-0309,03/01/2022,15:48:10,Agua Potable,Fuga,Ciudadano (Call Center),Nezahualc��,Cuchilla Del Tesoro,-99.0509111,19.4503327
+I-20220103-0223,03/01/2022,R-20220103-0387,03/01/2022,17:06:13,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1728555,19.3715059
+I-20220103-0224,03/01/2022,R-20220103-0308,03/01/2022,15:46:44,Agua Potable,Fuga,Redes Sociales (Twitter),Gustavo A. Madero,Guadalupe Proletaria,-99.1571161,19.5216507
+I-20220103-0225,03/01/2022,R-20220103-0389,03/01/2022,17:08:03,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Degollado,-99.0422522,19.31901
+I-20220103-0226,03/01/2022,R-20220103-0307,03/01/2022,15:46:29,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Roma Sur,-99.1654865,19.4079208
+I-20220103-0227,03/01/2022,R-20220103-0306,03/01/2022,15:45:54,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,La Esmeralda,-99.0842904,19.4884977
+I-20220103-0228,03/01/2022,R-20220103-0391,03/01/2022,17:09:13,Agua Potable,Fuga,Redes Sociales (Twitter),Xochimilco,Pueblo Santa Cecilia Tepetlapa,-99.0965127,19.215351
+I-20220103-0229,03/01/2022,R-20220103-0304,03/01/2022,15:43:00,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Del Valle Sur,-99.174721,19.3725383
+I-20220103-0230,03/01/2022,R-20220103-0303,03/01/2022,15:42:01,Agua Potable,Falta de agua,Ciudadano (Call Center),Miguel Hidalgo,Escandon Ii Seccion,-99.1721914,19.4010066
+I-20220103-0231,03/01/2022,R-20220103-0390,03/01/2022,17:09:06,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Alvaro Obregon,Olivar Del Conde 1ra Seccion,-99.2078806,19.3748843
+I-20220103-0232,03/01/2022,R-20220103-0388,03/01/2022,17:06:57,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Ciudad De Los Deportes,-99.1832169,19.3822463
+I-20220103-0233,03/01/2022,R-20220103-0302,03/01/2022,15:41:12,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo,-99.1872008,19.2846194
+I-20220103-0234,03/01/2022,R-20220103-0301,03/01/2022,15:38:37,Agua Potable,Fuga,Redes Sociales (Twitter),Tlalpan,Pedregal De San Nicolas 5a Seccion,-99.2417264,19.275823
+I-20220103-0235,03/01/2022,R-20220103-0300,03/01/2022,15:36:57,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.1832169,19.3822463
+I-20220103-0236,03/01/2022,R-20220103-0299,03/01/2022,15:35:28,Agua Potable,Fuga,Redes Sociales (Twitter),Tlalpan,Miguel Hidalgo 3a Seccion,-99.2083295,19.2806709
+I-20220103-0237,03/01/2022,R-20220103-0395,03/01/2022,17:13:35,Agua Potable,Falta de agua,Redes Sociales (Twitter),Tlalpan,2 De Octubre,-99.2299342,19.2726373
+I-20220103-0238,03/01/2022,R-20220103-0298,03/01/2022,15:33:55,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,Villa Progresista,-99.2423229,19.3564522
+I-20220103-0239,03/01/2022,R-20220103-0297,03/01/2022,15:33:27,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Iztacalco,Barrio Santiago Sur,-99.1281306,19.3894098
+I-20220103-0240,03/01/2022,R-20220103-0296,03/01/2022,15:33:17,Agua Potable,Falta de agua,Ciudadano (Call Center),Xochimilco,Pueblo San Andres Ahuayucan,-99.1066872,19.2285075
+I-20220103-0241,03/01/2022,R-20220103-0402,03/01/2022,17:23:02,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,Villa Progresista,-99.2423641,19.3552235
+I-20220103-0242,03/01/2022,R-20220103-0399,03/01/2022,17:17:26,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Actipan,-99.1791312,19.3698402
+I-20220103-0243,03/01/2022,R-20220103-0398,03/01/2022,17:16:12,Agua Potable,Fuga,Redes Sociales (Twitter),Coyoacan,Culhuacan C.t.m. Secci��,-99.1103392,19.3086179
+I-20220103-0244,03/01/2022,R-20220103-0404,03/01/2022,17:28:47,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlahuac,Barrio Santa Cruz,-98.9525895,19.2227984
+I-20220103-0245,03/01/2022,R-20220103-0396,03/01/2022,17:13:50,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Adolfo Ruiz Cortinez,-99.1517931,19.3193403
+I-20220103-0246,03/01/2022,R-20220103-0393,03/01/2022,17:12:05,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Azcapotzalco,San Antonio,-99.2092408,19.4826343
+I-20220103-0247,03/01/2022,R-20220103-0392,03/01/2022,17:11:29,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,San Juan,-99.1819234,19.3803444
+I-20220103-0248,04/01/2022,R-20220103-0416,03/01/2022,17:52:14,Agua Potable,Fuga,Ciudadano (Call Center),Tlahuac,Miguel Hidalgo,-99.0479949,19.2878872
+I-20220103-0248,04/01/2022,R-20220103-0410,03/01/2022,17:39:34,Agua Potable,Fuga,Ciudadano (Call Center),Tlahuac,Miguel Hidalgo,-99.0479949,19.2878872
+I-20220103-0249,04/01/2022,R-20220103-0415,03/01/2022,17:49:10,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.1795226,19.3832047
+I-20220103-0250,04/01/2022,R-20220103-0414,03/01/2022,17:46:53,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Cuauhtemoc,-99.1691796,19.4298854
+I-20220103-0251,04/01/2022,R-20220103-0413,03/01/2022,17:45:35,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,Ampliacion Jalalpa,-99.2325627,19.3779249
+I-20220103-0252,04/01/2022,R-20220103-0417,03/01/2022,17:53:41,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Golondrinas 2da Seccion,-99.2163056,19.37675
+I-20220103-0253,04/01/2022,R-20220103-0409,03/01/2022,17:35:16,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.23814,19.3745669
+I-20220103-0254,04/01/2022,R-20220103-0418,03/01/2022,17:55:09,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.2338191,19.3758572
+I-20220103-0255,04/01/2022,R-20220103-0407,03/01/2022,17:33:45,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Heroes De Padierna,-99.2229561,19.2825292
+I-20220103-0256,04/01/2022,R-20220103-0406,03/01/2022,17:31:39,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1752252,19.3708786
+I-20220103-0257,04/01/2022,R-20220103-0405,03/01/2022,17:31:18,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Pedregal De Santo Domingo,-99.1670124,19.3230881
+I-20220103-0258,04/01/2022,R-20220103-0400,03/01/2022,17:17:33,Agua Potable,Falta de agua,Ciudadano (Call Center),Miguel Hidalgo,Escandon I Seccion,-99.1839567,19.4067097
+I-20220103-0259,04/01/2022,R-20220103-0420,03/01/2022,17:59:15,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.1782752,19.3701308
+I-20220103-0260,04/01/2022,R-20220103-0432,03/01/2022,18:25:31,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Roma Norte,-99.1703695,19.416462
+I-20220103-0260,04/01/2022,R-20220103-0429,03/01/2022,18:20:30,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Roma Norte,-99.1703695,19.416462
+I-20220103-0261,04/01/2022,R-20220103-0427,03/01/2022,18:17:24,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Agricola Pantitlan,-99.0641311,19.4169148
+I-20220103-0262,04/01/2022,R-20220103-0426,03/01/2022,18:16:38,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,La Herradura,-99.2060009,19.2327586
+I-20220103-0263,04/01/2022,R-20220103-0425,03/01/2022,18:06:58,Agua Potable,Falta de agua,Ciudadano (Call Center),Azcapotzalco,Pueblo San Juan Tlihuaca,-99.2010681,19.4928715
+I-20220103-0264,04/01/2022,R-20220103-0424,03/01/2022,18:06:54,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,16 De Septiembre,-99.2116475,19.4002921
+I-20220103-0265,04/01/2022,R-20220103-0428,03/01/2022,18:17:30,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Vasco De Quiroga,-99.096508,19.4908677
+I-20220103-0266,04/01/2022,R-20220103-0430,03/01/2022,18:21:14,Agua Potable,Fuga,Ciudadano (Call Center),Venustiano Carranza,5to Tramo 20 De Noviembre,-99.1023003,19.4501003
+I-20220103-0267,04/01/2022,R-20220103-0431,03/01/2022,18:23:29,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Ex Escuela De Tiro,-99.1013476,19.4503114
+I-20220103-0268,04/01/2022,R-20220103-0436,03/01/2022,18:27:43,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo,-99.1868088,19.2863853
+I-20220103-0269,04/01/2022,R-20220103-0433,03/01/2022,18:26:13,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,San Andres Tetepilco,-99.1299099,19.3732439
+I-20220103-0270,04/01/2022,R-20220103-0439,03/01/2022,18:30:05,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Lomas De Chapultepec Ii Seccion,-99.2234664,19.4162612
+I-20220103-0271,04/01/2022,R-20220103-0423,03/01/2022,18:05:33,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Del Valle Sur,-99.1740938,19.3688645
+I-20220103-0272,04/01/2022,R-20220103-0440,03/01/2022,18:30:36,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Centro,-99.13407414,19.43184673
+I-20220103-0273,04/01/2022,R-20220103-0445,03/01/2022,18:38:37,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.2195007,19.3785717
+I-20220103-0274,04/01/2022,R-20220103-0443,03/01/2022,18:35:43,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlahuac,Del Mar,-99.0554361,19.2963183
+I-20220103-0275,04/01/2022,R-20220103-0442,03/01/2022,18:32:29,Agua Potable,Fuga,Redes Sociales (Twitter),Benito Juarez,Ciudad De Los Deportes,-99.1818802,19.3820037
+I-20220103-0276,04/01/2022,R-20220103-0441,03/01/2022,18:31:06,Agua Potable,Falta de agua,Ciudadano (Call Center),Azcapotzalco,Prados Del Rosario,-99.2105231,19.5073751
+I-20220103-0277,04/01/2022,R-20220103-0438,03/01/2022,18:29:35,Agua Potable,Falta de agua,Redes Sociales (Twitter),Gustavo A. Madero,Constitucion De La Republica,-99.1025056,19.4844177
+I-20220103-0278,04/01/2022,R-20220103-0444,03/01/2022,18:36:59,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,San Juan,-99.1836538,19.3806711
+I-20220103-0279,04/01/2022,R-20220103-0446,03/01/2022,18:38:59,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Cuauhtemoc,Asturias,-99.1301238,19.4040904
+I-20220103-0280,04/01/2022,R-20220103-0437,03/01/2022,18:27:55,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Napoles,-99.1744831,19.3978907
+I-20220103-0281,04/01/2022,R-20220103-0422,03/01/2022,18:02:48,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Benito Juarez,-99.1401843,19.5306228
+I-20220103-0282,04/01/2022,R-20220103-0421,03/01/2022,18:00:49,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,La Pradera,-99.0660843,19.478319
+I-20220103-0283,04/01/2022,R-20220103-0447,03/01/2022,18:44:14,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.1791093,19.3698344
+I-20220103-0284,04/01/2022,R-20220103-0455,03/01/2022,18:53:46,Agua Potable,Fuga,Ciudadano (Call Center),Cuajimalpa de Morelos,Lomas De Vista Hermosa,-99.2781483,19.3730055
+I-20220103-0285,04/01/2022,R-20220103-0454,03/01/2022,18:53:02,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1734883,19.3695856
+I-20220103-0286,04/01/2022,R-20220103-0452,03/01/2022,18:51:08,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Norte,-99.1704388,19.3971976
+I-20220103-0287,04/01/2022,R-20220103-0453,03/01/2022,18:52:26,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztapalapa,Pueblo Santa Martha Acatitla,-99.0112781,19.3550659
+I-20220103-0288,04/01/2022,R-20220103-0456,03/01/2022,18:55:36,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.2347491,19.3745322
+I-20220103-0289,04/01/2022,R-20220103-0450,03/01/2022,18:48:30,Agua Potable,Falta de agua,Ciudadano (Call Center),Azcapotzalco,Ampliacion San Pedro Xalpa,-99.2147425,19.4820459
+I-20220103-0290,04/01/2022,R-20220103-0449,03/01/2022,18:48:21,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Triunfo De La Republica,-99.1063476,19.4921849
+I-20220103-0291,04/01/2022,R-20220103-0448,03/01/2022,18:45:01,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Culhuacan Ctm Seccion  Ii,-99.1193977,19.3289746
+I-20220103-0292,04/01/2022,R-20220103-0461,03/01/2022,18:59:07,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Ajusco,-99.1537933,19.3229061
+I-20220103-0293,04/01/2022,R-20220103-0459,03/01/2022,18:58:15,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztapalapa,Francisco Villa,-99.0610895,19.3393749
+I-20220103-0294,04/01/2022,R-20220103-0462,03/01/2022,19:00:37,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,El Tejocote,-99.2157522,19.3822114
+I-20220103-0295,04/01/2022,R-20220103-0469,03/01/2022,19:18:39,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Cuautepec De Madero,-99.1365705,19.5435964
+I-20220103-0296,04/01/2022,R-20220103-0468,03/01/2022,19:14:21,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Loma La Palma,-99.13743492,19.5584783
+I-20220103-0297,04/01/2022,R-20220103-0467,03/01/2022,19:08:54,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2192134,19.3762918
+I-20220103-0298,04/01/2022,R-20220103-0471,03/01/2022,19:29:24,Agua Potable,Fuga,Ciudadano (Call Center),Cuajimalpa de Morelos,Ahuatenco,-99.3029621,19.3667886
+I-20220103-0299,04/01/2022,R-20220103-0465,03/01/2022,19:03:32,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Los Girasoles,-99.12622133,19.30968532
+I-20220103-0300,04/01/2022,R-20220103-0464,03/01/2022,19:02:47,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1734883,19.3695856
+I-20220103-0301,04/01/2022,R-20220103-0463,03/01/2022,19:02:15,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Alianza Popular Revolucionaria,-99.1184804,19.3163401
+I-20220103-0302,04/01/2022,R-20220103-0473,03/01/2022,19:38:53,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.229409,19.3741421
+I-20220103-0303,04/01/2022,R-20220103-0472,03/01/2022,19:34:42,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,Presidentes,-99.2217162,19.3803332
+I-20220103-0304,04/01/2022,R-20220103-0470,03/01/2022,19:22:50,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2319179,19.369515
+I-20220103-0305,04/01/2022,R-20220103-0466,03/01/2022,19:07:13,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Santa Maria La Ribera,-99.1624067,19.4533194
+I-20220103-0307,04/01/2022,R-20220103-0476,03/01/2022,19:45:48,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Actipan,-99.1767649,19.3693624
+I-20220103-0308,04/01/2022,R-20220103-0491,03/01/2022,20:29:36,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Guadalupe Tepeyac,-99.1168828,19.46906
+I-20220103-0309,04/01/2022,R-20220103-0492,03/01/2022,20:31:23,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Pueblo Santa Lucia,-99.2529007,19.3620817
+I-20220103-0310,04/01/2022,R-20220103-0490,03/01/2022,20:29:13,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Adolfo Ruiz Cortinez,-99.1558539,19.3174096
+I-20220103-0311,04/01/2022,R-20220103-0489,03/01/2022,20:26:23,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,San Juan De Aragon Vii Seccion,-99.0743984,19.4698896
+I-20220103-0312,04/01/2022,R-20220103-0488,03/01/2022,20:26:08,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,El Mirador,-99.1086689,19.3036972
+I-20220103-0313,04/01/2022,R-20220103-0486,03/01/2022,20:21:33,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.2205588,19.3776644
+I-20220103-0315,04/01/2022,R-20220103-0493,03/01/2022,20:39:50,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Ajusco,-99.1518421,19.3227378
+I-20220103-0316,04/01/2022,R-20220103-0244,03/01/2022,14:20:07,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.1832645,19.3819337
+I-20220103-0316,04/01/2022,R-20220103-0485,03/01/2022,20:10:37,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Ciudad De Los Deportes,-99.1832645,19.3819337
+I-20220103-0318,04/01/2022,R-20220103-0484,03/01/2022,20:07:04,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.229409,19.3741421
+I-20220103-0319,04/01/2022,R-20220103-0483,03/01/2022,20:05:05,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.2351544,19.3738306
+I-20220103-0321,04/01/2022,R-20220103-0482,03/01/2022,19:57:25,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Desarrollo Urbano Quetzalcoatl,-99.0427539,19.3270666
+I-20220103-0322,04/01/2022,R-20220103-0481,03/01/2022,19:55:23,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Del Valle Sur,-99.1734072,19.3696682
+I-20220103-0324,04/01/2022,R-20220103-0480,03/01/2022,19:52:55,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.1767768,19.3685843
+I-20220103-0325,04/01/2022,R-20220103-0479,03/01/2022,19:50:32,Agua Potable,Fuga,Redes Sociales (Twitter),Alvaro Obregon,Florida,-99.1803017,19.3547434
+I-20220103-0326,04/01/2022,R-20220103-0478,03/01/2022,19:49:28,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,El Oyamel,-99.2392494,19.2376602
+I-20220103-0327,04/01/2022,R-20220103-0477,03/01/2022,19:47:38,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Alianza Popular Revolucionaria,-99.1203143,19.3165549
+I-20220103-0328,04/01/2022,R-20220103-0475,03/01/2022,19:45:37,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.229409,19.3741421
+I-20220103-0329,04/01/2022,R-20220103-0460,03/01/2022,18:58:46,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Villa Verdun,-99.2535677,19.3390235
+I-20220103-0330,04/01/2022,R-20220103-0497,03/01/2022,21:06:41,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Pedregal De San Nicolas 2a Seccion,-99.2354951,19.2889963
+I-20220103-0331,04/01/2022,R-20220103-0496,03/01/2022,20:50:54,Agua Potable,Mal uso,Ciudadano (Call Center),Venustiano Carranza,Morelos,-99.1239709,19.4474551
+I-20220103-0332,04/01/2022,R-20220103-0495,03/01/2022,20:50:50,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Adolfo Ruiz Cortinez,-99.1474958,19.3211006
+I-20220103-0333,04/01/2022,R-20220103-0505,03/01/2022,21:26:23,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.1791093,19.3698344
+I-20220103-0334,04/01/2022,R-20220103-0504,03/01/2022,21:24:22,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.2194274,19.3797201
+I-20220103-0335,04/01/2022,R-20220103-0503,03/01/2022,21:23:37,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.1791093,19.3698344
+I-20220103-0336,04/01/2022,R-20220103-0502,03/01/2022,21:12:14,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Coyoacan,Campestre Churubusco,-99.1317472,19.353265
+I-20220103-0337,04/01/2022,R-20220103-0500,03/01/2022,21:10:50,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Culhuacan Ctm Seccion Viii,-99.1049367,19.3160473
+I-20220103-0338,04/01/2022,R-20220103-0499,03/01/2022,21:10:12,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.2226814,19.3767541
+I-20220103-0339,04/01/2022,R-20220103-0512,03/01/2022,22:20:23,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1730979,19.3709324
+I-20220103-0340,04/01/2022,R-20220103-0511,03/01/2022,22:19:36,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Santa Maria La Ribera,-99.1624067,19.4533194
+I-20220103-0341,04/01/2022,R-20220103-0510,03/01/2022,22:17:41,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Guadalupe Proletaria,-99.1542313,19.5194372
+I-20220103-0342,04/01/2022,R-20220103-0509,03/01/2022,22:12:00,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Heroes De Padierna,-99.223782,19.2851271
+I-20220103-0343,04/01/2022,R-20220103-0514,03/01/2022,22:29:39,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.22245383,19.37983848
+I-20220103-0344,04/01/2022,R-20220103-0516,03/01/2022,23:10:43,Agua Potable,Fuga,Ciudadano (Call Center),Xochimilco,Barrio Del Puente,-99.0754642,19.2467328
+I-20220103-0345,04/01/2022,R-20220103-0507,03/01/2022,22:08:04,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.2284409,19.3718175
+I-20220103-0346,04/01/2022,R-20220103-0515,03/01/2022,22:31:12,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2214168,19.3744541
+I-20220103-0347,04/01/2022,R-20220103-0513,03/01/2022,22:22:19,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Lomas De Capula,-99.21415508,19.38034453
+I-20220103-0348,04/01/2022,R-20220103-0519,03/01/2022,23:26:47,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2314221,19.3694961
+I-20220103-0349,04/01/2022,R-20220103-0517,03/01/2022,23:21:19,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.2277868,19.3750714
+I-20220104-0001,04/01/2022,R-20220103-0506,03/01/2022,21:30:33,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Morelos,-99.1328339,19.444895
+I-20220104-0007,04/01/2022,R-20220103-0026,03/01/2022,10:17:03,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo 2a Seccion,-99.20362473,19.28321568
+I-20220104-0008,04/01/2022,R-20220103-0030,03/01/2022,10:20:58,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,San Juan,-99.18273568,19.3806431
+I-20220104-0009,04/01/2022,R-20220103-0029,03/01/2022,10:19:45,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.17924881,19.36693378
+I-20220104-0011,04/01/2022,R-20220103-0295,03/01/2022,15:29:47,Agua Potable,Falta de agua,Ciudadano (Call Center),Venustiano Carranza,Aeronautica Militar,-99.11682844,19.41883989
+I-20220104-0012,04/01/2022,R-20220103-0294,03/01/2022,15:29:40,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2284888,19.37156441
+I-20220104-0014,04/01/2022,R-20220103-0292,03/01/2022,15:26:25,Agua Potable,Fuga,Ciudadano (Call Center),Azcapotzalco,Petrolera,-99.19793844,19.48475871
+I-20220104-0015,04/01/2022,R-20220103-0291,03/01/2022,15:25:40,Agua Potable,Fuga,Redes Sociales (Twitter),Venustiano Carranza,Pensador Mexicano,-99.07903124,19.44284803
+I-20220104-0017,04/01/2022,R-20220103-0289,03/01/2022,15:23:29,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Coyoacan,Pedregal De Santa Ursula,-99.15596724,19.3090778
+I-20220104-0177,04/01/2022,R-20220103-0286,03/01/2022,15:17:12,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Vasco De Quiroga,-99.09555316,19.49076655
+I-20220104-0413,05/01/2022,R-20220103-0225,03/01/2022,14:04:22,Agua Potable,Fuga,Ciudadano (Call Center),La Magdalena Contreras,Pueblo San Bernabe Ocotepec,-99.2580384,19.312512
+I-20220105-0278,05/01/2022,R-20220103-0247,03/01/2022,14:24:59,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.226107,19.3756433
+I-20220106-0188,06/01/2022,R-20220103-0287,03/01/2022,15:20:45,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Alvaro Obregon,Pueblo Axotla,-99.1736613,19.3564584
+I-20220106-0189,06/01/2022,R-20220103-0285,03/01/2022,15:09:53,Agua Potable,Fuga,Redes Sociales (Twitter),Cuauhtemoc,Doctores,-99.1453289,19.4153841
+I-20220106-0190,06/01/2022,R-20220103-0282,03/01/2022,15:06:37,Agua Potable,Falta de agua,Ciudadano (Call Center),Xochimilco,Lomas De Nativitas,-99.088671,19.2417203
+I-20220106-0191,06/01/2022,R-20220103-0276,03/01/2022,14:57:29,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1747443,19.3698575
+I-20220106-0192,06/01/2022,R-20220103-0275,03/01/2022,14:57:23,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Capultitlan,-99.134066,19.4764049
+I-20220106-0196,06/01/2022,R-20220103-0274,03/01/2022,14:56:53,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Del Valle Sur,-99.1747318,19.3696457
+I-20220106-0197,06/01/2022,R-20220103-0271,03/01/2022,14:47:23,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Club De Golf Mexico,-99.1570523,19.2859266
+I-20220106-0203,06/01/2022,R-20220103-0283,03/01/2022,15:09:17,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Roma Sur,-99.162805,19.4076881
+I-20220106-0203,06/01/2022,R-20220103-0224,03/01/2022,14:03:11,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Roma Sur,-99.162805,19.4076881
+I-20220106-0206,06/01/2022,R-20220103-0273,03/01/2022,14:50:08,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.2281758,19.3752951
+I-20220106-0207,06/01/2022,R-20220103-0281,03/01/2022,15:03:21,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Alianza Popular Revolucionaria,-99.1184138,19.3131932
+I-20220106-0208,06/01/2022,R-20220103-0272,03/01/2022,14:49:38,Agua Potable,Fuga,Ciudadano (Call Center),Azcapotzalco,Ampliacion San Pedro Xalpa,-99.2168306,19.4780608
+I-20220106-0209,06/01/2022,R-20220103-0270,03/01/2022,14:45:27,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Desarrollo Urbano Quetzalcoatl,-99.0436789,19.3233553
+I-20220106-0210,06/01/2022,R-20220103-0268,03/01/2022,14:43:00,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.170663,19.3718717
+I-20220106-0211,06/01/2022,R-20220103-0267,03/01/2022,14:41:49,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Vertiz Narvarte,-99.1477694,19.3833633
+I-20220106-0213,06/01/2022,R-20220103-0266,03/01/2022,14:40:34,Agua Potable,Fuga,Ciudadano (Call Center),Xochimilco,Barrio Caltongo,-99.0799447,19.2502483
+I-20220106-0223,06/01/2022,R-20220103-0265,03/01/2022,14:40:26,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.17734981,19.37217676
+I-20220106-0230,06/01/2022,R-20220103-0264,03/01/2022,14:38:35,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztapalapa,El Vergel,-99.08447022,19.31737529
+I-20220106-0235,06/01/2022,R-20220103-0262,03/01/2022,14:37:41,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.1774474,19.3696831
+I-20220106-0237,06/01/2022,R-20220103-0263,03/01/2022,14:38:27,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Agricola Pantitlan,-99.0657154,19.4077141
+I-20220106-0238,06/01/2022,R-20220103-0261,03/01/2022,14:36:57,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Xochimilco,Santa Cruz Acalpixca,-99.0748072,19.2517272
+I-20220106-0239,06/01/2022,R-20220103-0256,03/01/2022,14:32:41,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.174721,19.3725383
+I-20220106-0240,06/01/2022,R-20220103-0252,03/01/2022,14:28:46,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.1796022,19.368926
+I-20220106-0241,06/01/2022,R-20220103-0250,03/01/2022,14:28:32,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1734704,19.3716225
+I-20220106-0242,06/01/2022,R-20220103-0258,03/01/2022,14:33:42,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Barrio Santa Catarina,-99.17703918,19.35158344
+I-20220106-0243,06/01/2022,R-20220103-0259,03/01/2022,14:34:40,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Ampliacion Progreso Nacional,-99.1594908,19.5176549
+I-20220106-0244,06/01/2022,R-20220103-0249,03/01/2022,14:28:09,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztacalco,Agricola Pantitlan,-99.0666197,19.4130738
+I-20220106-0245,06/01/2022,R-20220103-0248,03/01/2022,14:27:40,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1714525,19.3696282
+I-20220106-0248,06/01/2022,R-20220103-0246,03/01/2022,14:24:05,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Narvarte Oriente,-99.1518745,19.3858098
+I-20220106-0249,06/01/2022,R-20220103-0245,03/01/2022,14:22:19,Agua Potable,Falta de agua,Ciudadano (Call Center),Venustiano Carranza,Jardin Balbuena,-99.1144213,19.4168892
+I-20220106-0250,06/01/2022,R-20220103-0257,03/01/2022,14:33:29,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Guadalupe Proletaria,-99.1554564,19.5215623
+I-20220106-0251,06/01/2022,R-20220103-0242,03/01/2022,14:19:12,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Del Valle Centro,-99.16452885,19.37870493
+I-20220106-0252,06/01/2022,R-20220103-0243,03/01/2022,14:19:22,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1743486,19.3689768
+I-20220106-0253,06/01/2022,R-20220103-0240,03/01/2022,14:18:33,Agua Potable,Falta de agua,Redes Sociales (Facebook),Benito Juarez,Ciudad De Los Deportes,-99.18278933,19.38129589
+I-20220106-0254,06/01/2022,R-20220103-0238,03/01/2022,14:17:30,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Centro,-99.13407414,19.43184673
+I-20220106-0256,06/01/2022,R-20220103-0255,03/01/2022,14:32:38,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo,-99.18674881,19.28468896
+I-20220106-0257,06/01/2022,R-20220103-0239,03/01/2022,14:17:36,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Buenavista,-99.03487623,19.32860332
+I-20220106-0258,06/01/2022,R-20220103-0235,03/01/2022,14:12:47,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Magdalena De Las Salinas,-99.14487362,19.47976212
+I-20220106-0260,06/01/2022,R-20220103-0233,03/01/2022,14:11:32,Drenaje,Brote en aguas negras,Ciudadano (Call Center),Cuauhtemoc,Hipodromo,-99.1713153,19.4129674
+I-20220106-0263,06/01/2022,R-20220103-0253,03/01/2022,14:29:25,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Portales Norte,-99.14589272,19.37128607
+I-20220106-0264,06/01/2022,R-20220103-0254,03/01/2022,14:29:33,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,6 De Junio,-99.12516487,19.5493667
+I-20220106-0267,06/01/2022,R-20220103-0241,03/01/2022,14:19:00,Drenaje,Rejilla de piso,Ciudadano (Call Center),Azcapotzalco,El Jaguey,-99.1723609,19.48827848
+I-20220106-0268,06/01/2022,R-20220103-0237,03/01/2022,14:16:38,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Agricola Pantitlan,-99.0638301,19.4179161
+I-20220106-0269,06/01/2022,R-20220103-0227,03/01/2022,14:07:24,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.18362617,19.38112384
+I-20220106-0273,06/01/2022,R-20220103-0234,03/01/2022,14:12:15,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Lomas De Chapultepec Viii Seccion,-99.2324762,19.416179
+I-20220106-0277,06/01/2022,R-20220103-0231,03/01/2022,14:10:33,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo 1a Seccion,-99.19174449,19.28442402
+I-20220106-0279,06/01/2022,R-20220103-0230,03/01/2022,14:10:22,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Heroes De Padierna,-99.2233217,19.2879959
+I-20220106-0281,06/01/2022,R-20220103-0229,03/01/2022,14:07:43,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1720176,19.3686472
+I-20220106-0282,06/01/2022,R-20220103-0221,03/01/2022,13:58:53,Agua Potable,Fuga,Ciudadano (Call Center),Cuajimalpa de Morelos,San Mateo Tlaltenango,-99.2866247,19.3422965
+I-20220106-0283,06/01/2022,R-20220103-0220,03/01/2022,13:57:08,Agua Potable,Fuga,Ciudadano (Call Center),La Magdalena Contreras,El Tanque,-99.25376058,19.32690752
+I-20220106-0284,06/01/2022,R-20220103-0223,03/01/2022,14:02:17,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Ciudad De Los Deportes,-99.18120146,19.3818829
+I-20220106-0285,06/01/2022,R-20220103-0226,03/01/2022,14:05:11,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.22945976,19.37153911
+I-20220106-0289,06/01/2022,R-20220103-0228,03/01/2022,14:07:30,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Pueblo Jardines De San Juan,-99.1841943,19.2148209
+I-20220106-0306,06/01/2022,R-20220103-0032,03/01/2022,10:24:43,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Lindavista Sur,-99.1372956,19.4921232
+I-20220106-0308,06/01/2022,R-20220103-0171,03/01/2022,11:56:09,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Culhuacan Ctm Seccion Ix-B,-99.10312235,19.3140037
+I-20220106-0309,06/01/2022,R-20220103-0177,03/01/2022,13:13:11,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztapalapa,Pueblo Santa Martha Acatitla,-99.00743723,19.35849203
+I-20220106-0313,06/01/2022,R-20220103-0185,03/01/2022,13:23:11,Agua Potable,Falta de agua,Redes Sociales (Twitter),Coyoacan,Pedregal De Santa Ursula,-99.1486609,19.30771088
+I-20220101-0055,02/01/2022,R-20220104-0400,04/01/2022,14:34:58,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Viaducto Piedad,-99.13397312,19.40035233
+I-20220101-0055,02/01/2022,R-20220104-0377,04/01/2022,14:13:02,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Viaducto Piedad,-99.13397312,19.40035233
+I-20220101-0055,02/01/2022,R-20220104-0580,04/01/2022,21:29:20,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Viaducto Piedad,-99.13397312,19.40035233
+I-20220101-0106,02/01/2022,R-20220104-0509,04/01/2022,17:03:14,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Molino De Rosas,-99.20234777,19.37464636
+I-20220101-0116,02/01/2022,R-20220104-0365,04/01/2022,13:52:49,Agua Potable,Fuga,Ciudadano (Call Center),Azcapotzalco,Arenal,-99.1509676,19.46510524
+I-20220102-0002,02/01/2022,R-20220104-0021,04/01/2022,08:19:52,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Portales Norte,-99.1488213,19.3717563
+I-20220102-0140,03/01/2022,R-20220104-0179,04/01/2022,10:57:32,Agua Potable,Fuga,Redes Sociales (Twitter),Benito Juarez,Josefa Ortiz De Dominguez,-99.1423655,19.3874932
+I-20220103-0009,03/01/2022,R-20220104-0412,04/01/2022,14:46:21,Agua Potable,Fuga,Redes Sociales (Twitter),Xochimilco,Barrio 18,-99.10869061,19.28171183
+I-20220103-0043,03/01/2022,R-20220104-0012,04/01/2022,08:09:51,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztapalapa,Pueblo San Sebastian Tecoloxtitla,-99.0119739,19.3628151
+I-20220103-0136,03/01/2022,R-20220104-0099,04/01/2022,09:36:29,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Escandon Ii Seccion,-99.17203908,19.4010101
+I-20220103-0159,03/01/2022,R-20220104-0229,04/01/2022,11:48:53,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Ajusco,-99.16195395,19.31391764
+I-20220103-0159,03/01/2022,R-20220104-0357,04/01/2022,13:43:44,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Ajusco,-99.16195395,19.31391764
+I-20220103-0159,03/01/2022,R-20220104-0368,04/01/2022,13:55:26,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Ajusco,-99.16195395,19.31391764
+I-20220103-0338,04/01/2022,R-20220104-0085,04/01/2022,09:20:04,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.2226814,19.3767541
+I-20220104-0002,04/01/2022,R-20220104-0001,04/01/2022,00:00:04,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2237223,19.3798794
+I-20220104-0010,04/01/2022,R-20220104-0003,04/01/2022,07:36:37,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jardines Del Pedregal,-99.21184301,19.32452832
+I-20220104-0013,04/01/2022,R-20220104-0004,04/01/2022,07:43:35,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Insurgentes Mixcoac,-99.18595433,19.37146826
+I-20220104-0016,04/01/2022,R-20220104-0005,04/01/2022,07:52:47,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.22619283,19.37587609
+I-20220104-0018,04/01/2022,R-20220104-0006,04/01/2022,07:57:02,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.22470689,19.37641757
+I-20220104-0019,04/01/2022,R-20220104-0007,04/01/2022,07:59:26,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.22000766,19.37906423
+I-20220104-0020,04/01/2022,R-20220104-0008,04/01/2022,08:00:52,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.22858,19.37591657
+I-20220104-0021,04/01/2022,R-20220104-0011,04/01/2022,08:06:39,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Rinconada Coapa 2a Seccion,-99.11462903,19.3007647
+I-20220104-0022,04/01/2022,R-20220104-0009,04/01/2022,08:03:44,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Periodista,-99.14751291,19.38309739
+I-20220104-0023,04/01/2022,R-20220104-0013,04/01/2022,08:09:53,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,El Charco,-99.20074403,19.23369261
+I-20220104-0024,04/01/2022,R-20220104-0015,04/01/2022,08:14:54,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.2210269,19.38016741
+I-20220104-0025,04/01/2022,R-20220104-0014,04/01/2022,08:13:50,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Heroes De Padierna,-99.2183125,19.27897751
+I-20220104-0026,04/01/2022,R-20220104-0018,04/01/2022,08:16:50,Agua Potable,Falta de agua,Ciudadano (Call Center),Venustiano Carranza,Jardin Balbuena,-99.1107291,19.41273326
+I-20220104-0027,04/01/2022,R-20220104-0035,04/01/2022,08:29:42,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Consejo Agrarista Mexicano,-99.0574368,19.3255935
+I-20220104-0027,04/01/2022,R-20220104-0026,04/01/2022,08:24:08,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Consejo Agrarista Mexicano,-99.0574368,19.3255935
+I-20220104-0028,04/01/2022,R-20220104-0036,04/01/2022,08:30:22,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Sur,-99.1756402,19.3690971
+I-20220104-0029,04/01/2022,R-20220104-0143,04/01/2022,10:17:41,Agua Potable,Fuga,Redes Sociales (Twitter),Cuauhtemoc,Roma Norte,-99.1703695,19.416462
+I-20220104-0029,04/01/2022,R-20220104-0350,04/01/2022,13:34:28,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Roma Norte,-99.1703695,19.416462
+I-20220104-0029,04/01/2022,R-20220104-0027,04/01/2022,08:24:21,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Roma Norte,-99.1703695,19.416462
+I-20220104-0030,04/01/2022,R-20220104-0032,04/01/2022,08:27:58,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Los Gamitos,-99.23776925,19.37584066
+I-20220104-0031,04/01/2022,R-20220104-0059,04/01/2022,08:54:56,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Unidad Santa Cruz Meyehualco,-99.0448055,19.3501877
+I-20220104-0031,04/01/2022,R-20220104-0038,04/01/2022,08:33:25,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Unidad Santa Cruz Meyehualco,-99.0448055,19.3501877
+I-20220104-0032,04/01/2022,R-20220104-0031,04/01/2022,08:27:05,Agua Potable,Fuga,Ciudadano (Call Center),Xochimilco,Barrio Pocitos,-99.08202946,19.2445212
+I-20220104-0033,04/01/2022,R-20220104-0025,04/01/2022,08:22:37,Drenaje,Brote en aguas negras,Ciudadano (Call Center),Cuauhtemoc,Algarin,-99.1413622,19.4037523
+I-20220104-0034,04/01/2022,R-20220104-0029,04/01/2022,08:24:38,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Golondrinas 2da Seccion,-99.21694994,19.37658963
+I-20220104-0035,04/01/2022,R-20220104-0037,04/01/2022,08:30:42,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Granjas Mexico,-99.1078789,19.4033255
+I-20220104-0035,04/01/2022,R-20220104-0260,04/01/2022,12:13:28,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Granjas Mexico,-99.1078789,19.4033255
+I-20220104-0036,04/01/2022,R-20220104-0041,04/01/2022,08:34:34,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.22308683,19.37961582
+I-20220104-0037,04/01/2022,R-20220104-0040,04/01/2022,08:33:45,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.22088206,19.37691351
+I-20220104-0038,04/01/2022,R-20220104-0051,04/01/2022,08:45:52,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Napoles,-99.1723573,19.3972526
+I-20220104-0039,04/01/2022,R-20220104-0056,04/01/2022,08:51:15,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Chalma De Guadalupe,-99.1531674,19.553379
+I-20220104-0040,04/01/2022,R-20220104-0053,04/01/2022,08:46:40,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Santa Fe La Loma,-99.244198,19.3746514
+I-20220104-0041,04/01/2022,R-20220104-0064,04/01/2022,08:57:17,Drenaje,Brote en aguas negras,Ciudadano (Call Center),Tlahuac,Barrio San Mateo,-99.0015631,19.2710151
+I-20220104-0042,04/01/2022,R-20220104-0068,04/01/2022,09:04:45,Agua Potable,Fuga,Ciudadano (Call Center),Xochimilco,Nativitas,-99.0099786,19.2504088
+I-20220104-0043,04/01/2022,R-20220104-0046,04/01/2022,08:38:01,Agua Potable,Fuga,Ciudadano (Call Center),Iztacalco,Viaducto Piedad,-99.130239,19.4011252
+I-20220104-0044,04/01/2022,R-20220104-0048,04/01/2022,08:44:22,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Tepeyac Insurgentes,-99.12178516,19.48163333
+I-20220104-0045,04/01/2022,R-20220104-0067,04/01/2022,09:03:59,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.2198807,19.3782979
+I-20220104-0046,04/01/2022,R-20220104-0049,04/01/2022,08:45:09,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.22931492,19.3736646
+I-20220104-0047,04/01/2022,R-20220104-0052,04/01/2022,08:46:11,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Cacama,-99.12827075,19.35918035
+I-20220104-0048,04/01/2022,R-20220104-0055,04/01/2022,08:50:28,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito,-99.231972,19.3778075
+I-20220104-0049,04/01/2022,R-20220104-0047,04/01/2022,08:41:37,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.23757613,19.37446418
+I-20220104-0050,04/01/2022,R-20220104-0057,04/01/2022,08:52:12,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito,-99.22712088,19.37945389
+I-20220104-0051,04/01/2022,R-20220104-0066,04/01/2022,09:02:41,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.23777461,19.37183263
+I-20220104-0052,04/01/2022,R-20220104-0058,04/01/2022,08:54:10,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion La Mexicana,-99.2289493,19.3842992
+I-20220104-0052,04/01/2022,R-20220104-0119,04/01/2022,09:53:13,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion La Mexicana,-99.2289493,19.3842992
+I-20220104-0053,04/01/2022,R-20220104-0074,04/01/2022,09:11:22,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,El Pirul,-99.21832323,19.38026356
+I-20220104-0054,04/01/2022,R-20220104-0076,04/01/2022,09:12:42,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Lomas De Capula,-99.2152977,19.37916038
+I-20220104-0055,04/01/2022,R-20220104-0077,04/01/2022,09:14:10,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Dinamita,-99.10436153,19.49296128
+I-20220104-0056,04/01/2022,R-20220104-0075,04/01/2022,09:12:39,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.23752248,19.37333565
+I-20220104-0057,04/01/2022,R-20220104-0078,04/01/2022,09:15:51,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Paulino Navarro,-99.13286805,19.41207047
+I-20220104-0058,04/01/2022,R-20220104-0081,04/01/2022,09:18:19,Agua Potable,Falta de agua,Ciudadano (Call Center),Coyoacan,Pedregal De Santo Domingo,-99.16867018,19.32770734
+I-20220104-0059,04/01/2022,R-20220104-0079,04/01/2022,09:15:52,Agua Potable,Fuga,Ciudadano (Call Center),Benito Juarez,Portales Norte,-99.1510427,19.37298647
+I-20220104-0060,04/01/2022,R-20220104-0082,04/01/2022,09:18:56,Agua Potable,Fuga,Ciudadano (Call Center),Ecatepec de Morelos,El Chamizal,-99.0633012,19.5023906
+I-20220104-0061,04/01/2022,R-20220104-0073,04/01/2022,09:11:06,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.22012568,19.37626575
+I-20220104-0062,04/01/2022,R-20220104-0072,04/01/2022,09:10:49,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlahuac,La Draga,-99.04285848,19.28365114
+I-20220104-0063,04/01/2022,R-20220104-0083,04/01/2022,09:19:21,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Norte,-99.17066574,19.39587937
+I-20220104-0064,04/01/2022,R-20220104-0086,04/01/2022,09:20:22,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Jalalpa,-99.2325443,19.37789525
+I-20220104-0065,04/01/2022,R-20220104-0071,04/01/2022,09:09:10,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Pueblo Ocotla,-99.15066719,19.20723603
+I-20220104-0066,04/01/2022,R-20220104-0070,04/01/2022,09:09:09,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Vista Hermosa,-99.12230015,19.5491291
+I-20220104-0067,04/01/2022,R-20220104-0087,04/01/2022,09:20:28,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Tlalpuente,-99.17907715,19.25449321
+I-20220104-0068,04/01/2022,R-20220104-0506,04/01/2022,16:55:15,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Leyes De Reforma 3a Seccion,-99.07367706,19.37827985
+I-20220104-0068,04/01/2022,R-20220104-0069,04/01/2022,09:07:22,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Leyes De Reforma 3a Seccion,-99.07367706,19.37827985
+I-20220104-0069,04/01/2022,R-20220104-0088,04/01/2022,09:23:02,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.23142314,19.36989942
+I-20220104-0070,04/01/2022,R-20220104-0090,04/01/2022,09:24:01,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.1771245,19.3701221
+I-20220104-0071,04/01/2022,R-20220104-0089,04/01/2022,09:23:48,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.23822522,19.37228809
+I-20220104-0072,04/01/2022,R-20220104-0091,04/01/2022,09:26:31,Agua Potable,Falta de agua,Ciudadano (Call Center),Xochimilco,San Lorenzo La Cebada,-99.1212219,19.28343847
+I-20220104-0073,04/01/2022,R-20220104-0106,04/01/2022,09:41:43,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Benito Juarez,-99.1405169,19.5304271
+I-20220104-0074,04/01/2022,R-20220104-0093,04/01/2022,09:30:44,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.22382712,19.374282
+I-20220104-0075,04/01/2022,R-20220104-0094,04/01/2022,09:31:45,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Actipan,-99.17706013,19.37006137
+I-20220104-0076,04/01/2022,R-20220104-0096,04/01/2022,09:33:19,Agua Potable,Falta de agua,Ciudadano (Call Center),La Magdalena Contreras,San Jeronimo Aculco,-99.22638059,19.32083288
+I-20220104-0077,04/01/2022,R-20220104-0100,04/01/2022,09:36:51,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Educacion,-99.13530886,19.33367036
+I-20220104-0078,04/01/2022,R-20220104-0110,04/01/2022,09:46:50,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.23814,19.3745669
+I-20220104-0079,04/01/2022,R-20220104-0114,04/01/2022,09:50:09,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Central De Abasto,-99.0800193,19.3793357
+I-20220104-0080,04/01/2022,R-20220104-0128,04/01/2022,09:58:10,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Lomas De Capula,-99.2150101,19.3792086
+I-20220104-0081,04/01/2022,R-20220104-0132,04/01/2022,10:01:57,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Nueva Industrial Vallejo,-99.1434454,19.5050024
+I-20220104-0082,04/01/2022,R-20220104-0123,04/01/2022,09:55:43,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.2261992,19.3756352
+I-20220104-0083,04/01/2022,R-20220104-0124,04/01/2022,09:56:25,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.23466861,19.37378605
+I-20220104-0084,04/01/2022,R-20220104-0131,04/01/2022,10:01:28,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.22775924,19.37040044
+I-20220104-0085,04/01/2022,R-20220104-0127,04/01/2022,09:58:01,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2241168,19.37688314
+I-20220104-0086,04/01/2022,R-20220104-0129,04/01/2022,10:00:46,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Pueblo Sta Cruz Meyehualco,-99.0398424,19.3422588
+I-20220104-0087,04/01/2022,R-20220104-0134,04/01/2022,10:07:59,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Centro,-99.17079449,19.37967655
+I-20220104-0088,04/01/2022,R-20220104-0126,04/01/2022,09:57:19,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.22047973,19.37949437
+I-20220104-0089,04/01/2022,R-20220104-0125,04/01/2022,09:56:39,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Pueblo San Miguel Topilejo,-99.14988935,19.2004781
+I-20220104-0090,04/01/2022,R-20220104-0139,04/01/2022,10:13:44,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Guadalupe Proletaria,-99.15783405,19.52407871
+I-20220104-0091,04/01/2022,R-20220104-0140,04/01/2022,10:14:05,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Prados De Coyoacan,-99.13012147,19.31791191
+I-20220104-0092,04/01/2022,R-20220104-0141,04/01/2022,10:15:55,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.22422409,19.37246015
+I-20220104-0093,04/01/2022,R-20220104-0142,04/01/2022,10:17:37,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Villa Solidaridad,-99.2198494,19.3831852
+I-20220104-0094,04/01/2022,R-20220104-0144,04/01/2022,10:18:14,Agua Potable,Falta de agua,Redes Sociales (Twitter),La Magdalena Contreras,El Tanque,-99.25023079,19.32564199
+I-20220104-0095,04/01/2022,R-20220104-0145,04/01/2022,10:18:26,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Hogar Y Redencion,-99.21260476,19.37055732
+I-20220104-0096,04/01/2022,R-20220104-0138,04/01/2022,10:13:25,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Las Cruces,-99.25579369,19.32581411
+I-20220104-0097,04/01/2022,R-20220104-0401,04/01/2022,14:35:32,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Benito Juarez,Actipan,-99.17811155,19.36971723
+I-20220104-0097,04/01/2022,R-20220104-0148,04/01/2022,10:24:18,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Benito Juarez,Actipan,-99.17811155,19.36971723
+I-20220104-0098,04/01/2022,R-20220104-0147,04/01/2022,10:22:09,Agua Potable,Falta de agua,Redes Sociales (Twitter),Azcapotzalco,Pueblo San Pedro Xalpa,-99.2129159,19.48404059
+I-20220104-0099,04/01/2022,R-20220104-0152,04/01/2022,10:29:28,Agua Potable,Fuga,Ciudadano (Call Center),Xochimilco,Barrio Del Puente,-99.07654166,19.24820316
+I-20220104-0100,04/01/2022,R-20220104-0151,04/01/2022,10:28:51,Agua Potable,Fuga,Ciudadano (Call Center),Cuauhtemoc,Cuauhtemoc,-99.16687846,19.42857361
+I-20220104-0101,04/01/2022,R-20220104-0153,04/01/2022,10:29:43,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Golondrinas 2da Seccion,-99.21666026,19.37656433
+I-20220104-0102,04/01/2022,R-20220104-0171,04/01/2022,10:47:13,Agua Potable,Falta de agua,Ciudadano (Call Center),Venustiano Carranza,Jardin Balbuena,-99.1109859,19.4141585
+I-20220104-0103,04/01/2022,R-20220104-0158,04/01/2022,10:36:48,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Golondrinas 2da Seccion,-99.21554446,19.37739426
+I-20220104-0104,04/01/2022,R-20220104-0162,04/01/2022,10:41:52,Agua Potable,Fuga,Ciudadano (Call Center),La Magdalena Contreras,Lomas Quebradas,-99.2407728,19.3158179
+I-20220104-0105,04/01/2022,R-20220104-0164,04/01/2022,10:42:18,Drenaje,Brote en aguas negras,Ciudadano (Call Center),Benito Juarez,Portales Norte,-99.15566683,19.3668022
+I-20220104-0106,04/01/2022,R-20220104-0163,04/01/2022,10:42:15,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,El Mirador 1a Seccion,-99.1795417,19.2698636
+I-20220104-0107,04/01/2022,R-20220104-0167,04/01/2022,10:46:14,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.23585951,19.37335083
+I-20220104-0108,04/01/2022,R-20220104-0168,04/01/2022,10:46:15,Drenaje,Brote en aguas negras,Ciudadano (Call Center),Cuauhtemoc,Roma Sur,-99.16264057,19.40387393
+I-20220104-0109,04/01/2022,R-20220104-0165,04/01/2022,10:43:10,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Miguel Hidalgo,-99.1877875,19.2849853
+I-20220104-0110,04/01/2022,R-20220104-0159,04/01/2022,10:37:17,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Golondrinas 2da Seccion,-99.21454668,19.37875048
+I-20220104-0111,04/01/2022,R-20220104-0155,04/01/2022,10:31:53,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Cocoyotes,-99.1309246,19.5479193
+I-20220104-0112,04/01/2022,R-20220104-0157,04/01/2022,10:35:38,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2191779,19.3767391
+I-20220104-0113,04/01/2022,R-20220104-0161,04/01/2022,10:39:39,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,2da Ampliacion Presidentes,-99.22788262,19.37443887
+I-20220104-0114,04/01/2022,R-20220104-0169,04/01/2022,10:46:31,Agua Potable,Fuga,Ciudadano (Call Center),Tlahuac,Del Mar,-99.0559423,19.28645626
+I-20220104-0115,04/01/2022,R-20220104-0170,04/01/2022,10:46:40,Agua Potable,Fuga,Ciudadano (Call Center),Xochimilco,Barrio La Planta,-99.08078492,19.24516948
+I-20220104-0116,04/01/2022,R-20220104-0173,04/01/2022,10:52:06,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Lomas De Capula,-99.21755075,19.37780922
+I-20220104-0117,04/01/2022,R-20220104-0175,04/01/2022,10:52:47,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Pueblo San Juan De Aragon,-99.08091366,19.46618255
+I-20220104-0118,04/01/2022,R-20220104-0176,04/01/2022,10:53:46,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Culhuacan Ctm Seccion Vii,-99.11195279,19.32365938
+I-20220104-0119,04/01/2022,R-20220104-0178,04/01/2022,10:57:07,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztapalapa,Barrio San Ignacio,-99.09540832,19.36217143
+I-20220104-0120,04/01/2022,R-20220104-0177,04/01/2022,10:54:54,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Fuentes Brotantes,-99.17945266,19.28794995
+I-20220104-0121,04/01/2022,R-20220104-0183,04/01/2022,11:04:19,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Santisima Trinidad,-99.1856271,19.27081479
+I-20220104-0122,04/01/2022,R-20220104-0186,04/01/2022,11:08:59,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,Golondrinas 1ra Seccion,-99.21298563,19.38001054
+I-20220104-0123,04/01/2022,R-20220104-0187,04/01/2022,11:10:02,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Desarrollo Urbano,-99.21950877,19.38302655
+I-20220104-0124,04/01/2022,R-20220104-0201,04/01/2022,11:25:07,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.2295071,19.3781231
+I-20220104-0125,04/01/2022,R-20220104-0185,04/01/2022,11:08:34,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Golondrinas 2da Seccion,-99.21609163,19.37778898
+I-20220104-0126,04/01/2022,R-20220104-0197,04/01/2022,11:21:45,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Nonoalco Tlatelolco,-99.1379576,19.4529235
+I-20220104-0127,04/01/2022,R-20220104-0206,04/01/2022,11:30:31,Agua Potable,Fuga,Ciudadano (Call Center),Tlahuac,Del Mar,-99.0567604,19.2856001
+I-20220104-0128,04/01/2022,R-20220104-0180,04/01/2022,11:02:01,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Golondrinas 2da Seccion,-99.21668172,19.37655927
+I-20220104-0129,04/01/2022,R-20220104-0207,04/01/2022,11:32:06,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.2223624,19.3751367
+I-20220104-0130,04/01/2022,R-20220104-0211,04/01/2022,11:34:52,Agua Potable,Falta de agua,Ciudadano (Call Center),La Magdalena Contreras,Las Cruces,-99.2567099,19.323915
+I-20220104-0131,04/01/2022,R-20220104-0213,04/01/2022,11:35:23,Agua Potable,Fuga,Redes Sociales (Twitter),Azcapotzalco,Ampliacion San Pedro Xalpa,-99.2168849,19.4783688
+I-20220104-0132,04/01/2022,R-20220104-0209,04/01/2022,11:32:46,Agua Potable,Fuga,Ciudadano (Call Center),Iztapalapa,Desarrollo Urbano Quetzalcoatl,-99.0436789,19.3233553
+I-20220104-0133,04/01/2022,R-20220104-0212,04/01/2022,11:35:19,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Vertiz Narvarte,-99.1569077,19.380703
+I-20220104-0134,04/01/2022,R-20220104-0196,04/01/2022,11:19:58,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Cocoyotes,-99.13442373,19.5472334
+I-20220104-0135,04/01/2022,R-20220104-0220,04/01/2022,11:41:47,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Las Aguilas 1ra Seccion,-99.2165176,19.3548789
+I-20220104-0136,04/01/2022,R-20220104-0226,04/01/2022,11:46:10,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.22177255,19.37988403
+I-20220104-0137,04/01/2022,R-20220104-0225,04/01/2022,11:44:54,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,El Mirador 3a Seccion,-99.18296099,19.27001977
+I-20220104-0138,04/01/2022,R-20220104-0208,04/01/2022,11:32:45,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,Presidentes,-99.21996474,19.37768777
+I-20220104-0139,04/01/2022,R-20220104-0214,04/01/2022,11:37:36,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.22359109,19.37946401
+I-20220104-0140,04/01/2022,R-20220104-0227,04/01/2022,11:48:27,Agua Potable,Fuga,Ciudadano (Call Center),Tlalpan,Magisterial,-99.1114846,19.293486
+I-20220104-0141,04/01/2022,R-20220104-0219,04/01/2022,11:41:21,Agua Potable,Falta de agua,Redes Sociales (Twitter),Tlalpan,Ejidos De San Pedro Martir,-99.1598488,19.2743586
+I-20220104-0142,04/01/2022,R-20220104-0234,04/01/2022,11:50:52,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.2338191,19.3758572
+I-20220104-0143,04/01/2022,R-20220104-0236,04/01/2022,11:52:37,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Actipan,-99.1775868,19.3699423
+I-20220104-0144,04/01/2022,R-20220104-0238,04/01/2022,11:53:31,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Presidentes,-99.2239454,19.3779505
+I-20220104-0145,04/01/2022,R-20220104-0243,04/01/2022,11:57:47,Agua Potable,Falta de agua,Redes Sociales (Twitter),Azcapotzalco,Prados Del Rosario,-99.2060503,19.5024744
+I-20220104-0146,04/01/2022,R-20220104-0248,04/01/2022,12:00:36,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Del Valle Sur,-99.1758542,19.3707993
+I-20220104-0147,04/01/2022,R-20220104-0235,04/01/2022,11:52:28,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.2351091,19.3730774
+I-20220104-0148,04/01/2022,R-20220104-0246,04/01/2022,12:00:23,Agua Potable,Falta de agua,Ciudadano (Call Center),La Magdalena Contreras,San Jeronimo Lidice,-99.2143205,19.3286619
+I-20220104-0149,04/01/2022,R-20220104-0240,04/01/2022,11:54:34,Agua Potable,Falta de agua,Ciudadano (Call Center),Venustiano Carranza,Alvaro Obregon,-99.11695719,19.41219696
+I-20220104-0150,04/01/2022,R-20220104-0254,04/01/2022,12:06:25,Agua Potable,Fuga,Ciudadano (Call Center),Tlahuac,Ampliacion Los Olivos,-99.0550413,19.3043952
+I-20220104-0151,04/01/2022,R-20220104-0251,04/01/2022,12:03:56,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,Desarrollo Urbano,-99.2232499,19.3815774
+I-20220104-0152,04/01/2022,R-20220104-0232,04/01/2022,11:50:24,Agua Potable,Falta de agua,Redes Sociales (Facebook),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.2350924,19.37310286
+I-20220104-0153,04/01/2022,R-20220104-0253,04/01/2022,12:04:29,Agua Potable,Falta de agua,Ciudadano (Call Center),Gustavo A. Madero,Lomas De Cuautepec,-99.13509965,19.56957603
+I-20220104-0154,04/01/2022,R-20220104-0237,04/01/2022,11:53:17,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Tlalcoligia,-99.17196929,19.27580767
+I-20220104-0155,04/01/2022,R-20220104-0230,04/01/2022,11:49:00,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,1ra Ampliacion Presidentes,-99.2231673,19.37494494
+I-20220104-0156,04/01/2022,R-20220104-0256,04/01/2022,12:09:24,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Calzada Jalalpa,-99.2257628,19.3799719
+I-20220104-0157,04/01/2022,R-20220104-0231,04/01/2022,11:49:28,Agua Potable,Falta de agua,Redes Sociales (Twitter),Alvaro Obregon,1ra Ampliacion Presidentes,-99.22468007,19.37641251
+I-20220104-0158,04/01/2022,R-20220104-0228,04/01/2022,11:48:46,Agua Potable,Falta de agua,Ciudadano (Call Center),Tlalpan,Ejidos De San Pedro Martir,-99.15944338,19.27414171
+I-20220104-0159,04/01/2022,R-20220104-0255,04/01/2022,12:08:42,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Tlahuac,Barrio San Miguel,-98.9638906,19.2230455
+I-20220104-0160,04/01/2022,R-20220104-0262,04/01/2022,12:16:05,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Merced Gomez,-99.205768,19.362124
+I-20220104-0161,04/01/2022,R-20220104-0244,04/01/2022,11:59:10,Agua Potable,Fuga,Ciudadano (Call Center),Alvaro Obregon,Paseo De Las Lomas,-99.2656374,19.37243991
+I-20220104-0162,04/01/2022,R-20220104-0261,04/01/2022,12:14:29,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Benito Juarez,Del Valle Norte,-99.1684959,19.3999735
+I-20220104-0163,04/01/2022,R-20220104-0264,04/01/2022,12:16:18,Agua Potable,Fuga,Redes Sociales (Twitter),Gustavo A. Madero,Residencial Zacatenco,-99.1239874,19.5008463
+I-20220104-0163,04/01/2022,R-20220104-0266,04/01/2022,12:18:19,Agua Potable,Fuga,Redes Sociales (Twitter),Gustavo A. Madero,Residencial Zacatenco,-99.1239874,19.5008463
+I-20220104-0163,04/01/2022,R-20220104-0080,04/01/2022,09:16:00,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Residencial Zacatenco,-99.1239874,19.5008463
+I-20220104-0164,04/01/2022,R-20220104-0242,04/01/2022,11:57:16,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztapalapa,Santa Martha Acatitla Norte,-99.01683569,19.37556739
+I-20220104-0165,04/01/2022,R-20220104-0268,04/01/2022,12:19:34,Agua Potable,Fuga,Ciudadano (Call Center),La Magdalena Contreras,San Jeronimo Aculco,-99.2226451,19.3188473
+I-20220104-0166,04/01/2022,R-20220104-0249,04/01/2022,12:02:06,Drenaje,Drenaje Obstruido,Ciudadano (Call Center),Tlahuac,Barrio San Miguel,-98.96413565,19.22275186
+I-20220104-0167,04/01/2022,R-20220104-0265,04/01/2022,12:17:41,Agua Potable,Falta de agua,Redes Sociales (Facebook),Tlalpan,Pueblo Santo Tomas Ajusco,-99.199948,19.2137859
+I-20220104-0168,04/01/2022,R-20220104-0275,04/01/2022,12:25:11,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Pradera 2a Seccion,-99.0632791,19.4736792
+I-20220104-0169,04/01/2022,R-20220104-0280,04/01/2022,12:32:04,Drenaje,Drenaje Obstruido,Redes Sociales (Facebook),Alvaro Obregon,Bellavista,-99.1903151,19.3957806
+I-20220104-0170,04/01/2022,R-20220104-0267,04/01/2022,12:19:03,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.2280221,19.37797622
+I-20220104-0171,04/01/2022,R-20220104-0272,04/01/2022,12:21:34,Agua Potable,Fuga,Ciudadano (Call Center),Miguel Hidalgo,Polanco Iii Seccion,-99.2006527,19.4335127
+I-20220104-0172,04/01/2022,R-20220104-0274,04/01/2022,12:23:49,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Piloto Adolfo Lopez Mateos,-99.22153115,19.37588621
+I-20220104-0173,04/01/2022,R-20220104-0287,04/01/2022,12:39:33,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztacalco,Agricola Pantitlan,-99.06142473,19.40556387
+I-20220104-0174,04/01/2022,R-20220104-0277,04/01/2022,12:27:28,Agua Potable,Fuga,Redes Sociales (Twitter),La Magdalena Contreras,El Toro,-99.24728572,19.3078982
+I-20220104-0175,04/01/2022,R-20220104-0283,04/01/2022,12:37:01,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztapalapa,Lomas De Zaragoza,-98.9963709,19.3519203
+I-20220104-0176,04/01/2022,R-20220104-0284,04/01/2022,12:37:36,Drenaje,Brote en aguas negras,Ciudadano (Call Center),Cuauhtemoc,Centro,-99.14869308,19.42855337
+I-20220104-0177,04/01/2022,R-20220104-0282,04/01/2022,12:36:54,Agua Potable,Fuga,Redes Sociales (Twitter),Gustavo A. Madero,Vasco De Quiroga,-99.09555316,19.49076655
+I-20220104-0178,04/01/2022,R-20220104-0297,04/01/2022,12:45:51,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.2285929,19.378299
+I-20220104-0179,04/01/2022,R-20220104-0312,04/01/2022,13:01:16,Agua Potable,Falta de agua,Redes Sociales (Twitter),Tlalpan,Ejidos De San Pedro Martir,-99.1593348,19.2740842
+I-20220104-0180,04/01/2022,R-20220104-0313,04/01/2022,13:02:08,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Centro,-99.17158842,19.38392729
+I-20220104-0181,04/01/2022,R-20220104-0315,04/01/2022,13:02:47,Agua Potable,Fuga,Ciudadano (Call Center),Tlahuac,Barrio San Bartolome,-98.9611611,19.2248706
+I-20220104-0182,04/01/2022,R-20220104-0319,04/01/2022,13:06:48,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Ex-Ejido De San Francisco Culhuacan,-99.12935436,19.33125582
+I-20220104-0182,04/01/2022,R-20220104-0370,04/01/2022,13:58:48,Agua Potable,Fuga,Ciudadano (Call Center),Coyoacan,Ex-Ejido De San Francisco Culhuacan,-99.12935436,19.33125582
+I-20220104-0183,04/01/2022,R-20220104-0320,04/01/2022,13:06:49,Agua Potable,Falta de agua,Ciudadano (Call Center),Cuauhtemoc,Doctores,-99.14708376,19.42138974
+I-20220104-0184,04/01/2022,R-20220104-0321,04/01/2022,13:09:03,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito,-99.23197031,19.37780922
+I-20220104-0185,04/01/2022,R-20220104-0318,04/01/2022,13:06:40,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Ampliacion Jalalpa,-99.23439503,19.37489939
+I-20220104-0186,04/01/2022,R-20220104-0324,04/01/2022,13:12:44,Agua Potable,Falta de agua,Redes Sociales (Facebook),Azcapotzalco,Ampliacion San Pedro Xalpa,-99.21508312,19.47502837
+I-20220104-0187,04/01/2022,R-20220104-0323,04/01/2022,13:12:31,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.23419118,19.37405933
+I-20220104-0188,04/01/2022,R-20220104-0322,04/01/2022,13:11:33,Agua Potable,Fuga,Ciudadano (Call Center),Gustavo A. Madero,Benito Juarez,-99.14003491,19.53084852
+I-20220104-0189,04/01/2022,R-20220104-0325,04/01/2022,13:13:00,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztacalco,Agricola Pantitlan,-99.06131744,19.40613055
+I-20220104-0190,04/01/2022,R-20220104-0327,04/01/2022,13:15:17,Agua Potable,Falta de agua,Ciudadano (Call Center),Alvaro Obregon,Jalalpa Tepito 2da Ampliacion,-99.23511922,19.37313829
+I-20220104-0191,04/01/2022,R-20220104-0328,04/01/2022,13:15:30,Agua Potable,Falta de agua,Ciudadano (Call Center),Iztacalco,Agricola Pantitlan,-99.0611887,19.40742581
+I-20220104-0192,04/01/2022,R-20220104-0329,04/01/2022,13:16:21,Agua Potable,Mal uso,Ciudadano (Call Center),Tlahuac,Jaime Torres Bodet,-98.99730921,19.23256311
+I-20220104-0193,04/01/2022,R-20220104-0330,04/01/2022,13:16:50,Agua Potable,Falta de agua,Redes Sociales (Twitter),Cuauhtemoc,Cuauhtemoc,-99.17047262,19.43229695
+I-20220104-0194,04/01/2022,R-20220104-0326,04/01/2022,13:13:20,Agua Potable,Falta de agua,Redes Sociales (Twitter),Benito Juarez,Actipan,-99.17734444,19.36901378
+I-20220104-0195,04/01/2022,R-20220104-0317,04/01/2022,13:05:28,Agua Potable,Falta de agua,Ciudadano (Call Center),Benito Juarez,Del Valle Centro,-99.17182446,19.39080921

@@ -1,5 +1,4 @@
 import re
-import json
 
 def extraer_multipolygons(multipolygons):
     multipolygon_filas = multipolygons.strip()
@@ -7,7 +6,6 @@ def extraer_multipolygons(multipolygons):
     multipolygon_filas = multipolygons.split(")")[0]
     multipolygon_filas = multipolygons.split(", ")
 
-    # quitar las letras y los '(' y ')'
     pattern = re.compile(r'[a-zA-Z\(\)]')
     multipolygon_filas = [pattern.sub('', coord) for coord in multipolygon_filas]
     

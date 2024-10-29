@@ -1,5 +1,5 @@
 #map {
-  height: 100%;
+  height: 87%;
 }
 
 html,
@@ -20,14 +20,14 @@ text-align: center;
 }
 
 .controler{
-position: fixed;
-top: 150px;
-z-index: 100;
-left: 20px;
-background-color: white;
-padding: 10px;
-border: 1px solid #ccc;
-width: 350px;
+  position: fixed;
+  top: 150px;
+  z-index: 100;
+  left: 20px;
+  background-color: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  width: 350px;
 }
 
 .controler form div{
@@ -35,9 +35,9 @@ margin-bottom: 10px;
 }
 
 .controler form div select{
-min-width: 40%;
-max-width: 60%;
-padding: 0.5rem;
+  min-width: 40%;
+  max-width: 60%;
+  padding: 0.5rem;
 }
 
 .hora-input{

@@ -2,7 +2,6 @@ from flask import Flask, request, jsonify, render_template
 import os
 from dotenv import load_dotenv
 import pandas as pd
-import json
 from polygonos import extraer_multipolygons
 
 load_dotenv()
@@ -14,6 +13,21 @@ colors = {
     'Medio' : 'rgba(0, 255, 0, 0.3)',
     'Bajo' : 'rgba(0, 0, 255, 0.3)',
     'Muy Bajo' : 'rgba(0, 0, 0, 0.3)'
+}
+
+# reportes: ['Fuga', 'Drenaje Obstruido', 'Falta de agua','Falta de tapa en valvula', 'Brote en aguas negras','Mala calidad', 'Mal uso', 'Hundimiento', 'Coladera sin tapa','Rejilla de piso']
+
+report_images = {
+    'Fuga': '/static/imgs/fuga.png',
+    'Drenaje Obstruido': '/static/imgs/drenaje_obstruido.png',
+    'Falta de agua': '/static/imgs/falta_agua.png',
+    'Falta de tapa en valvula': '/static/imgs/falta_tapa_valvula.png',
+    'Brote en aguas negras': '/static/imgs/brote_aguas_negras.png',
+    'Mala calidad': '/static/imgs/mala_calidad.png',
+    'Mal uso': '/static/imgs/mal_uso.png',
+    'Hundimiento': '/static/imgs/hundimiento.png',
+    'Coladera sin tapa': '/static/imgs/coladera_sin_tapa.jpg',
+    'Rejilla de piso': '/static/imgs/rejilla_piso.png'
 }
 
 FeatureCollection = {
@@ -38,6 +52,7 @@ for i in range(len(polygonos)):
 
 data = pd.read_csv('data/coordenadas_trafico.csv')
 velocidades_df = pd.read_csv('data/velocidades.csv')
+puntos = pd.read_csv('data/reportes_agua.csv')
 
 app = Flask(__name__)
 
@@ -45,7 +60,20 @@ app = Flask(__name__)
 def index():
     global data
     global velocidades_df
+    global puntos
 
+    markersData = {}
+    # formato "marker2": { lat: 34.0522, lng: -118.2437, title: "Marker 2", imagen: "https://cdn.pixabay.com/photo/2015/10/01/17/17/car-967387_1280.png" },
+    for i in range(len(puntos)):
+        img = report_images[puntos['reporte'][i]]
+
+        markersData["marker" + str(i)] = {
+            "lat": puntos['latitud'][i],
+            "lng": puntos['longitud'][i],
+            "title": puntos['id_reporte'][i],
+            "imagen": img
+        }
+    
     dias = velocidades_df['dia'].unique()
     horas = velocidades_df['hora'].unique()
 
@@ -72,7 +100,7 @@ def index():
         coords.append([{"lat": data_merged['x1'][i], "lng": data_merged['y1'][i]}, {"lat": data_merged['x2'][i], "lng": data_merged['y2'][i]}])
         velocidades.append(data_merged["Current Speed (km/h)"][i])
 
-    return render_template('index.html', MAPS_API_KEY=MAPS_API_KEY, coords=coords, velocidades=velocidades, dias=dias, horas=horas, fecha=fecha, hora=hora, FeatureCollection=FeatureCollection)
+    return render_template('index.html', MAPS_API_KEY=MAPS_API_KEY, coords=coords, velocidades=velocidades, dias=dias, horas=horas, fecha=fecha, hora=hora, FeatureCollection=FeatureCollection, markersData=markersData)
 
 if __name__ == '__main__':  
     app.run(debug=True)
