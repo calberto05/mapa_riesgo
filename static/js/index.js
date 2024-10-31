@@ -4,7 +4,22 @@ async function initMap() {
   const center = { lat: 19.4260393, lng: -99.1639232 };
   const map = new Map(document.getElementById("map"), {
     zoom: 15,
-    center
+    center,
+    styles: [
+      {
+        featureType: "poi",
+        stylers: [{ visibility: "off" }] 
+      },
+      {
+        featureType: "transit.station",
+        stylers: [{ visibility: "off" }]
+      },
+      {
+        featureType: "road.local", // O "road.highway", "road.arterial", etc. según el tipo de calle
+        elementType: "labels",
+        stylers: [{ visibility: "off" }]
+      }
+    ]
   });
   
   const markers = []; 
@@ -138,4 +153,3 @@ const properties = [
 ];
 
 window.initMap = initMap;
-
