@@ -27,16 +27,16 @@ async function initMap() {
   for (const key in markersData) {
     const markerInfo = markersData[key];
     const icon = {
-      url: markerInfo.imagen,
+      url: markerInfo.Reporte.value.img,
       scaledSize: new google.maps.Size(30, 30), 
       origin: new google.maps.Point(0, 0),
       anchor: new google.maps.Point(0, 0) 
     };
   
     const marker = new google.maps.Marker({
-      position: { lat: markerInfo.lat, lng: markerInfo.lng },
+      position: { lat: markerInfo.Reporte.value.lat, lng: markerInfo.Reporte.value.lon},
       map: map,
-      title: markerInfo.title,
+      title: markerInfo.id,
       icon: icon 
     }); 
 
