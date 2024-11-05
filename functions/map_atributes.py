@@ -12,3 +12,11 @@ report_images = {
     'Coladera sin tapa': '/static/imgs/coladera_sin_tapa.jpg',
     'Rejilla de piso': '/static/imgs/rejilla_piso.png'
 }
+
+colors = {
+    'Muy Alto' : '#FF000020',
+    'Alto' : '#FFFF0020',
+    'Medio' : '#00FF0020',
+    'Bajo' : '#0000FF20',
+    'Muy Bajo' : '#00000020'
+}

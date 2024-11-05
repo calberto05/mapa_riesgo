@@ -1,8 +1,38 @@
+function cargarPoligonos(listaPoligonos) {
+  for (let i = 0; i < listaPoligonos.length; i++) {
+    const poligonoData = listaPoligonos[i];
+    const coordenadas = poligonoData.Feature.value.coordinates[0].map(coord => ({
+      lat: coord[1], 
+      lng: coord[0] 
+    }));
+
+    const poligono = new google.maps.Polygon({
+      paths: coordenadas,
+      strokeColor: poligonoData.Feature.value.color,
+      strokeOpacity: 0.8,
+      strokeWeight: 2,
+      fillColor: poligonoData.Feature.value.color,
+      fillOpacity: 0.35,
+    });
+
+    poligono.setMap(map); 
+
+    // Opcional: Agregar un evento click para mostrar información del polígono
+    poligono.addListener("click", function(event) {
+      infoWindow.setContent(poligonoData.Feature.value.name);
+      infoWindow.setPosition(event.latLng);
+      infoWindow.open(map);
+    });
+  }
+}
+
+let map;
+
 async function initMap() {
   const { Map } = await google.maps.importLibrary("maps");
   const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
   const center = { lat: 19.4260393, lng: -99.1639232 };
-  const map = new Map(document.getElementById("map"), {
+  map = new Map(document.getElementById("map"), {
     zoom: 15,
     center,
     styles: [
@@ -43,7 +73,7 @@ async function initMap() {
     markers.push(marker); // Agregar el marcador al array
   }
 
-  map.data.addGeoJson(FeatureCollection);
+  cargarPoligonos(FeatureCollection); 
 
   map.data.setStyle((feature) => {
     return /** @type {google.maps.Data.StyleOptions} */ {

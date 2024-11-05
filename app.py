@@ -3,42 +3,15 @@ import os
 from dotenv import load_dotenv
 import pandas as pd
 from functions.polygonos import extraer_multipolygons
-from functions.fiware import cargar_csv_puntos_a_orion, get_all_entities
+from functions.fiware import cargar_csv_puntos_a_orion, get_entities_by_type
 
 load_dotenv()
 MAPS_API_KEY = os.getenv('MAPS_API_KEY')
 
-colors = {
-    'Muy Alto' : 'rgba(255, 0, 0, 0.3)',
-    'Alto' : 'rgba(255, 255, 0, 0.3)',
-    'Medio' : 'rgba(0, 255, 0, 0.3)',
-    'Bajo' : 'rgba(0, 0, 255, 0.3)',
-    'Muy Bajo' : 'rgba(0, 0, 0, 0.3)'
-}
-
-FeatureCollection = {
-    "type": "FeatureCollection",
-    "features": []
-}
-
-polygonos = pd.read_csv('data/polygonos_ciudad.csv')
-for i in range(len(polygonos)):
-    coordinates = [extraer_multipolygons(polygonos['geo_shape'][i])]
-    FeatureCollection["features"].append({
-        "type": "Feature",
-        "properties": {
-            "name": polygonos['alcaldia'][i],
-            "color": colors[polygonos['intensidad'][i]]
-        },
-        "geometry": {
-            "type": "Polygon",
-            "coordinates": coordinates
-        }
-    })
-
 data = pd.read_csv('data/coordenadas_trafico.csv')
 velocidades_df = pd.read_csv('data/velocidades.csv')
-puntos = get_all_entities('http://localhost:1026/v2/entities')
+puntos = get_entities_by_type('http://localhost:1026/v2/entities', 'Reporte')
+FeatureCollection = get_entities_by_type('http://localhost:1026/v2/entities', 'Feature')
 
 app = Flask(__name__)
 
