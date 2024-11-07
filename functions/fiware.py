@@ -37,10 +37,10 @@ def cargar_csv_puntos_a_orion(archivo_csv, url_orion):
     reader = pd.read_csv(archivo_csv)
     for i in range(len(reader)):
         entity = {
-            "id": "reporte"+str(i),
-            "type": "Reporte",
+            "id": "reporte_agua"+str(i),
+            "type": "Reporte_agua",
             "Reporte": {
-                "type": "Reporte",
+                "type": "Reporte_agua",
                 "value": {
                     "tipo_reporte" : reader['reporte'][i],
                     "lat" : float(reader['latitud'][i]),
@@ -53,8 +53,34 @@ def cargar_csv_puntos_a_orion(archivo_csv, url_orion):
         entity = json.loads(entity)
         requests.post(url_orion, json=entity)
 
-def cargar_csv_velocidades_a_orion(archivo_csv, url_orion):
-    return 0
+def cargar_csv_velocidades_a_orion(url_orion):
+    data = pd.read_csv('data/coordenadas_trafico.csv')
+    velocidades_df = pd.read_csv('data/velocidades.csv')
+    data_merged = pd.merge(data, velocidades_df, how='left', left_on='Vialidad', right_on='Street Name')
+    data_merged = data_merged.fillna(0)
+
+    data_merged["Current Speed (km/h)"] = data_merged["Current Speed (km/h)"] / 20
+    
+    for i in range(len(data_merged)):
+        entity = {
+            "id": "velocidad_"+str(i),
+            "type": "Velocidad_condesa",
+            "Velocidad": {
+                "type": "Velocidad_condesa",
+                "value": {
+                    "velocidad" : data_merged["Current Speed (km/h)"][i],
+                    "lat_inicial" : data_merged['x1'][i],
+                    "lon_inicial" : data_merged['y1'][i],
+                    "lat_final" : data_merged['x2'][i],
+                    "lon_final" : data_merged['y2'][i],
+                    "dia" : data_merged['dia'][i],
+                    "hora" : data_merged['hora'][i]
+                }
+            },
+        }
+        entity = json.dumps(entity)
+        entity = json.loads(entity)
+        requests.post(url_orion, json=entity)
 
 def get_entities_by_type(url, entity_type, limit=50):
     offset = 0
@@ -73,5 +99,8 @@ def delete_all_entities(url, entity_type):
     for entity in entities:
         requests.delete(f"{url}/{entity['id']}")
     
-#delete_all_entities('http://localhost:1026/v2/entities', 'Feature')
+#elete_all_entities('http://localhost:1026/v2/entities', 'Reporte')
 #cargar_csv_poligonos_a_orion(polygonos_csv, 'http://localhost:1026/v2/entities')
+#cargar_csv_velocidades_a_orion('http://localhost:1026/v2/entities')
+#cargar_csv_puntos_a_orion(puntos_csv, 'http://localhost:1026/v2/entities')
+#print(get_entities_by_type('http://localhost:1026/v2/entities', 'Velocidad_condesa')[-1])

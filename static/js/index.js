@@ -103,15 +103,18 @@ async function initMap() {
 
   const lines = []; // Store the lines in an array
 
-  coords.forEach((lineCoords, index) => {
+  velocidades.forEach((lineCoords, index) => {
       const line = new google.maps.Polyline({
-          path: lineCoords,
+          path: [
+            { lat: lineCoords.Velocidad.value.lat_inicial, lng: lineCoords.Velocidad.value.lon_inicial },
+            { lat: lineCoords.Velocidad.value.lat_final, lng: lineCoords.Velocidad.value.lon_final }
+          ],
           icons: [{ icon: lineSymbol, offset: "0%" }],
           map: map, 
       });
 
       lines.push(line); // Add the line to the array
-      animateCircle(line, velocidades[index]); 
+      animateCircle(line, lineCoords.Velocidad.value.velocidad); 
   });
 
   map.addListener("zoom_changed", () => {
