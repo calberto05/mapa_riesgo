@@ -27,8 +27,12 @@ horas = list(horas)
 
 app = Flask(__name__)
 
-@app.route('/', methods=['GET', 'POST'])
-def index():    
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+@app.route('/mapa', methods=['GET', 'POST'])
+def mapa():    
     fecha = '2024-09-12'
     hora = 21
 
@@ -39,7 +43,7 @@ def index():
     velocidades_aux = obtener_velocidades(fecha, hora)
     
     
-    return render_template('index.html', MAPS_API_KEY=MAPS_API_KEY, velocidades=velocidades_aux, dias=dias, horas=horas, fecha=fecha, hora=hora, FeatureCollection=FeatureCollection, markersData=puntos)
+    return render_template('mapa.html', MAPS_API_KEY=MAPS_API_KEY, velocidades=velocidades_aux, dias=dias, horas=horas, fecha=fecha, hora=hora, FeatureCollection=FeatureCollection, markersData=puntos)
 
 if __name__ == '__main__':  
     app.run(debug=True)

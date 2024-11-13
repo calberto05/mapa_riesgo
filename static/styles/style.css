@@ -1,9 +1,36 @@
 #map {
-  height: 87%;
+  height: 100%;
+}
+
+.title-maps{
+  position: fixed;
+  z-index: 100;
+  background-color: #FFFFFF;
+  left: 20rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+.boton-regreso{
+  position: fixed;
+  z-index: 100;
+  background-color: #FFFFFF;
+  left: 5rem;
+  top: 2rem;
+  padding: 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  text-decoration: none;
+  border: 1px solid #ccc; 
+}
+
+.boton-regreso:hover{
+  background-color: #F0F0F0;
 }
 
 html,
 body {
+  background-color: #f4f4f9;
   height: 100%;
   margin: 0;
   padding: 0;
@@ -12,11 +39,6 @@ body {
 
 .hide{
 display: none;
-}
-
-h1{
-padding: 1rem;
-text-align: center;
 }
 
 .controler{
@@ -188,4 +210,68 @@ padding: 1rem;
 flex-direction: column;
 border-radius: 20px;
 gap: 1rem;
+}
+
+/*---------------------------------Index-----------------------------------------------*/
+
+/* Contenedor principal */
+.container {
+    text-align: center;
+    max-width: 900px;
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+/* Título principal */
+.index-title {
+  display: block;
+    font-size: 2em;
+    color: #2c3e50;
+}
+
+/* Estilos para el contenedor de aplicaciones */
+.apps {
+  padding: 1rem;
+  border-radius: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-top: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+.apps div{
+  margin-top: 1rem;
+}
+
+.apps img{
+  width: 350px;
+  height: 350px;
+}
+
+.links{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.links a{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  gap: 10px;
+  padding: 1rem;
+  background-color: #ddbce1;
+  border-radius: 10px;
+}
+
+.links a:hover{
+  background-color: #6a3c74;
+  color: white;
 }
