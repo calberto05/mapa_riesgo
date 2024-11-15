@@ -42,8 +42,14 @@ def mapa():
     
     velocidades_aux = obtener_velocidades(fecha, hora)
     
-    
     return render_template('mapa.html', MAPS_API_KEY=MAPS_API_KEY, velocidades=velocidades_aux, dias=dias, horas=horas, fecha=fecha, hora=hora, FeatureCollection=FeatureCollection, markersData=puntos)
+
+@app.route('/dashboard/<tipo>')
+def dashboard(tipo):
+    if tipo == "general":
+        return render_template('analisis_general.html')
+    else:
+        return render_template('404.html'), 404
 
 if __name__ == '__main__':  
     app.run(debug=True)

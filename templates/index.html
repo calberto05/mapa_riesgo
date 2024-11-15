@@ -16,7 +16,7 @@
                 <h2>Mapa de Riesgo</h2>
             </a>
         </div>
-        <div>
+        <div class="contenedor-info">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad pariatur inventore cupiditate voluptates sit nemo mollitia, ipsam explicabo ex consequuntur. Autem eaque eligendi aliquid accusantium. Hic sed quod accusamus adipisci!</p>
             <div class="links">
                 <div class="repositorio">
@@ -43,7 +43,7 @@
             </div>
             
         </div>
-        <div>
+        <div class="contenedor-info">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad pariatur inventore cupiditate voluptates sit nemo mollitia, ipsam explicabo ex consequuntur. Autem eaque eligendi aliquid accusantium. Hic sed quod accusamus adipisci!</p>
             <div class="links">
                 <div class="repositorio">
@@ -71,14 +71,16 @@
             
         </div> 
         <div class="dashboard">
-            <img src="https://images.klipfolio.com/website/public/bf9c6fbb-06bf-4f1d-88a7-d02b70902bd1/data-dashboard.png" alt="Dashboard">
-            <h2>Dashboard</h2>
+            <a href=" {{ url_for('dashboard', tipo='general') }} ">
+                <img src="https://images.klipfolio.com/website/public/bf9c6fbb-06bf-4f1d-88a7-d02b70902bd1/data-dashboard.png" alt="Dashboard">
+                <h2>Dashboard</h2>
+            </a>
         </div>
         <div class="detector-enfermedades">
             <img src="https://i0.wp.com/www.sevillaactualidad.com/wp-content/uploads/2021/08/manchas-en-la-piel.jpg?fit=1200%2C675&ssl=1" alt="Reportes">
             <h2>Detector de enfermedades</h2>
         </div>
-        <div>
+        <div class="contenedor-info">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad pariatur inventore cupiditate voluptates sit nemo mollitia, ipsam explicabo ex consequuntur. Autem eaque eligendi aliquid accusantium. Hic sed quod accusamus adipisci!</p>
             <div class="links">
                 <div class="repositorio">
