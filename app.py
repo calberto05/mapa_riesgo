@@ -31,6 +31,10 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
+@app.route('/camaras', methods=['GET', 'POST'])
+def camaras():
+    return render_template('camaras.html')
+
 @app.route('/mapa', methods=['GET', 'POST'])
 def mapa():    
     fecha = '2024-09-12'

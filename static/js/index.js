@@ -82,19 +82,6 @@ async function initMap() {
     };
   });
 
-  for (const property of properties) {
-    const AdvancedMarkerElement = new google.maps.marker.AdvancedMarkerElement({
-      map,
-      content: buildContent(property),
-      position: property.position,
-      title: property.description,
-    });
-
-    AdvancedMarkerElement.addListener("click", () => {
-      toggleHighlight(AdvancedMarkerElement, property);
-    });
-  }
-
   const lineSymbol = {
     path: google.maps.SymbolPath.CIRCLE,
     scale: 4,
@@ -144,45 +131,5 @@ function animateCircle(line, velocidad) {
       line.set("icons", icons); 
   }, 20); 
 } 
-
-function toggleHighlight(markerView, property) {
-  if (markerView.content.classList.contains("highlight")) {
-    markerView.content.classList.remove("highlight");
-    markerView.zIndex = null;
-  } else {
-    markerView.content.classList.add("highlight");
-    markerView.zIndex = 1;
-  }
-}
-
-function buildContent(property) {
-  const content = document.createElement("div");
-
-  content.classList.add("property");
-  content.innerHTML = `
-    <div class="camaras">
-      <div class="icon">
-        <i aria-hidden="true" class="fa fa-icon fa-${property.type}" title="${property.type}"></i>
-        <span class="fa-sr-only">${property.type}</span>
-      </div>
-      <div class="details">
-        <iframe src=${property.url} width="400px" height = "250px" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      </div>
-    </div>
-    `;
-  return content;
-}
-
-const properties = [
-  {
-    address: "Camara Calle Madero",
-    type: "video",
-    url: "https://www.youtube.com/embed/2pd8Ah7teLg?si=54bxm7A5xW3SF2Pp",
-    position: {
-      lat: 19.433616,
-      lng: -99.1372766,
-    },
-  },
-];
 
 window.initMap = initMap;

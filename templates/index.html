@@ -7,106 +7,58 @@
     <title>Document</title>
 </head>
 <body>
+    <div class="hamburger-menu">
+        <input id="menu__toggle" type="checkbox" />
+        <label class="menu__btn" for="menu__toggle">
+          <span></span>
+        </label>
+    
+        <ul class="menu__box">
+            <li><a class="menu__item" href="{{ url_for('camaras')  }}">Camaras</a></li>
+            <li><a class="menu__item" href="{{ url_for('mapa')  }}">Mapa de Riesgo</a></li>
+            <li><a class="menu__item" href="{{ url_for('dashboard', tipo = 'general')  }}">Dashboard</a></li>
+            <li><a class="menu__item" href="#">Detector cancer mama</a></li>
+            <li><a class="menu__item" href="#">Documentacion</a></li>
+        </ul>
+      </div>
     <div class="container">
-        <h1 class="index-title">Ciudades Inteligentes Apps</h1>
+        <h1 class="index-title">Smart Tec</h1>
         <div class="apps">
+            <div class="info">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad pariatur inventore cupiditate voluptates sit nemo mollitia, ipsam explicabo ex consequuntur. Autem eaque eligendi aliquid accusantium. Hic sed quod accusamus adipisci!</p>
+            </div> 
             <div class="mapa">
-            <a href=" {{ url_for('mapa')  }}">
-                <img src="https://i.blogs.es/b4dd5c/maps/1366_2000.png" alt="Mapa de riesgo">
-                <h2>Mapa de Riesgo</h2>
-            </a>
-        </div>
-        <div class="contenedor-info">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad pariatur inventore cupiditate voluptates sit nemo mollitia, ipsam explicabo ex consequuntur. Autem eaque eligendi aliquid accusantium. Hic sed quod accusamus adipisci!</p>
-            <div class="links">
-                <div class="repositorio">
-                    <a href="#">
-                        <svg xmlns="http://www.w3.org/2000/svg" x-bind:width="size" x-bind:height="size" viewBox="0 0 24 24" fill="none" stroke="currentColor" x-bind:stroke-width="stroke" stroke-linecap="round" stroke-linejoin="round" width="24" height="24" stroke-width="2">
-                            <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5"></path>
-                        </svg>
-                        <span>Repositorio</span>
-                    </a>
-                </div>
-                <div class="documentacion">
-                    <a href="#">
-                        <svg xmlns="http://www.w3.org/2000/svg" x-bind:width="size" x-bind:height="size" viewBox="0 0 24 24" fill="none" stroke="currentColor" x-bind:stroke-width="stroke" stroke-linecap="round" stroke-linejoin="round" width="24" height="24" stroke-width="2">
-                            <path d="M14 3v4a1 1 0 0 0 1 1h4"></path>
-                            <path d="M5 12v-7a2 2 0 0 1 2 -2h7l5 5v4"></path>
-                            <path d="M5 18h1.5a1.5 1.5 0 0 0 0 -3h-1.5v6"></path>
-                            <path d="M17 18h2"></path>
-                            <path d="M20 15h-3v6"></path>
-                            <path d="M11 15v6h1a2 2 0 0 0 2 -2v-2a2 2 0 0 0 -2 -2h-1z"></path>
-                          </svg>
-                        <span>Documentación</span>
-                    </a>
-                </div>
+                <a href=" {{ url_for('mapa')  }}">
+                    <img src="https://i.blogs.es/b4dd5c/maps/1366_2000.png" alt="Mapa de riesgo">
+                    <h2>Mapa de Riesgo</h2>
+                </a>
             </div>
-            
-        </div>
-        <div class="contenedor-info">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad pariatur inventore cupiditate voluptates sit nemo mollitia, ipsam explicabo ex consequuntur. Autem eaque eligendi aliquid accusantium. Hic sed quod accusamus adipisci!</p>
-            <div class="links">
-                <div class="repositorio">
-                    <a href="#">
-                        <svg xmlns="http://www.w3.org/2000/svg" x-bind:width="size" x-bind:height="size" viewBox="0 0 24 24" fill="none" stroke="currentColor" x-bind:stroke-width="stroke" stroke-linecap="round" stroke-linejoin="round" width="24" height="24" stroke-width="2">
-                            <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5"></path>
-                        </svg>
-                        <span>Repositorio</span>
-                    </a>
-                </div>
-                <div class="documentacion">
-                    <a href="#">
-                        <svg xmlns="http://www.w3.org/2000/svg" x-bind:width="size" x-bind:height="size" viewBox="0 0 24 24" fill="none" stroke="currentColor" x-bind:stroke-width="stroke" stroke-linecap="round" stroke-linejoin="round" width="24" height="24" stroke-width="2">
-                            <path d="M14 3v4a1 1 0 0 0 1 1h4"></path>
-                            <path d="M5 12v-7a2 2 0 0 1 2 -2h7l5 5v4"></path>
-                            <path d="M5 18h1.5a1.5 1.5 0 0 0 0 -3h-1.5v6"></path>
-                            <path d="M17 18h2"></path>
-                            <path d="M20 15h-3v6"></path>
-                            <path d="M11 15v6h1a2 2 0 0 0 2 -2v-2a2 2 0 0 0 -2 -2h-1z"></path>
-                          </svg>
-                        <span>Documentación</s+an>
-                    </a>
-                </div>
+            <div class="mapa">
+                <a href=" {{ url_for('camaras')  }}">
+                    <img src="https://miro.medium.com/v2/resize:fit:1400/1*8gmgaAkFdI-9OHY5cA93xQ.png" alt="Mapa de riesgo">
+                    <h2>Camaras</h2>
+                </a>
             </div>
-            
-        </div> 
-        <div class="dashboard">
-            <a href=" {{ url_for('dashboard', tipo='general') }} ">
-                <img src="https://images.klipfolio.com/website/public/bf9c6fbb-06bf-4f1d-88a7-d02b70902bd1/data-dashboard.png" alt="Dashboard">
-                <h2>Dashboard</h2>
-            </a>
-        </div>
-        <div class="detector-enfermedades">
-            <img src="https://i0.wp.com/www.sevillaactualidad.com/wp-content/uploads/2021/08/manchas-en-la-piel.jpg?fit=1200%2C675&ssl=1" alt="Reportes">
-            <h2>Detector de enfermedades</h2>
-        </div>
-        <div class="contenedor-info">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad pariatur inventore cupiditate voluptates sit nemo mollitia, ipsam explicabo ex consequuntur. Autem eaque eligendi aliquid accusantium. Hic sed quod accusamus adipisci!</p>
-            <div class="links">
-                <div class="repositorio">
-                    <a href="#">
-                        <svg xmlns="http://www.w3.org/2000/svg" x-bind:width="size" x-bind:height="size" viewBox="0 0 24 24" fill="none" stroke="currentColor" x-bind:stroke-width="stroke" stroke-linecap="round" stroke-linejoin="round" width="24" height="24" stroke-width="2">
-                            <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5"></path>
-                        </svg>
-                        <span>Repositorio</span>
-                    </a>
-                </div>
-                <div class="documentacion">
-                    <a href="#">
-                        <svg xmlns="http://www.w3.org/2000/svg" x-bind:width="size" x-bind:height="size" viewBox="0 0 24 24" fill="none" stroke="currentColor" x-bind:stroke-width="stroke" stroke-linecap="round" stroke-linejoin="round" width="24" height="24" stroke-width="2">
-                            <path d="M14 3v4a1 1 0 0 0 1 1h4"></path>
-                            <path d="M5 12v-7a2 2 0 0 1 2 -2h7l5 5v4"></path>
-                            <path d="M5 18h1.5a1.5 1.5 0 0 0 0 -3h-1.5v6"></path>
-                            <path d="M17 18h2"></path>
-                            <path d="M20 15h-3v6"></path>
-                            <path d="M11 15v6h1a2 2 0 0 0 2 -2v-2a2 2 0 0 0 -2 -2h-1z"></path>
-                          </svg>
-                        <span>Documentación</span>
-                    </a>
-                </div>
+            <div class="info">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad pariatur inventore cupiditate voluptates sit nemo mollitia, ipsam explicabo ex consequuntur. Autem eaque eligendi aliquid accusantium. Hic sed quod accusamus adipisci!</p>
+            </div> 
+
+            <div class="info">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad pariatur inventore cupiditate voluptates sit nemo mollitia, ipsam explicabo ex consequuntur. Autem eaque eligendi aliquid accusantium. Hic sed quod accusamus adipisci!</p>
+            </div> 
+            <div class="dashboard">
+                <a href="{{ url_for('dashboard', tipo='general') }}">
+                    <img src="https://images.klipfolio.com/website/public/bf9c6fbb-06bf-4f1d-88a7-d02b70902bd1/data-dashboard.png" alt="Dashboard">
+                    <h2>Dashboard</h2>
+                </a>
             </div>
-            
-        </div>
+            <div class="detector-enfermedades">
+                <img src="https://i0.wp.com/www.sevillaactualidad.com/wp-content/uploads/2021/08/manchas-en-la-piel.jpg?fit=1200%2C675&ssl=1" alt="Reportes">
+                <h2>Detector de enfermedades</h2>
+            </div>
+            <div class="info">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad pariatur inventore cupiditate voluptates sit nemo mollitia, ipsam explicabo ex consequuntur. Autem eaque eligendi aliquid accusantium. Hic sed quod accusamus adipisci!</p>
+            </div>
         </div>
     </div>
 </body>
