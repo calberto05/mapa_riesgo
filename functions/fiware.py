@@ -99,7 +99,7 @@ def delete_all_entities(url, entity_type):
     for entity in entities:
         requests.delete(f"{url}/{entity['id']}")
     
-#elete_all_entities('http://localhost:1026/v2/entities', 'Reporte')
+#delete_all_entities('http://localhost:1026/v2/entities', 'Reporte')
 #cargar_csv_poligonos_a_orion(polygonos_csv, 'http://localhost:1026/v2/entities')
 #cargar_csv_velocidades_a_orion('http://localhost:1026/v2/entities')
 #cargar_csv_puntos_a_orion(puntos_csv, 'http://localhost:1026/v2/entities')

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detector enfermedad en piel</title>
+    <link rel="stylesheet" type="text/css" href="/static/styles/style.css"/>
+    <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> <!-- Incluye Plotly.js -->
+
+</head>
+<body>
+    <div class="back">
+        <a href="{{ url_for('index') }}" class="boton-regreso">Regresar</a>
+    </div>
+    <form id="uploadForm" enctype="multipart/form-data">
+        <input type="file" name="file" id="fileInput">
+        <button type="submit">Predict</button>
+    </form>
+    
+    <div id="result"></div>
+    
+    <script>
+    document.getElementById('uploadForm').addEventListener('submit', function(e) {
+        e.preventDefault();
+        let formData = new FormData(this);
+        
+        fetch('/upload_ml', {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('result').innerHTML = 
+                `Prediction: ${JSON.stringify(data)}`;
+        })
+        .catch(error => {
+            console.error('Error:', error);
+        });
+    });
+    </script>
+</body>
+</html>

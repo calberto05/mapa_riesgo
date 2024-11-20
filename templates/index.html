@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="/static/styles/style.css"/>
-    <title>Document</title>
+    <!--Put the logo icon-->
+    <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg">
+    <title>Smart Tec</title>
 </head>
 <body>
     <div class="hamburger-menu">
@@ -17,7 +19,7 @@
             <li><a class="menu__item" href="{{ url_for('camaras')  }}">Camaras</a></li>
             <li><a class="menu__item" href="{{ url_for('mapa')  }}">Mapa de Riesgo</a></li>
             <li><a class="menu__item" href="{{ url_for('dashboard', tipo = 'general')  }}">Dashboard</a></li>
-            <li><a class="menu__item" href="#">Detector cancer mama</a></li>
+            <li><a class="menu__item" href="{{ url_for('upload_ml')  }}">Detector cancer mama</a></li>
             <li><a class="menu__item" href="#">Documentacion</a></li>
         </ul>
       </div>
@@ -25,7 +27,7 @@
         <h1 class="index-title">Smart Tec</h1>
         <div class="apps">
             <div class="info">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad pariatur inventore cupiditate voluptates sit nemo mollitia, ipsam explicabo ex consequuntur. Autem eaque eligendi aliquid accusantium. Hic sed quod accusamus adipisci!</p>
+                <p>Mapa temático generado que utiliza polígonos para representar un semáforo de riesgo, permitiendo además visualizar la velocidad promedio de las calles de la colonia Condesa desglosada por hora y fecha.</p>
             </div> 
             <div class="mapa">
                 <a href=" {{ url_for('mapa')  }}">
@@ -40,11 +42,11 @@
                 </a>
             </div>
             <div class="info">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad pariatur inventore cupiditate voluptates sit nemo mollitia, ipsam explicabo ex consequuntur. Autem eaque eligendi aliquid accusantium. Hic sed quod accusamus adipisci!</p>
+                <p>Herramienta de visualización diseñada para mapear las cámaras públicas de la ciudad, la cual integra funcionalidades para analizar y extraer información relevante de los elementos captados por las cámaras.</p>
             </div> 
 
             <div class="info">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad pariatur inventore cupiditate voluptates sit nemo mollitia, ipsam explicabo ex consequuntur. Autem eaque eligendi aliquid accusantium. Hic sed quod accusamus adipisci!</p>
+                <p>Dashboard en el cual se pueden ver ciertos insights acerca de la información extraida de las Velocidades y sobre los datos de los reportes generados.</p>
             </div> 
             <div class="dashboard">
                 <a href="{{ url_for('dashboard', tipo='general') }}">
@@ -53,11 +55,13 @@
                 </a>
             </div>
             <div class="detector-enfermedades">
-                <img src="https://i0.wp.com/www.sevillaactualidad.com/wp-content/uploads/2021/08/manchas-en-la-piel.jpg?fit=1200%2C675&ssl=1" alt="Reportes">
-                <h2>Detector de enfermedades</h2>
+                <a href="{{ url_for('upload_ml') }}">
+                    <img src="https://i0.wp.com/www.sevillaactualidad.com/wp-content/uploads/2021/08/manchas-en-la-piel.jpg?fit=1200%2C675&ssl=1" alt="Reportes">
+                    <h2>Detector de enfermedades</h2>
+                </a>
             </div>
             <div class="info">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad pariatur inventore cupiditate voluptates sit nemo mollitia, ipsam explicabo ex consequuntur. Autem eaque eligendi aliquid accusantium. Hic sed quod accusamus adipisci!</p>
+                <p>Modelo en el cual se sube una imagen sobre una mancha de la piel y es capaz de dar un insight general acerca de lo que podria ser.</p>
             </div>
         </div>
     </div>

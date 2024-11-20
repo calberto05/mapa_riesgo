@@ -2,6 +2,10 @@ from flask import Flask, request, jsonify, render_template
 import os
 from dotenv import load_dotenv
 from functions.fiware import cargar_csv_puntos_a_orion, get_entities_by_type
+import os
+#from tensorflow.keras.models import load_model
+#from tensorflow.keras.preprocessing import image
+import numpy as np
 
 load_dotenv()
 MAPS_API_KEY = os.getenv('MAPS_API_KEY')
@@ -35,6 +39,15 @@ def index():
 def camaras():
     return render_template('camaras.html')
 
+@app.route('/upload_ml', methods=['GET', 'POST'])
+def upload_ml():
+    if request.method == 'POST':
+        result = {"error": "No se ha seleccionado un archivo"}
+        
+        return jsonify(result)
+    
+    return render_template('upload_ml.html')
+
 @app.route('/mapa', methods=['GET', 'POST'])
 def mapa():    
     fecha = '2024-09-12'
@@ -51,9 +64,13 @@ def mapa():
 @app.route('/dashboard/<tipo>')
 def dashboard(tipo):
     if tipo == "general":
-        return render_template('analisis_general.html')
+        return render_template('graficas/analisis_general.html')
+    elif tipo == "reportes":
+        return render_template('graficas/analisis_reportes.html')
+    elif tipo == "poligonos":
+        return render_template('graficas/analisis_poligonos.html')
     else:
         return render_template('404.html'), 404
 
 if __name__ == '__main__':  
-    app.run(debug=True)
+    app.run(port=5000, debug=True)

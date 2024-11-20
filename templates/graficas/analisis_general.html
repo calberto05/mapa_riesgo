@@ -1,0 +1,157 @@
+{% extends "dashboard.html" %}
+
+{% block content %}
+<h1 class="index-title">Dashboard</h1>
+<div class="cards">
+    <div class="card total-reports">
+        <div class="card-icon">📊</div>
+        <div class="card-content">
+            <h3>Total de capturas</h3>
+            <p class="card-number" id="totalReportsCount">8070</p>
+        </div>
+    </div>
+    
+    <div class="card resolved-reports">
+        <div class="card-icon">✅</div>
+        <div class="card-content">
+            <h3>Velocidad media</h3>
+            <p class="card-number" id="resolvedReportsCount">19.172 km/h</p>
+        </div>
+    </div>
+    <div class="card pending-reports">
+        <div class="card-icon">⏳</div>
+        <div class="card-content">
+            <h3>Dias capturados</h3>
+            <p class="card-number" id="pendingReportsCount">21</p>
+        </div>
+    </div>
+    
+    <div class="card report-priority">
+        <div class="card-icon">🚨</div>
+        <div class="card-content">
+            <h3>Velocidad Maxima</h3>
+            <p class="card-number" id="highPriorityCount">47.517 km/h</p>
+        </div>
+    </div>
+</div>
+<div class="graficas">
+    <div class = "grafica" id="grafica" ></div>
+    <div class = "grafica" id="grafica2"></div>
+    <div class = "grafica graficaGrande" id="grafica3"></div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Datos de la gráfica
+    var trace1 = {
+        y: [
+  22.321186444934952, 23.241270529369856, 23.874569817792423, 24.4213758860957,
+  24.637531015836785, 24.374995990234183, 23.148088809115144, 20.89053302999808,
+  18.928330583387407, 17.832328249017994, 17.449570937693846, 17.034060480219495,
+  16.609608362661948, 16.27293508435538, 15.888233716343025, 15.634874697264785,
+  15.637268985740556, 15.826227523508848, 15.582374400076558, 15.43486258727249,
+  16.190851236494094, 17.913206840966797, 19.72003415469526, 21.189976368771493
+],  // Eje Y (Ventas)
+        type: 'scatter',         // Tipo de gráfica (línea)
+        mode: 'lines+markers',   // Agrega líneas y puntos
+        name: 'Velocidad por día',
+        marker: {
+            color: 'black',      // Color de la línea
+            size: 10            // Tamaño de los puntos
+        },
+        line: {
+            color: 'red',      // Color de la línea
+            width: 2            // Grosor de la línea
+        }
+    };
+    var layout = {
+        title: 'Velocidad promedio por hora',
+        xaxis: {
+            title: 'Hora 24h',
+            tickvals: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
+        },
+        yaxis: {
+            title: 'Velocidad (km/h)',            
+        }
+    };
+
+    // Agrupa las trazas en un array
+    var data = [trace1];
+
+    // bar plot
+    var trace2 = {
+        x: ['Alfonso Reyes', 'Amsterdam','Av. Alvaro Obregon', 'Av. Chapultepec',
+            'Av. Insurgentes', 'Av. Mazatlán', 'Av. Michoacán', 'Av. México',
+            'Av. Nuevo León', 'Av. Sonora', 'Av. Tamaulipas', 'Colima',
+            'Cto. Bicentenario', 'Durango', 'Juan Escutia', 'Laredo', 'Puebla',
+        'Salamanca'],
+        y: [
+            15.1699635175094, 15.401309496035632, 14.974850447621897, 18.552296463940092,
+            17.58343988935111, 18.17227052995018, 14.663091947764018, 15.543295173179631,
+            23.399570471511385, null, 22.128507037243892, 12.693478727825642,
+            32.89434843872563, 17.449042057055397, 28.085050203744142, 10.99198436019672,
+            12.804332016887663, 33.585170334767376
+        ],
+        type: 'bar',
+        marker: {
+    color: 'rgb(158,202,225)',
+    opacity: 0.6,
+    line: {
+      color: 'rgb(8,48,107)',
+      width: 1.5
+    }
+  }        
+    };
+
+    var layout2 = {
+        title: 'Velocidad promedio por calle',
+        yaxis: {
+            title: 'Velocidad (km/h)',            
+        }
+    };
+
+    var data2 = [trace2];
+
+    var trace3 = {
+        y: [
+            19.90025262478593, 19.737556969827782, 19.20144461694348, 18.23108712777951,
+            18.02512242862958, 18.83697381049672, 20.22046109867007
+            ],
+        x: ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo'],
+        type: 'scatter',
+        mode: 'lines+markers',
+        name: 'Velocidad por día de la semana',
+        marker: {
+            color: 'red',
+            size: 10
+        },
+        line: {
+            color: 'black',
+            width: 3
+        }
+    };
+
+    var layout3 = {
+        title: 'Velocidad promedio por día de la semana',
+        xaxis: {
+            title: 'Día de la semana',
+        },
+        yaxis: {
+            title: 'Velocidad (km/h)',            
+        }
+    };
+
+    var data3 = [trace3];
+
+    var config = {
+    responsive: true,
+    displayModeBar: false
+};
+
+    // Renderiza la gráfica en el div con id "grafica"
+    Plotly.newPlot('grafica', data, layout), config;
+    Plotly.newPlot('grafica2', data2, layout2, config);
+    Plotly.newPlot('grafica3', data3, layout3, config);
+</script>
+{% endblock %}

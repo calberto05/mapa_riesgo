@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ejemplo de Gráfica con Plotly.js</title>
+    <title>Dashboard</title>
     <link rel="stylesheet" type="text/css" href="/static/styles/style.css"/>
+    <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg">
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> <!-- Incluye Plotly.js -->
 
 </head>
@@ -13,9 +14,9 @@
         <a href="{{ url_for('index') }}" class="boton-regreso">Regresar</a>
     </div>
     <div class="select-menu">
-        <a href="{{ url_for('dashboard', tipo='general') }}">Análisis General</a>
-        <a href="{{ url_for('dashboard', tipo='producto') }}">Análisis por Producto</a>
-        <a href="{{ url_for('dashboard', tipo='vendedor') }}">Análisis por Vendedor</a>
+        <a href="{{ url_for('dashboard', tipo='general') }}">Análisis de Velocidades</a>
+        <a href="{{ url_for('dashboard', tipo='reportes') }}">Análisis por Reporte</a>
+        <a href="{{ url_for('dashboard', tipo='poligonos') }}">Análisis por Ciudad Mapa Riesgo</a>
     </div>
     
     <div class="container">
