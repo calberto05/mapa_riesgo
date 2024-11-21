@@ -73,4 +73,6 @@ def dashboard(tipo):
         return render_template('404.html'), 404
 
 if __name__ == '__main__':  
+    MAPS_API_KEY = "AIzaSyD-DFSJFKDSJFKSD-FIDSJF23E3IJFS"
+    import os
     app.run(port=5000, debug=True)
