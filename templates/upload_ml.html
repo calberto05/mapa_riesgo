@@ -1,43 +1,62 @@
+<!-- templates/index.html -->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Detector enfermedad en piel</title>
+    <title>Subir Imagen para Predicción</title>
     <link rel="stylesheet" type="text/css" href="/static/styles/style.css"/>
     <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg">
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> <!-- Incluye Plotly.js -->
-
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        #preview {
+            max-width: 300px;
+            margin: 20px auto;
+        }
+    </style>
 </head>
 <body>
     <div class="back">
         <a href="{{ url_for('index') }}" class="boton-regreso">Regresar</a>
     </div>
-    <form id="uploadForm" enctype="multipart/form-data">
-        <input type="file" name="file" id="fileInput">
-        <button type="submit">Predict</button>
+    <h1>Sube una Imagen</h1>
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="file" accept="image/*" required>
+        <input type="submit" value="Procesar Imagen">
     </form>
-    
-    <div id="result"></div>
-    
+
+    <img id="preview" src="" style="display:none;">
+
+    {% if prediction %}
+    <div>
+        <h2>Predicción:</h2>
+        <p>Hay un {{ prediction*1000 }}% de probabilidad de ser un melanoma</p>
+    </div>
+    {% endif %}
+
     <script>
-    document.getElementById('uploadForm').addEventListener('submit', function(e) {
-        e.preventDefault();
-        let formData = new FormData(this);
-        
-        fetch('/upload_ml', {
-            method: 'POST',
-            body: formData
-        })
-        .then(response => response.json())
-        .then(data => {
-            document.getElementById('result').innerHTML = 
-                `Prediction: ${JSON.stringify(data)}`;
-        })
-        .catch(error => {
-            console.error('Error:', error);
+        // Vista previa de la imagen
+        document.querySelector('input[type="file"]').addEventListener('change', function(e) {
+            var preview = document.getElementById('preview');
+            var file = e.target.files[0];
+            var reader = new FileReader();
+
+            reader.onloadend = function () {
+                preview.src = reader.result;
+                preview.style.display = 'block';
+            }
+
+            if (file) {
+                reader.readAsDataURL(file);
+            } else {
+                preview.style.display = 'none';
+            }
         });
-    });
     </script>
 </body>
 </html>

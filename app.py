@@ -2,13 +2,21 @@ from flask import Flask, request, jsonify, render_template
 import os
 from dotenv import load_dotenv
 from functions.fiware import cargar_csv_puntos_a_orion, get_entities_by_type
+from werkzeug.utils import secure_filename
 import os
-#from tensorflow.keras.models import load_model
-#from tensorflow.keras.preprocessing import image
 import numpy as np
+import tensorflow as tf
+import tensorflow.keras.models as tfkm
+from PIL import Image
 
 load_dotenv()
 MAPS_API_KEY = os.getenv('MAPS_API_KEY')
+
+print("loading models: ")
+model_bin_96 = tfkm.load_model('models/CNN.h5')
+print("Binary model loaded.")
+model_cat_84 = tfkm.load_model('models/CNN.h5')
+print("Categorical model loaded.")
 
 velocidades = get_entities_by_type('http://localhost:1026/v2/entities', 'Velocidad_condesa')
 puntos = get_entities_by_type('http://localhost:1026/v2/entities', 'Reporte_agua')
@@ -30,6 +38,8 @@ dias = list(dias)
 horas = list(horas)
 
 app = Flask(__name__)
+app.config['UPLOAD_FOLDER'] = 'uploads/'
+app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB max file size
 
 @app.route('/')
 def index():
@@ -38,15 +48,6 @@ def index():
 @app.route('/camaras', methods=['GET', 'POST'])
 def camaras():
     return render_template('camaras.html')
-
-@app.route('/upload_ml', methods=['GET', 'POST'])
-def upload_ml():
-    if request.method == 'POST':
-        result = {"error": "No se ha seleccionado un archivo"}
-        
-        return jsonify(result)
-    
-    return render_template('upload_ml.html')
 
 @app.route('/mapa', methods=['GET', 'POST'])
 def mapa():    
@@ -71,8 +72,50 @@ def dashboard(tipo):
         return render_template('graficas/analisis_poligonos.html')
     else:
         return render_template('404.html'), 404
+    
+
+@app.route('/upload_ml', methods=['GET', 'POST'])
+def upload_ml():
+    prediction = None
+    if request.method == 'POST':
+        # Verificar si se subió un archivo
+        if 'file' not in request.files:
+            return 'No se ha seleccionado ningún archivo', 400
+        
+        file = request.files['file']
+        
+        # Verificar si el nombre del archivo está vacío
+        if file.filename == '':
+            return 'No se ha seleccionado ningún archivo', 400
+        
+        if file:
+            # Guardar archivo de forma segura
+            filename = secure_filename(file.filename)
+            filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+            file.save(filepath)
+            
+            try:
+                # Usar PIL para cargar y redimensionar
+                image = Image.open(filepath)
+                image = image.resize((120,90))
+                image_np = np.array(image)
+                image_np = np.expand_dims(image_np, 0)
+                #result = randint(0,1) #mocking a result
+            
+                
+                # Hacer predicción
+                prediccion = model_cat_84.predict(image_np)
+                
+                # Convertir predicción a texto legible 
+                prediction = prediccion[0][0]
+                
+                # Opcional: eliminar archivo después de procesar
+                os.remove(filepath)
+            
+            except Exception as e:
+                return f"Error procesando imagen: {str(e)}", 500
+    
+    return render_template('upload_ml.html', prediction=prediction)
 
 if __name__ == '__main__':  
-    MAPS_API_KEY = "AIzaSyD-DFSJFKDSJFKSD-FIDSJF23E3IJFS"
-    import os
     app.run(port=5000, debug=True)
