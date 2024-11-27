@@ -1,3 +1,6 @@
+# Poner en el archivo .env API Key 
+MAPS_API_KEY = "" 
+
 # Inicializar servidor fiware
 ## Entrar al directorio de fiware
 cd fiware
