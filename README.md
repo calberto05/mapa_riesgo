@@ -1,9 +1,19 @@
-Para correr
+# Inicializar servidor fiware
+## Entrar al directorio de fiware
+cd fiware
+
+## Iniciar contenedor docker
+docker compose up
 
 # Requerimientos
-"python -m venv venv"
-"source venv/bin/activate"
-"pip install -r requirements.txt"
+## Crear entorno virtual desde otra terminal
+python -m venv venv
+
+## Inicializar entorno virtual
+source venv/bin/activate
+
+## Instalar requerimientos
+pip install -r requirements.txt
 
 # Correr
-"python app.py"
+python app.py
